@@ -1,8 +1,170 @@
 {
   "datestamp" : "2019-04-11",
-  "updated-datestamp" : "2019-04-11",
-  "total" : 6761,
+  "updated-datestamp" : "2019-04-25",
+  "total" : 6779,
   "addon-summary-list" : [ {
+    "uri" : "https://www.curseforge.com/wow/addons/scguildrecruiter",
+    "name" : "scguildrecruiter",
+    "label" : "GuildRecruiter",
+    "description" : "Guild Recruitment Tool",
+    "category-list" : [ "Guild" ],
+    "created-date" : "2019-04-16T17:44:58Z",
+    "updated-date" : "2019-04-24T23:41:24Z",
+    "alt-name" : "guildrecruiter"
+  }, {
+    "uri" : "https://www.curseforge.com/wow/addons/super-duper-macro",
+    "name" : "super-duper-macro",
+    "label" : "Super Duper Macro",
+    "description" : "Super Duper Macro",
+    "category-list" : [ "Action Bars" ],
+    "created-date" : "2019-04-22T06:50:49Z",
+    "updated-date" : "2019-04-24T14:17:24Z",
+    "alt-name" : "superdupermacro"
+  }, {
+    "uri" : "https://www.curseforge.com/wow/addons/had-a-pie",
+    "name" : "had-a-pie",
+    "label" : "Had a Pie",
+    "description" : "Made for the guild Had a Pie",
+    "category-list" : [ "Chat & Communication", "Miscellaneous" ],
+    "created-date" : "2019-04-20T09:57:42Z",
+    "updated-date" : "2019-04-22T19:05:21Z",
+    "alt-name" : "hadapie"
+  }, {
+    "uri" : "https://www.curseforge.com/wow/addons/quest-cinematic",
+    "name" : "quest-cinematic",
+    "label" : "Quest Cinematic",
+    "description" : "Replacement for quest frames makes the quest dialog more cinematic.",
+    "category-list" : [ "Quests & Leveling", "Artwork", "Miscellaneous", "Roleplay" ],
+    "created-date" : "2019-04-14T01:57:31Z",
+    "updated-date" : "2019-04-17T21:44:20Z",
+    "alt-name" : "questcinematic"
+  }, {
+    "uri" : "https://www.curseforge.com/wow/addons/instance-watch",
+    "name" : "instance-watch",
+    "label" : "Instance Watch",
+    "description" : "Manage Farm and Instances Runs!",
+    "category-list" : [ "Auction & Economy" ],
+    "created-date" : "2019-04-20T00:58:20Z",
+    "updated-date" : "2019-04-20T18:30:28Z",
+    "alt-name" : "instancewatch"
+  }, {
+    "uri" : "https://www.curseforge.com/wow/addons/fatigue-alert",
+    "name" : "fatigue-alert",
+    "label" : "Fatigue Alert",
+    "description" : "Play a Sound when you enter a Fatigue area with no recent user activity.",
+    "category-list" : [ "Miscellaneous" ],
+    "created-date" : "2019-04-20T00:37:28Z",
+    "updated-date" : "2019-04-20T01:11:25Z",
+    "alt-name" : "fatiguealert"
+  }, {
+    "uri" : "https://www.curseforge.com/wow/addons/tomcats-tours-noblegarden",
+    "name" : "tomcats-tours-noblegarden",
+    "label" : "Noblegarden by TomCat's Tours",
+    "description" : "Noblegarden by TomCat's Tours",
+    "category-list" : [ "Achievements", "Companions" ],
+    "created-date" : "2019-04-23T05:47:25Z",
+    "updated-date" : "2019-04-23T16:01:41Z",
+    "alt-name" : "noblegardenbytomcatstours"
+  }, {
+    "uri" : "https://www.curseforge.com/wow/addons/a-new-simple-percent",
+    "name" : "a-new-simple-percent",
+    "label" : "A New Simple Percent",
+    "description" : "A New Simple Percent",
+    "category-list" : [ "Unit Frames" ],
+    "created-date" : "2019-04-13T15:23:09Z",
+    "updated-date" : "2019-04-15T21:36:17Z",
+    "alt-name" : "anewsimplepercent"
+  }, {
+    "uri" : "https://www.curseforge.com/wow/addons/reb",
+    "name" : "reb",
+    "label" : "REB",
+    "description" : "REB",
+    "category-list" : [ "Audio & Video" ],
+    "created-date" : "2019-04-11T23:51:14Z",
+    "updated-date" : "2019-04-12T16:57:06Z",
+    "alt-name" : "reb"
+  }, {
+    "uri" : "https://www.curseforge.com/wow/addons/ctabroker",
+    "name" : "ctabroker",
+    "label" : "CTABroker",
+    "description" : "Call to Arms Broker for Bfa and Timewalking Dungeons",
+    "category-list" : [ "Boss Encounters" ],
+    "created-date" : "2019-04-11T13:23:05Z",
+    "updated-date" : "2019-04-14T20:15:24Z",
+    "alt-name" : "ctabroker"
+  }, {
+    "uri" : "https://www.curseforge.com/wow/addons/handynotes-toolsofthetrade",
+    "name" : "handynotes-toolsofthetrade",
+    "label" : "HandyNotes - Tools of the Trade",
+    "description" : "Tools of the Trade plugin for HandyNotes",
+    "category-list" : [ "Map & Minimap", "Tailoring" ],
+    "created-date" : "2019-03-30T17:34:04Z",
+    "updated-date" : "2019-04-21T16:01:25Z",
+    "alt-name" : "handynotestoolsofthetrade"
+  }, {
+    "uri" : "https://www.curseforge.com/wow/addons/fleecing-tip",
+    "name" : "fleecing-tip",
+    "label" : "Fleecing Tip",
+    "description" : "Need those obtainable items...Baa!...Stop being fleeced!",
+    "category-list" : [ "Tooltip", "Auction & Economy", "Bags & Inventory", "Companions", "Professions" ],
+    "created-date" : "2019-04-14T10:04:28Z",
+    "updated-date" : "2019-04-22T14:50:29Z",
+    "alt-name" : "fleecingtip"
+  }, {
+    "uri" : "https://www.curseforge.com/wow/addons/speedyautoloot",
+    "name" : "speedyautoloot",
+    "label" : "Speedy AutoLoot",
+    "description" : "Loot at ludicrous speed.",
+    "category-list" : [ "Bags & Inventory", "Miscellaneous", "Quests & Leveling" ],
+    "created-date" : "2018-06-02T19:01:53Z",
+    "updated-date" : "2019-04-25T12:30:48Z",
+    "alt-name" : "speedyautoloot"
+  }, {
+    "uri" : "https://www.curseforge.com/wow/addons/sir-snaginanesh-interrupt-rotation",
+    "name" : "sir-snaginanesh-interrupt-rotation",
+    "label" : "SIR - Snaginanesh Interrupt Rotation",
+    "description" : "Tool for tracking interrupts of all or specified group-members.",
+    "category-list" : [ "Combat" ],
+    "created-date" : "2019-04-07T11:53:16Z",
+    "updated-date" : "2019-04-17T21:35:25Z",
+    "alt-name" : "sirsnaginaneshinterruptrotation"
+  }, {
+    "uri" : "https://www.curseforge.com/wow/addons/adibags-prior-expansions",
+    "name" : "adibags-prior-expansions",
+    "label" : "AdiBags - Prior Expansions",
+    "description" : "Adds AdiBags filter to group gear and items from prior expansions seperately from current content",
+    "category-list" : [ "Bags & Inventory" ],
+    "created-date" : "2019-04-23T23:46:07Z",
+    "updated-date" : "2019-04-24T22:16:01Z",
+    "alt-name" : "adibagspriorexpansions"
+  }, {
+    "uri" : "https://www.curseforge.com/wow/addons/acts-functions",
+    "name" : "acts-functions",
+    "label" : "Act's Functions",
+    "description" : "Misc functions to allow for \"smart\" macroes.",
+    "category-list" : [ "Professions", "Rogue", "Enchanting", "Jewelcrafting" ],
+    "created-date" : "2019-04-14T22:00:54Z",
+    "updated-date" : "2019-04-15T16:02:14Z",
+    "alt-name" : "actsfunctions"
+  }, {
+    "uri" : "https://www.curseforge.com/wow/addons/zt_realmplayer",
+    "name" : "zt_realmplayer",
+    "label" : "ZT_RealmPlayer",
+    "description" : "Add the player's country from the wow realm server",
+    "category-list" : [ "Miscellaneous", "Tooltip" ],
+    "created-date" : "2019-04-18T07:41:28Z",
+    "updated-date" : "2019-04-18T12:29:28Z",
+    "alt-name" : "ztrealmplayer"
+  }, {
+    "uri" : "https://www.curseforge.com/wow/addons/quafe-ui",
+    "name" : "quafe-ui",
+    "label" : "Quafe UI",
+    "description" : "A special science fiction style interface replacement.",
+    "category-list" : [ "Unit Frames", "Artwork", "Map & Minimap", "HUDs" ],
+    "created-date" : "2019-04-15T20:45:30Z",
+    "updated-date" : "2019-04-25T13:05:19Z",
+    "alt-name" : "quafeui"
+  }, {
     "uri" : "https://www.curseforge.com/wow/addons/a-turtle-made-it-to-the-water",
     "name" : "a-turtle-made-it-to-the-water",
     "label" : "A Turtle Made It To The Water",
@@ -1296,7 +1458,7 @@
     "description" : "Addon for Tracking Collections & Account Completion",
     "category-list" : [ "Transmogrification", "Professions", "Boss Encounters", "Battle Pets", "Quests & Leveling" ],
     "created-date" : "2017-05-11T00:59:42Z",
-    "updated-date" : "2019-04-11T01:09:47Z",
+    "updated-date" : "2019-04-23T00:04:31Z",
     "alt-name" : "allthethings"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/all-your-base",
@@ -1530,7 +1692,7 @@
     "description" : "Displays additional information for Mythic Keystone dungeons",
     "category-list" : [ "Boss Encounters" ],
     "created-date" : "2016-09-26T13:18:17Z",
-    "updated-date" : "2019-03-14T13:22:15Z",
+    "updated-date" : "2019-04-16T14:29:24Z",
     "alt-name" : "angrykeystones"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/angry-notes",
@@ -1575,7 +1737,7 @@
     "description" : "Rearrangement of the pet battle interface.",
     "category-list" : [ "Artwork", "Companions", "Battle Pets" ],
     "created-date" : "2015-06-03T11:13:52Z",
-    "updated-date" : "2019-04-08T18:31:22Z",
+    "updated-date" : "2019-04-12T10:48:26Z",
     "alt-name" : "annene"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/announce-interrupts",
@@ -1890,7 +2052,7 @@
     "description" : "Raid frames for healers",
     "category-list" : [ "Raid Frames", "Healer", "Unit Frames" ],
     "created-date" : "2017-10-28T09:37:11Z",
-    "updated-date" : "2019-02-13T11:20:17Z",
+    "updated-date" : "2019-04-13T10:14:30Z",
     "alt-name" : "aptechka"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/aqw",
@@ -2094,10 +2256,10 @@
     "uri" : "https://www.curseforge.com/wow/addons/arena-team-tracker",
     "name" : "arena-team-tracker",
     "label" : "Arena Team Tracker",
-    "description" : "Tracks and shows all cooldowns of your party (team) members.",
+    "description" : "Track all selected cooldowns of your party members.",
     "category-list" : [ "PvP", "Buffs & Debuffs", "Combat", "Arena" ],
     "created-date" : "2018-09-12T01:03:59Z",
-    "updated-date" : "2019-04-11T00:37:26Z",
+    "updated-date" : "2019-04-24T08:44:20Z",
     "alt-name" : "arenateamtracker"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/arenaicons",
@@ -2232,7 +2394,7 @@
     "description" : "Allows you to view all items from all your characters on the same account, when-ever...",
     "category-list" : [ "Bags & Inventory" ],
     "created-date" : "2006-12-23T20:10:30Z",
-    "updated-date" : "2019-03-21T03:59:35Z",
+    "updated-date" : "2019-04-17T09:51:18Z",
     "alt-name" : "arkinventory"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/ark-inventory-profiles",
@@ -2412,7 +2574,7 @@
     "description" : "Provides an overview of equipment, stats, inventory, professions, quests, spells and more for all your...",
     "category-list" : [ "Guild", "Bags & Inventory", "Quests & Leveling", "Professions", "Tooltip" ],
     "created-date" : "2007-11-17T17:04:47Z",
-    "updated-date" : "2019-03-12T20:44:12Z",
+    "updated-date" : "2019-04-14T20:41:13Z",
     "alt-name" : "armory"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/armory-link",
@@ -2763,7 +2925,7 @@
     "description" : "Gear import/export, combat logging, and more.",
     "category-list" : [ "Data Export", "Bags & Inventory" ],
     "created-date" : "2013-01-11T02:32:43Z",
-    "updated-date" : "2019-03-13T06:03:09Z",
+    "updated-date" : "2019-04-25T01:17:21Z",
     "alt-name" : "askmrrobot"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/asmongoldbd",
@@ -3258,7 +3420,7 @@
     "description" : "AuctionMaster",
     "category-list" : [ "Auction & Economy", "Tooltip", "Bags & Inventory" ],
     "created-date" : "2008-04-20T19:34:28Z",
-    "updated-date" : "2018-09-01T15:02:20Z",
+    "updated-date" : "2019-04-13T10:38:26Z",
     "alt-name" : "auctionmaster"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/auctionsnatch",
@@ -3303,7 +3465,7 @@
     "description" : "An audio-prompt rules writer",
     "category-list" : [ "Audio & Video" ],
     "created-date" : "2019-02-16T21:47:29Z",
-    "updated-date" : "2019-04-10T15:19:24Z",
+    "updated-date" : "2019-04-15T02:33:30Z",
     "alt-name" : "audioqs"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/audiotweakswarrior",
@@ -3321,7 +3483,7 @@
     "description" : "Auditor",
     "category-list" : [ "Auction & Economy", "Data Broker" ],
     "created-date" : "2009-05-06T22:58:15Z",
-    "updated-date" : "2019-04-08T15:50:19Z",
+    "updated-date" : "2019-04-12T06:06:28Z",
     "alt-name" : "auditor"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/auditor-fan-update",
@@ -3375,7 +3537,7 @@
     "description" : "Minimalistic UI theme for World of Warcraft",
     "category-list" : [ "Artwork" ],
     "created-date" : "2017-09-24T23:00:19Z",
-    "updated-date" : "2019-03-13T15:44:16Z",
+    "updated-date" : "2019-04-14T23:44:26Z",
     "alt-name" : "aurora"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/auto-accept-invite",
@@ -3636,7 +3798,7 @@
     "description" : "Automatically enables or disables combat logging based on location.",
     "category-list" : [ "Combat", "Plugins" ],
     "created-date" : "2010-08-05T05:09:30Z",
-    "updated-date" : "2019-03-01T06:51:12Z",
+    "updated-date" : "2019-04-16T15:25:26Z",
     "alt-name" : "autocombatlogger"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/autoconfirmmerchanttrade",
@@ -3807,7 +3969,7 @@
     "description" : "Auto turn on/off combat logging based on raid instances",
     "category-list" : [ "Data Export", "Boss Encounters", "Combat" ],
     "created-date" : "2009-05-03T23:51:01Z",
-    "updated-date" : "2019-02-12T12:21:46Z",
+    "updated-date" : "2019-04-17T20:56:42Z",
     "alt-name" : "autolog"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/autoloot-07000",
@@ -4257,7 +4419,7 @@
     "description" : "Full custom immersive user interface for Battle for Azeroth, aimed towards immersion and a more...",
     "category-list" : [ "Unit Frames", "Action Bars", "Map & Minimap", "Quests & Leveling", "Artwork" ],
     "created-date" : "2018-07-20T16:06:59Z",
-    "updated-date" : "2019-04-06T16:42:41Z",
+    "updated-date" : "2019-04-24T13:17:40Z",
     "alt-name" : "azeriteui"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/azeroth-adventure-album",
@@ -4266,7 +4428,7 @@
     "description" : "Collect and review lores and photos from all across Azeroth",
     "category-list" : [ "Minigames", "Achievements", "Artwork", "Miscellaneous" ],
     "created-date" : "2018-08-13T13:52:50Z",
-    "updated-date" : "2018-12-23T03:09:39Z",
+    "updated-date" : "2019-04-20T02:21:27Z",
     "alt-name" : "azerothadventurealbum"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/azeroth-at-war-achievments",
@@ -4293,7 +4455,7 @@
     "description" : "Speed leveling addon for World of Warcraft, level 20-120, it tells you what to do...",
     "category-list" : [ "Quests & Leveling" ],
     "created-date" : "2017-11-07T20:24:43Z",
-    "updated-date" : "2019-03-17T19:11:17Z",
+    "updated-date" : "2019-04-20T21:52:23Z",
     "alt-name" : "azerothautopilot"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/bab",
@@ -5724,7 +5886,7 @@
     "description" : "Shows rank of dungeon/classes/specs/compositions",
     "category-list" : [ "Tooltip" ],
     "created-date" : "2019-02-07T09:48:10Z",
-    "updated-date" : "2019-04-10T13:01:15Z",
+    "updated-date" : "2019-04-25T13:00:28Z",
     "alt-name" : "bestkeystone"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/bestride-mm",
@@ -5841,7 +6003,7 @@
     "description" : "Enhances the default AddOns list.",
     "category-list" : [ "Miscellaneous" ],
     "created-date" : "2014-11-16T04:13:20Z",
-    "updated-date" : "2018-07-17T15:45:19Z",
+    "updated-date" : "2019-04-14T10:07:45Z",
     "alt-name" : "betteraddonlist"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/betterbattlepettooltip",
@@ -5877,7 +6039,7 @@
     "description" : "Fancy up the ExtraActionButton frame",
     "category-list" : [ "Boss Encounters", "Action Bars" ],
     "created-date" : "2011-12-02T17:32:11Z",
-    "updated-date" : "2018-07-17T16:30:13Z",
+    "updated-date" : "2019-04-14T10:05:28Z",
     "alt-name" : "betterextraactionbutton"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/betterfont",
@@ -5904,7 +6066,7 @@
     "description" : "Fancy up the PlayerPowerBarAlt frame",
     "category-list" : [ "Boss Encounters" ],
     "created-date" : "2011-01-14T11:09:07Z",
-    "updated-date" : "2018-07-17T16:53:11Z",
+    "updated-date" : "2019-04-14T10:07:30Z",
     "alt-name" : "betterpowerbaralt"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/betterreputationcolors",
@@ -6003,7 +6165,7 @@
     "description" : "Call out for Battlegrounds",
     "category-list" : [ "PvP", "Battleground" ],
     "created-date" : "2014-09-23T20:15:16Z",
-    "updated-date" : "2018-12-14T19:59:09Z",
+    "updated-date" : "2019-04-23T22:35:21Z",
     "alt-name" : "bgcallouts"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/bgframes",
@@ -6147,7 +6309,7 @@
     "description" : "Modular, lightweight, non-intrusive approach to boss encounter warnings. The efficiently coded alternative to Deadly Boss...",
     "category-list" : [ "Boss Encounters", "Combat" ],
     "created-date" : "2008-03-26T02:56:51Z",
-    "updated-date" : "2019-04-02T03:53:39Z",
+    "updated-date" : "2019-04-23T03:23:29Z",
     "alt-name" : "bigwigsbossmods"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/big-wigs_common-auras",
@@ -6291,7 +6453,7 @@
     "description" : "A Chinese female voice pack for Bigwigs",
     "category-list" : [ "Boss Encounters", "Artwork", "Audio & Video" ],
     "created-date" : "2018-10-20T04:20:17Z",
-    "updated-date" : "2019-02-27T06:23:26Z",
+    "updated-date" : "2019-04-21T09:13:39Z",
     "alt-name" : "bigwigsvoicechinesevoicepackvv"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/bigwigs-voice-japanese",
@@ -6354,7 +6516,7 @@
     "description" : "BigWigs_Countdown_HeroesOfTheStorm",
     "category-list" : [ "Boss Encounters" ],
     "created-date" : "2015-02-20T03:39:22Z",
-    "updated-date" : "2019-03-18T21:41:37Z",
+    "updated-date" : "2019-04-24T05:43:07Z",
     "alt-name" : "bigwigscountdownheroesofthestorm"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/bigwigs_countdown_overwatch",
@@ -6453,7 +6615,7 @@
     "description" : "BigWigs_Transcriptor",
     "category-list" : [ "Boss Encounters" ],
     "created-date" : "2013-03-08T06:16:14Z",
-    "updated-date" : "2018-09-09T03:38:05Z",
+    "updated-date" : "2019-04-14T10:18:27Z",
     "alt-name" : "bigwigstranscriptor"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/bigwigs_voice",
@@ -6462,7 +6624,7 @@
     "description" : "Voice files for warnings.",
     "category-list" : [ "Audio & Video", "Boss Encounters", "Plugins" ],
     "created-date" : "2014-12-06T01:18:12Z",
-    "updated-date" : "2019-02-24T21:17:44Z",
+    "updated-date" : "2019-04-17T18:51:47Z",
     "alt-name" : "bigwigsvoice"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/bigwigs_voice_ru",
@@ -6909,10 +7071,10 @@
     "uri" : "https://www.curseforge.com/wow/addons/blockspam",
     "name" : "blockspam",
     "label" : "BlockSpam",
-    "description" : "There's too much and too fast spam message in channel, block it and use BlockSpam.",
+    "description" : "There's too many repeat spam messages or emote in channel. Annoy and bother us. BlockSpam...",
     "category-list" : [ "Chat & Communication" ],
     "created-date" : "2019-03-23T04:09:11Z",
-    "updated-date" : "2019-04-09T17:03:27Z",
+    "updated-date" : "2019-04-12T17:49:25Z",
     "alt-name" : "blockspam"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/blong",
@@ -7299,7 +7461,7 @@
     "description" : "Addon to help raid boosters take attendance ",
     "category-list" : [ "Miscellaneous" ],
     "created-date" : "2019-02-27T07:48:59Z",
-    "updated-date" : "2019-02-27T16:14:51Z",
+    "updated-date" : "2019-04-23T16:13:33Z",
     "alt-name" : "boosthelper"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/booty-bay-dkp",
@@ -8721,7 +8883,7 @@
     "description" : "A quest journal that shows your progress within quest chains",
     "category-list" : [ "Quests & Leveling" ],
     "created-date" : "2017-10-21T17:37:13Z",
-    "updated-date" : "2019-03-21T14:39:20Z",
+    "updated-date" : "2019-04-14T22:01:19Z",
     "alt-name" : "btwquests"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/btw-quests-battle-for-azeroth-prologue",
@@ -8739,7 +8901,7 @@
     "description" : "Classic data for BtWQuests",
     "category-list" : [ "Libraries", "Quests & Leveling" ],
     "created-date" : "2018-07-03T23:54:14Z",
-    "updated-date" : "2018-12-22T22:00:31Z",
+    "updated-date" : "2019-04-15T08:36:41Z",
     "alt-name" : "btwquestsclassic"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/btw-quests-legion",
@@ -8865,7 +9027,7 @@
     "description" : "Buffwatch++",
     "category-list" : [ "Buffs & Debuffs" ],
     "created-date" : "2005-08-25T04:39:55Z",
-    "updated-date" : "2019-04-04T11:27:59Z",
+    "updated-date" : "2019-04-11T19:18:23Z",
     "alt-name" : "buffwatch++"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/buffy",
@@ -8874,7 +9036,7 @@
     "description" : "Buffy",
     "category-list" : [ "Buffs & Debuffs", "Combat", "Class", "Data Broker" ],
     "created-date" : "2015-03-28T11:34:45Z",
-    "updated-date" : "2019-01-23T20:45:41Z",
+    "updated-date" : "2019-04-18T15:13:24Z",
     "alt-name" : "buffy"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/bug-grabber",
@@ -9000,7 +9162,7 @@
     "description" : "Restores your DND message when returning from AFK.",
     "category-list" : [ "Miscellaneous" ],
     "created-date" : "2013-09-06T05:07:06Z",
-    "updated-date" : "2015-03-21T00:32:50Z",
+    "updated-date" : "2019-04-14T04:28:28Z",
     "alt-name" : "busyandaway"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/butterfly",
@@ -9495,7 +9657,7 @@
     "description" : "Battleground timers and other PvP & arena features. The efficiently coded alternative to Deadly Boss...",
     "category-list" : [ "PvP", "Arena", "Battleground", "Combat" ],
     "created-date" : "2009-07-24T10:20:56Z",
-    "updated-date" : "2019-03-20T22:18:33Z",
+    "updated-date" : "2019-04-25T00:21:30Z",
     "alt-name" : "cappingbattlegroundtimers"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/captainslog",
@@ -9756,7 +9918,7 @@
     "description" : "Creates a fake raid warning when certain special fishing items are caught.",
     "category-list" : [ "Fishing", "Chat & Communication", "Miscellaneous", "Professions" ],
     "created-date" : "2018-08-30T03:56:27Z",
-    "updated-date" : "2019-04-02T04:10:30Z",
+    "updated-date" : "2019-04-13T06:33:27Z",
     "alt-name" : "catchandrelease"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/catchthewind",
@@ -10926,7 +11088,7 @@
     "description" : "Displays classes and specialisation dependent stat priorities provided by icy-veins.com",
     "category-list" : [ "Miscellaneous" ],
     "created-date" : "2016-10-28T15:00:11Z",
-    "updated-date" : "2019-03-14T18:24:15Z",
+    "updated-date" : "2019-04-23T17:27:46Z",
     "alt-name" : "classspecstats"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/classtimer",
@@ -11277,7 +11439,7 @@
     "description" : "A collection of useful tweaks.",
     "category-list" : [ "Bags & Inventory", "Quests & Leveling", "Combat" ],
     "created-date" : "2013-02-10T05:20:32Z",
-    "updated-date" : "2017-07-09T06:35:41Z",
+    "updated-date" : "2019-04-17T15:34:20Z",
     "alt-name" : "cloudytweaks"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/cloudy-unit-info",
@@ -11529,7 +11691,7 @@
     "description" : "Keep track of time spent in combat.",
     "category-list" : [ "Combat" ],
     "created-date" : "2018-10-16T21:30:05Z",
-    "updated-date" : "2019-03-20T14:50:59Z",
+    "updated-date" : "2019-04-15T00:28:23Z",
     "alt-name" : "combattimetracker"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/combat-timer",
@@ -11907,7 +12069,7 @@
     "description" : "A combat rotation AddOn assistant.",
     "category-list" : [ "Action Bars", "Buffs & Debuffs", "Class", "PvP" ],
     "created-date" : "2016-12-08T10:17:19Z",
-    "updated-date" : "2019-01-20T21:22:54Z",
+    "updated-date" : "2019-04-25T05:14:23Z",
     "alt-name" : "conditioner"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/confirmleaveparty",
@@ -12015,7 +12177,7 @@
     "description" : "Paladin ability rotation aid, class module.",
     "category-list" : [ "Paladin", "Action Bars", "Boss Encounters", "Combat", "Quests & Leveling" ],
     "created-date" : "2018-09-15T07:12:28Z",
-    "updated-date" : "2019-03-22T21:58:23Z",
+    "updated-date" : "2019-04-14T19:17:29Z",
     "alt-name" : "conropaladin"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/conro-priest",
@@ -12024,7 +12186,7 @@
     "description" : "Priest ability rotation aid, class module.",
     "category-list" : [ "Priest", "Action Bars", "Boss Encounters", "Combat", "Quests & Leveling" ],
     "created-date" : "2018-09-15T07:14:37Z",
-    "updated-date" : "2019-03-22T22:10:27Z",
+    "updated-date" : "2019-04-14T18:11:27Z",
     "alt-name" : "conropriest"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/conro-rogue",
@@ -12888,7 +13050,7 @@
     "description" : "Core addon for doing basic and popular things in an intuitive way.",
     "category-list" : [ "Buffs & Debuffs", "Map & Minimap", "Mail", "Unit Frames", "Action Bars" ],
     "created-date" : "2014-01-16T22:56:58Z",
-    "updated-date" : "2019-01-12T01:18:14Z",
+    "updated-date" : "2019-04-12T23:34:53Z",
     "alt-name" : "ctmod"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/ctra-tank-assist-v2-4-0",
@@ -13149,7 +13311,7 @@
     "description" : "This will make you write less in chat.",
     "category-list" : [ "Quests & Leveling", "Chat & Communication" ],
     "created-date" : "2019-03-31T00:25:53Z",
-    "updated-date" : "2019-04-10T12:22:23Z",
+    "updated-date" : "2019-04-24T17:56:12Z",
     "alt-name" : "d4hp"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/d4hud",
@@ -13158,7 +13320,7 @@
     "description" : "Clean HUD",
     "category-list" : [ "Action Bars", "Artwork", "Map & Minimap", "HUDs" ],
     "created-date" : "2019-03-25T23:44:19Z",
-    "updated-date" : "2019-04-09T13:23:24Z",
+    "updated-date" : "2019-04-24T17:54:27Z",
     "alt-name" : "d4hud"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/daftauction",
@@ -13419,7 +13581,7 @@
     "description" : "Daily quest and PvP items direct to your actionbar",
     "category-list" : [ "PvP", "Bags & Inventory", "Quests & Leveling" ],
     "created-date" : "2010-06-10T18:19:51Z",
-    "updated-date" : "2013-11-06T10:01:00Z",
+    "updated-date" : "2019-04-15T10:27:29Z",
     "alt-name" : "dailyitems"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/dailyquesthelper",
@@ -13964,12 +14126,12 @@
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/dbm-archaeology",
     "name" : "dbm-archaeology",
-    "label" : "DBM-Archaeology",
+    "label" : "Deadly Boss Mods (DBM) - Archaeology",
     "description" : "Brings the old gods right to your dig site to give archaeology a more epic...",
     "category-list" : [ "Boss Encounters", "Roleplay", "Plugins", "Archaeology" ],
     "created-date" : "2011-03-29T19:46:00Z",
-    "updated-date" : "2018-12-14T05:18:39Z",
-    "alt-name" : "dbmarchaeology"
+    "updated-date" : "2019-04-17T01:08:33Z",
+    "alt-name" : "deadlybossmodsdbmarchaeology"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/dbm-battlefield-barrens",
     "name" : "dbm-battlefield-barrens",
@@ -13986,7 +14148,7 @@
     "description" : "Deadly Boss Mods (DBM) - BC & Vanilla/Classic mods",
     "category-list" : [ "Boss Encounters", "Combat" ],
     "created-date" : "2008-11-17T23:35:36Z",
-    "updated-date" : "2019-02-24T04:41:20Z",
+    "updated-date" : "2019-04-17T01:43:55Z",
     "alt-name" : "deadlybossmodsdbmbcvanillaclassicmods"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/dbm-bookshelf",
@@ -14009,11 +14171,11 @@
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/dbm-challenges",
     "name" : "dbm-challenges",
-    "label" : "Deadly Boss Mods (DBM): Challenges",
+    "label" : "Deadly Boss Mods (DBM) - Challenges",
     "description" : "This mod will add support for singe player challenges such as Proving Grounds $ Legion...",
     "category-list" : [ "Boss Encounters", "Combat", "Healer", "Tank", "Damage Dealer" ],
     "created-date" : "2013-07-15T23:50:38Z",
-    "updated-date" : "2018-12-14T05:11:57Z",
+    "updated-date" : "2019-04-17T01:09:31Z",
     "alt-name" : "deadlybossmodsdbmchallenges"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/dbm-countdown-pack-mario-kart",
@@ -14117,12 +14279,12 @@
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/dbm-timeless-isle",
     "name" : "dbm-timeless-isle",
-    "label" : "DBM: Timeless Isle",
+    "label" : "Deadly Boss Mods (DBM) - Timeless Isle",
     "description" : "This mod adds support for Timeless Isle to Deadly Boss Mods (DBM).",
     "category-list" : [ "Quests & Leveling", "Boss Encounters", "Combat" ],
     "created-date" : "2014-08-25T20:00:06Z",
-    "updated-date" : "2018-12-14T05:14:13Z",
-    "alt-name" : "dbmtimelessisle"
+    "updated-date" : "2019-04-17T01:09:29Z",
+    "alt-name" : "deadlybossmodsdbmtimelessisle"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/dbm-victorysounds",
     "name" : "dbm-victorysounds",
@@ -14202,7 +14364,7 @@
     "description" : "Chinese Recorded Female Voice Pack",
     "category-list" : [ "Chat & Communication", "Boss Encounters", "Combat" ],
     "created-date" : "2015-05-30T04:41:16Z",
-    "updated-date" : "2018-09-25T16:56:24Z",
+    "updated-date" : "2019-04-16T12:32:31Z",
     "alt-name" : "dbmvoicepackxfchinesefemale"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/dbm-voicepack-carebear",
@@ -14481,7 +14643,7 @@
     "description" : "The ultimate encounter helper to give you fight info that's easy to process at a...",
     "category-list" : [ "PvP", "Boss Encounters", "Combat" ],
     "created-date" : "2008-04-29T12:50:26Z",
-    "updated-date" : "2019-04-04T01:01:36Z",
+    "updated-date" : "2019-04-24T20:03:09Z",
     "alt-name" : "deadlybossmodsdbm"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/deadly-boss-mods-cataclysm-mods",
@@ -14490,7 +14652,7 @@
     "description" : "Boss Mods for all Cataclysm Dungeons",
     "category-list" : [ "Boss Encounters" ],
     "created-date" : "2012-08-28T15:43:10Z",
-    "updated-date" : "2019-02-24T04:40:12Z",
+    "updated-date" : "2019-04-17T01:43:02Z",
     "alt-name" : "deadlybossmodsdbmcataclysmmods"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/deadly-boss-mods-dbm-dungeons",
@@ -14499,12 +14661,12 @@
     "description" : "This mod will add support for 5 player dungeons from Classic to Legion",
     "category-list" : [ "Boss Encounters", "Combat", "Quests & Leveling" ],
     "created-date" : "2019-02-19T19:22:38Z",
-    "updated-date" : "2019-03-18T20:46:23Z",
+    "updated-date" : "2019-04-18T02:25:38Z",
     "alt-name" : "deadlybossmodsdbmolddungeonmods"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/deadly-boss-mods-dbm-event-sound-pack",
     "name" : "deadly-boss-mods-dbm-event-sound-pack",
-    "label" : "Deadly Boss Mods (DBM) Event Pack",
+    "label" : "Deadly Boss Mods (DBM) - Event Pack",
     "description" : "Several media files for DBM encounter Event feature.",
     "category-list" : [ "Boss Encounters", "Audio & Video" ],
     "created-date" : "2018-03-01T18:48:30Z",
@@ -14535,7 +14697,7 @@
     "description" : "DBM modules for Legion content",
     "category-list" : [ "Boss Encounters" ],
     "created-date" : "2018-08-21T08:27:14Z",
-    "updated-date" : "2019-02-24T04:37:11Z",
+    "updated-date" : "2019-04-17T01:44:00Z",
     "alt-name" : "deadlybossmodsdbmlegion"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/deadly-boss-mods-dbm-overwatch-countdown-pack",
@@ -14549,7 +14711,7 @@
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/deadly-boss-mods-dbm-smoothmcgroove-event-pack",
     "name" : "deadly-boss-mods-dbm-smoothmcgroove-event-pack",
-    "label" : "Deadly Boss Mods (DBM) SmoothMcGroove Event Pack",
+    "label" : "Deadly Boss Mods (DBM) - SmoothMcGroove Event Pack",
     "description" : "Several media files for DBM encounter Event feature.",
     "category-list" : [ "Boss Encounters", "Audio & Video" ],
     "created-date" : "2018-03-06T22:33:30Z",
@@ -14562,7 +14724,7 @@
     "description" : "DBM modules for Mists of Pandaria content",
     "category-list" : [ "Boss Encounters", "Combat" ],
     "created-date" : "2014-10-12T19:16:00Z",
-    "updated-date" : "2019-02-24T04:39:27Z",
+    "updated-date" : "2019-04-17T16:43:25Z",
     "alt-name" : "deadlybossmodsdbmmistsofpandariamopmods"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/deadly-boss-mods-wod",
@@ -14571,7 +14733,7 @@
     "description" : "DBM modules for Warlords of Draenor content",
     "category-list" : [ "Boss Encounters", "Combat", "Garrison" ],
     "created-date" : "2016-08-25T08:38:14Z",
-    "updated-date" : "2019-02-24T04:38:10Z",
+    "updated-date" : "2019-04-17T01:43:58Z",
     "alt-name" : "deadlybossmodsdbmwarlordsofdraenorwodmods"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/deadly-boss-mods-wotlk",
@@ -14580,7 +14742,7 @@
     "description" : "DBM modules for WotLK dungeons/raids",
     "category-list" : [ "Boss Encounters" ],
     "created-date" : "2012-08-28T15:41:08Z",
-    "updated-date" : "2019-02-24T04:41:18Z",
+    "updated-date" : "2019-04-17T01:43:53Z",
     "alt-name" : "deadlybossmodsdbmwrathofthelichkingmods"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/deadlyslackers",
@@ -14913,7 +15075,7 @@
     "description" : "A collection of miscellaneous, useful utilities",
     "category-list" : [ "Miscellaneous", "Action Bars", "Bags & Inventory" ],
     "created-date" : "2018-03-05T22:44:08Z",
-    "updated-date" : "2019-03-30T17:36:26Z",
+    "updated-date" : "2019-04-15T23:06:24Z",
     "alt-name" : "defstoolbox"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/defs-vendor-and-junk-service",
@@ -15084,7 +15246,7 @@
     "description" : "Customizable junk selling and destroying.",
     "category-list" : [ "Bags & Inventory", "Miscellaneous" ],
     "created-date" : "2017-01-21T08:43:23Z",
-    "updated-date" : "2019-03-22T08:56:48Z",
+    "updated-date" : "2019-04-12T01:46:23Z",
     "alt-name" : "dejunk"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/deleteforme",
@@ -15219,7 +15381,7 @@
     "description" : "Complete combat analysis, gathering damage, healing, and other importante stuff.",
     "category-list" : [ "PvP", "Boss Encounters", "Combat" ],
     "created-date" : "2013-07-10T17:56:21Z",
-    "updated-date" : "2019-04-10T21:44:29Z",
+    "updated-date" : "2019-04-23T18:17:02Z",
     "alt-name" : "detailsdamagemeter"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/details-advanced-death-logs-plug",
@@ -15237,7 +15399,7 @@
     "description" : "Plugin for Details",
     "category-list" : [ "PvP", "Boss Encounters", "Combat", "HUDs", "Battleground" ],
     "created-date" : "2014-05-07T19:49:43Z",
-    "updated-date" : "2018-12-31T13:14:17Z",
+    "updated-date" : "2019-04-11T15:40:37Z",
     "alt-name" : "detailschartviewerplugin"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/details-combined",
@@ -15426,7 +15588,7 @@
     "description" : "A full UI in a single addon, meant to mimic the feeling of Diablo III.",
     "category-list" : [ "Artwork", "Unit Frames", "Action Bars", "Map & Minimap", "Quests & Leveling" ],
     "created-date" : "2016-06-22T01:57:44Z",
-    "updated-date" : "2019-03-20T11:34:10Z",
+    "updated-date" : "2019-04-12T06:39:37Z",
     "alt-name" : "diabolicui"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/dialogkey",
@@ -15633,7 +15795,7 @@
     "description" : "This shows Disc specific information about Azerite items",
     "category-list" : [ "Priest" ],
     "created-date" : "2018-10-28T12:43:20Z",
-    "updated-date" : "2019-03-24T20:27:25Z",
+    "updated-date" : "2019-04-23T18:58:20Z",
     "alt-name" : "discazeritearmor"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/discord-emoji",
@@ -16200,7 +16362,7 @@
     "description" : "List of abilties that have diminishing returns and its categories.",
     "category-list" : [ "Libraries" ],
     "created-date" : "2019-02-24T17:13:45Z",
-    "updated-date" : "2019-03-12T10:37:05Z",
+    "updated-date" : "2019-04-16T16:15:41Z",
     "alt-name" : "drlist10diminishingreturnsdata"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/droodfocus",
@@ -16380,7 +16542,7 @@
     "description" : "Questing and Gearing Addon",
     "category-list" : [ "Map & Minimap", "Quests & Leveling", "Combat", "Class" ],
     "created-date" : "2011-12-01T18:57:17Z",
-    "updated-date" : "2019-03-19T03:40:28Z",
+    "updated-date" : "2019-04-14T03:24:00Z",
     "alt-name" : "dugiquestingessential"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/dugi-workshop",
@@ -17829,7 +17991,7 @@
     "description" : "KlixUI is an external mod for ElvUI. Adding different frame styles, interchangeable actionsbars, new textures...",
     "category-list" : [ "Unit Frames", "Action Bars", "Artwork", "Buffs & Debuffs", "Miscellaneous" ],
     "created-date" : "2018-03-19T18:01:19Z",
-    "updated-date" : "2019-04-08T14:50:05Z",
+    "updated-date" : "2019-04-23T19:51:38Z",
     "alt-name" : "elvuiklixui"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/elvui_livvenui",
@@ -17838,7 +18000,7 @@
     "description" : "For ElvUI",
     "category-list" : [ "Plugins" ],
     "created-date" : "2019-03-22T05:22:54Z",
-    "updated-date" : "2019-04-08T11:02:32Z",
+    "updated-date" : "2019-04-22T17:46:30Z",
     "alt-name" : "elvuilivvenui"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/elvui_lootoptions",
@@ -18000,7 +18162,7 @@
     "description" : "Enhanced features for ElvUI.",
     "category-list" : [ "Plugins" ],
     "created-date" : "2018-08-09T03:52:29Z",
-    "updated-date" : "2019-03-29T19:01:51Z",
+    "updated-date" : "2019-04-17T06:08:02Z",
     "alt-name" : "elvuiwindtools"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/ema-ebonys-multiboxing-assistant",
@@ -18009,7 +18171,7 @@
     "description" : "EMA - Ebony's Multiboxing Assistant",
     "category-list" : [ "Miscellaneous" ],
     "created-date" : "2018-08-17T17:02:17Z",
-    "updated-date" : "2018-12-12T21:22:13Z",
+    "updated-date" : "2019-04-16T19:47:32Z",
     "alt-name" : "emaebonysmultiboxingassistant"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/embedhandler",
@@ -18135,7 +18297,7 @@
     "description" : "A compilation of Endless-Kazzak raid tools",
     "category-list" : [ "Boss Encounters" ],
     "created-date" : "2017-03-29T17:47:46Z",
-    "updated-date" : "2019-03-26T23:45:23Z",
+    "updated-date" : "2019-04-24T23:50:30Z",
     "alt-name" : "endlessraidtools"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/endure-boss-checker",
@@ -19053,7 +19215,7 @@
     "description" : "Increases the size of the vendor interface and adds search, filtering, and quick vendor features",
     "category-list" : [ "Auction & Economy" ],
     "created-date" : "2012-08-24T04:43:40Z",
-    "updated-date" : "2018-09-22T01:57:00Z",
+    "updated-date" : "2019-04-12T10:11:21Z",
     "alt-name" : "extendedvendorui"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/extra-action-button-mover",
@@ -19260,7 +19422,7 @@
     "description" : "Makes DBM think you have DBM installed",
     "category-list" : [ "Boss Encounters" ],
     "created-date" : "2018-11-06T16:06:39Z",
-    "updated-date" : "2019-04-04T14:50:25Z",
+    "updated-date" : "2019-04-24T15:00:47Z",
     "alt-name" : "fakedbm"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/fambags",
@@ -19368,7 +19530,7 @@
     "description" : "Shows info on your loot on screen, so you dont need to pause your farming!",
     "category-list" : [ "Auction & Economy", "Bags & Inventory", "Professions", "Quests & Leveling" ],
     "created-date" : "2017-12-03T15:17:35Z",
-    "updated-date" : "2019-03-19T19:39:31Z",
+    "updated-date" : "2019-04-21T13:44:10Z",
     "alt-name" : "farmer"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/farmhand",
@@ -20655,7 +20817,7 @@
     "description" : "A light World of Warcraft addon to share your saved instance to others.",
     "category-list" : [ "Miscellaneous" ],
     "created-date" : "2019-04-09T01:21:01Z",
-    "updated-date" : "2019-04-10T03:01:32Z",
+    "updated-date" : "2019-04-14T17:33:12Z",
     "alt-name" : "freeinstancesharer"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/free-refills",
@@ -21933,7 +22095,7 @@
     "description" : "GladiatorlosSA2's Korean Voice set",
     "category-list" : [ "Audio & Video", "Combat", "PvP", "Arena", "Battleground" ],
     "created-date" : "2018-12-03T06:22:15Z",
-    "updated-date" : "2019-01-21T00:44:29Z",
+    "updated-date" : "2019-04-17T23:52:42Z",
     "alt-name" : "gladiatorlossa2dmci"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/gladiatorlossa2_zhcn_female-taotao",
@@ -23157,7 +23319,7 @@
     "description" : "Complete Debuff List Up To Legion",
     "category-list" : [ "Buffs & Debuffs" ],
     "created-date" : "2014-08-12T10:34:23Z",
-    "updated-date" : "2018-12-15T02:22:14Z",
+    "updated-date" : "2019-04-18T03:04:16Z",
     "alt-name" : "gridstatusdungeondebuff"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/gridstatusdungeonrole",
@@ -23265,7 +23427,7 @@
     "description" : "GridStatusRaidDebuff debuffs for Battle for Azeroth",
     "category-list" : [ "Boss Encounters", "Buffs & Debuffs", "Healer", "Unit Frames", "Raid Frames" ],
     "created-date" : "2018-08-10T00:19:59Z",
-    "updated-date" : "2019-01-28T07:20:12Z",
+    "updated-date" : "2019-04-16T21:45:36Z",
     "alt-name" : "gridstatusrdbfa"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/gridstatusrd_cata",
@@ -23670,7 +23832,7 @@
     "description" : "GTFO warns you when you're standing in fire or other bad stuff.",
     "category-list" : [ "Boss Encounters", "Combat" ],
     "created-date" : "2009-09-06T21:40:42Z",
-    "updated-date" : "2019-02-03T06:53:30Z",
+    "updated-date" : "2019-04-16T23:57:51Z",
     "alt-name" : "gtfo"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/guarmassist",
@@ -23715,7 +23877,7 @@
     "description" : "Creates snapshots of guild bank logs.",
     "category-list" : [ "Guild", "Bags & Inventory" ],
     "created-date" : "2014-07-08T04:47:46Z",
-    "updated-date" : "2019-01-25T06:05:12Z",
+    "updated-date" : "2019-04-16T03:10:24Z",
     "alt-name" : "guildbanksnapshots"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/guild-bounty-hunter",
@@ -23850,7 +24012,7 @@
     "description" : "Keeps track of raid loot and attendance for guild.",
     "category-list" : [ "Guild" ],
     "created-date" : "2016-11-04T02:24:08Z",
-    "updated-date" : "2019-03-10T22:01:57Z",
+    "updated-date" : "2019-04-21T17:25:30Z",
     "alt-name" : "guildraidattendance"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/guild-recruitment",
@@ -23877,7 +24039,7 @@
     "description" : "Syncable Alt/Main management, Roster changes, rank history, and many other useful features.",
     "category-list" : [ "Guild" ],
     "created-date" : "2017-06-11T21:53:42Z",
-    "updated-date" : "2019-03-17T07:41:17Z",
+    "updated-date" : "2019-04-20T01:58:29Z",
     "alt-name" : "guildrostermanager"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/guild-search",
@@ -25173,7 +25335,7 @@
     "description" : "HealBot Continued",
     "category-list" : [ "Unit Frames", "Healer" ],
     "created-date" : "2006-08-29T19:22:08Z",
-    "updated-date" : "2019-03-30T10:31:39Z",
+    "updated-date" : "2019-04-20T11:59:34Z",
     "alt-name" : "healbotcontinued"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/heal-organizer",
@@ -25389,7 +25551,7 @@
     "description" : "Priority Helper for most DPS/tank specializations.",
     "category-list" : [ "Combat", "Class", "Damage Dealer", "Tank" ],
     "created-date" : "2013-11-19T01:11:54Z",
-    "updated-date" : "2019-04-05T16:02:59Z",
+    "updated-date" : "2019-04-23T01:01:17Z",
     "alt-name" : "hekili"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/hellbender-dkp",
@@ -26064,7 +26226,7 @@
     "description" : "Keeps track of mana spent towards High Tide for Restoration Shaman.",
     "category-list" : [ "Shaman" ],
     "created-date" : "2018-12-16T19:37:05Z",
-    "updated-date" : "2018-12-31T20:21:16Z",
+    "updated-date" : "2019-04-17T18:33:41Z",
     "alt-name" : "hightidemanatracker"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/higher-hotkey",
@@ -26739,7 +26901,7 @@
     "description" : "Ironi's Encounter Event Tracker",
     "category-list" : [ "Boss Encounters", "Development Tools" ],
     "created-date" : "2016-04-28T18:13:43Z",
-    "updated-date" : "2019-02-01T16:49:08Z",
+    "updated-date" : "2019-04-17T01:55:20Z",
     "alt-name" : "iencountereventtracker"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/ifarm",
@@ -26838,7 +27000,7 @@
     "description" : "Learning Addon Programming",
     "category-list" : [ "Audio & Video", "Miscellaneous" ],
     "created-date" : "2018-07-28T03:32:22Z",
-    "updated-date" : "2018-11-01T04:07:53Z",
+    "updated-date" : "2019-04-14T17:35:28Z",
     "alt-name" : "hitekninjasfunandutility"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/iguard",
@@ -26883,7 +27045,7 @@
     "description" : "Tracks your keystones",
     "category-list" : [ "Miscellaneous" ],
     "created-date" : "2016-11-15T03:20:16Z",
-    "updated-date" : "2019-02-08T02:50:14Z",
+    "updated-date" : "2019-04-17T01:54:25Z",
     "alt-name" : "ikeystones"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/ikicked",
@@ -27378,7 +27540,7 @@
     "description" : "Track the completion and failure of achievements in raids and dungeons",
     "category-list" : [ "Achievements", "Boss Encounters", "Combat" ],
     "created-date" : "2018-02-02T20:38:39Z",
-    "updated-date" : "2019-04-05T20:21:34Z",
+    "updated-date" : "2019-04-22T21:09:44Z",
     "alt-name" : "instanceachievementtracker"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/instance-durability",
@@ -27405,7 +27567,7 @@
     "description" : "Add dungeon/raid instance portal locations to the world map",
     "category-list" : [ "Map & Minimap", "Boss Encounters" ],
     "created-date" : "2016-05-30T07:58:25Z",
-    "updated-date" : "2019-03-13T02:45:07Z",
+    "updated-date" : "2019-04-15T15:13:19Z",
     "alt-name" : "instanceportals"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/instance-profit-tracker",
@@ -28665,7 +28827,7 @@
     "description" : "Improved Blizzard Objective Tracker",
     "category-list" : [ "Bags & Inventory", "Map & Minimap", "Quests & Leveling", "Achievements" ],
     "created-date" : "2014-12-21T01:27:53Z",
-    "updated-date" : "2018-12-12T22:44:13Z",
+    "updated-date" : "2019-04-22T12:24:36Z",
     "alt-name" : "kalielstracker"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/kals-autopetsummoner",
@@ -29403,7 +29565,7 @@
     "description" : "KkthnxUI is a simplistic user interface that holds onto the information and functionality.",
     "category-list" : [ "Chat & Communication", "PvP", "Artwork", "Unit Frames", "Action Bars" ],
     "created-date" : "2015-10-11T01:14:54Z",
-    "updated-date" : "2019-03-17T11:45:56Z",
+    "updated-date" : "2019-04-22T09:44:02Z",
     "alt-name" : "kkthnxui"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/klaxxitargets",
@@ -29583,7 +29745,7 @@
     "description" : "Prettier nameplates.",
     "category-list" : [ "PvP", "Unit Frames", "Combat", "Tank", "Damage Dealer" ],
     "created-date" : "2011-12-25T17:31:49Z",
-    "updated-date" : "2019-04-10T16:26:44Z",
+    "updated-date" : "2019-04-11T18:07:06Z",
     "alt-name" : "kuinameplates"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/kuinameplates-borders",
@@ -29664,7 +29826,7 @@
     "description" : "A Multi-purpose addon used to display useful information to the user!",
     "category-list" : [ "Miscellaneous", "Audio & Video", "Chat & Communication", "Tooltip", "HUDs" ],
     "created-date" : "2016-10-17T08:48:04Z",
-    "updated-date" : "2019-04-07T19:49:31Z",
+    "updated-date" : "2019-04-20T01:24:29Z",
     "alt-name" : "lagmonitor"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/lagbar",
@@ -29718,7 +29880,7 @@
     "description" : "Shows player realm language in tooltips",
     "category-list" : [ "Chat & Communication", "Tooltip" ],
     "created-date" : "2018-10-21T15:51:51Z",
-    "updated-date" : "2018-10-31T05:22:09Z",
+    "updated-date" : "2019-04-21T13:51:20Z",
     "alt-name" : "languagedisplay"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/large-numbers-separator",
@@ -29736,7 +29898,7 @@
     "description" : "Shows you a much bigger icon selection frame",
     "category-list" : [ "Miscellaneous" ],
     "created-date" : "2008-09-28T05:11:57Z",
-    "updated-date" : "2018-08-02T15:11:25Z",
+    "updated-date" : "2019-04-24T08:44:32Z",
     "alt-name" : "largermacroiconselection"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/laser-blaster-audio-pac",
@@ -29772,7 +29934,7 @@
     "description" : "Tracks the last loot date of most items.",
     "category-list" : [ "Bags & Inventory", "Boss Encounters", "Chat & Communication", "Miscellaneous" ],
     "created-date" : "2019-04-07T09:27:37Z",
-    "updated-date" : "2019-04-10T10:18:28Z",
+    "updated-date" : "2019-04-19T00:46:19Z",
     "alt-name" : "lastseen"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/laziomasterytool",
@@ -29826,7 +29988,7 @@
     "description" : "easily link your achievements to the LFG leader",
     "category-list" : [ "Achievements", "Chat & Communication" ],
     "created-date" : "2018-03-13T16:29:53Z",
-    "updated-date" : "2019-01-31T13:30:11Z",
+    "updated-date" : "2019-04-24T11:53:28Z",
     "alt-name" : "lazycurve"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/lazyjukebox",
@@ -29934,7 +30096,7 @@
     "description" : "Enhancements for your maps.",
     "category-list" : [ "Map & Minimap" ],
     "created-date" : "2018-07-22T19:46:07Z",
-    "updated-date" : "2019-03-13T01:48:25Z",
+    "updated-date" : "2019-04-24T19:56:37Z",
     "alt-name" : "leatrixmaps"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/leatrix-plus",
@@ -29943,7 +30105,7 @@
     "description" : "Powerful and modular quality of life and media player addon with a small resource footprint.",
     "category-list" : [ "Miscellaneous", "Chat & Communication", "Quests & Leveling", "Tooltip", "Audio & Video" ],
     "created-date" : "2015-09-08T12:27:40Z",
-    "updated-date" : "2019-03-14T16:32:48Z",
+    "updated-date" : "2019-04-23T23:50:53Z",
     "alt-name" : "leatrixplus"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/leatrix-sounds",
@@ -29952,7 +30114,7 @@
     "description" : "Play any sound in World of Warcraft.",
     "category-list" : [ "Audio & Video", "Development Tools" ],
     "created-date" : "2018-10-11T16:36:50Z",
-    "updated-date" : "2019-04-09T08:52:32Z",
+    "updated-date" : "2019-04-16T23:06:35Z",
     "alt-name" : "leatrixsounds"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/leech-trinket-counter",
@@ -31752,7 +31914,7 @@
     "description" : "A library to easy coloring strings by hex codes, color tables, class names, color names...",
     "category-list" : [ "Libraries" ],
     "created-date" : "2014-08-13T14:33:20Z",
-    "updated-date" : "2019-03-17T11:35:11Z",
+    "updated-date" : "2019-04-25T12:14:26Z",
     "alt-name" : "libcolors10"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/libstub",
@@ -32148,7 +32310,7 @@
     "description" : "BigWigs plugin providing boss warnings for dungeons & scenarios. The efficiently coded alternative to Deadly...",
     "category-list" : [ "Boss Encounters", "Plugins" ],
     "created-date" : "2007-05-01T17:18:51Z",
-    "updated-date" : "2019-04-08T05:08:50Z",
+    "updated-date" : "2019-04-19T01:32:48Z",
     "alt-name" : "littlewigs"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/liveroster",
@@ -32256,7 +32418,7 @@
     "description" : "Automatically turns on the combat log for selected raid and mythic+ instances.",
     "category-list" : [ "Boss Encounters", "Combat" ],
     "created-date" : "2013-09-12T22:39:44Z",
-    "updated-date" : "2018-09-10T01:57:31Z",
+    "updated-date" : "2019-04-14T10:40:13Z",
     "alt-name" : "loggerheadlite"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/logging",
@@ -32310,7 +32472,7 @@
     "description" : "Syncs players' loot wishlists to raid leader(s) to help determine best loot method.",
     "category-list" : [ "Guild", "Bags & Inventory", "Boss Encounters" ],
     "created-date" : "2015-05-16T11:34:25Z",
-    "updated-date" : "2019-01-28T20:31:26Z",
+    "updated-date" : "2019-04-13T11:36:36Z",
     "alt-name" : "loihloot"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/londc-dice",
@@ -32364,7 +32526,7 @@
     "description" : "LFG | Premade Groups | Chat Filter | Server block | World Quest | Cross...",
     "category-list" : [ "Chat & Communication", "Quests & Leveling", "Map & Minimap", "Boss Encounters", "Achievements" ],
     "created-date" : "2017-02-09T16:30:02Z",
-    "updated-date" : "2019-04-09T19:24:53Z",
+    "updated-date" : "2019-04-22T11:22:28Z",
     "alt-name" : "lookingforgrouplfg"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/lookingforgroup-alterac-valley",
@@ -32463,7 +32625,7 @@
     "description" : "Raider.IO support for LookingForGroup (LFG) addon",
     "category-list" : [ "Chat & Communication", "Boss Encounters" ],
     "created-date" : "2018-01-24T23:15:38Z",
-    "updated-date" : "2019-03-03T10:53:15Z",
+    "updated-date" : "2019-04-19T17:34:19Z",
     "alt-name" : "lookingforgroupraiderio"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/lookingforgroup-realm-whitelist",
@@ -33174,7 +33336,7 @@
     "description" : " DBM Voicepack:Taotao",
     "category-list" : [ "Audio & Video" ],
     "created-date" : "2018-08-29T05:29:37Z",
-    "updated-date" : "2019-03-18T06:26:24Z",
+    "updated-date" : "2019-04-18T10:17:04Z",
     "alt-name" : "dbmvptaotao"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/lust-detector",
@@ -33660,7 +33822,7 @@
     "description" : "MagnetButtons is an addon that can create any number of free moving action buttons. Any...",
     "category-list" : [ "Action Bars" ],
     "created-date" : "2018-12-07T05:32:12Z",
-    "updated-date" : "2019-04-10T07:19:53Z",
+    "updated-date" : "2019-04-23T23:31:31Z",
     "alt-name" : "magnetbuttons"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/magneto",
@@ -35046,7 +35208,7 @@
     "description" : "MerathilisUI is a memory friendly decorative AddOn for ElvUI.",
     "category-list" : [ "Bags & Inventory", "Mail", "Unit Frames", "Action Bars", "Class" ],
     "created-date" : "2016-02-02T15:23:47Z",
-    "updated-date" : "2019-04-07T16:40:43Z",
+    "updated-date" : "2019-04-22T15:05:17Z",
     "alt-name" : "elvuimerathilisui"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/mercenarybuddy",
@@ -35217,7 +35379,7 @@
     "description" : "Simple HUD",
     "category-list" : [ "Tank", "Damage Dealer", "HUDs" ],
     "created-date" : "2013-03-07T20:51:37Z",
-    "updated-date" : "2018-12-12T13:23:14Z",
+    "updated-date" : "2019-04-13T15:51:28Z",
     "alt-name" : "microhud"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/mik-scrolling-battle-text",
@@ -35667,7 +35829,7 @@
     "description" : "Tracks raid, loot and attendance",
     "category-list" : [ "Data Export", "Boss Encounters" ],
     "created-date" : "2010-07-26T09:57:27Z",
-    "updated-date" : "2019-01-26T15:03:39Z",
+    "updated-date" : "2019-04-24T09:31:15Z",
     "alt-name" : "mizusraidtracker"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/mmz",
@@ -36117,7 +36279,7 @@
     "description" : "Adds informations about the item in tooltip (RPPM, ...)",
     "category-list" : [ "Tooltip", "Bags & Inventory", "Development Tools", "Libraries", "Data Broker" ],
     "created-date" : "2018-02-27T20:29:02Z",
-    "updated-date" : "2019-03-23T18:00:45Z",
+    "updated-date" : "2019-04-18T09:02:33Z",
     "alt-name" : "moreiteminfo"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/morethur-quick-use",
@@ -36882,7 +37044,7 @@
     "description" : "Load and save music in game for Musician",
     "category-list" : [ "Roleplay", "Audio & Video" ],
     "created-date" : "2018-11-03T00:17:02Z",
-    "updated-date" : "2019-04-07T13:49:35Z",
+    "updated-date" : "2019-04-14T18:52:43Z",
     "alt-name" : "musicianlist"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/mute-bodyguard-lady-stheno",
@@ -36981,7 +37143,7 @@
     "description" : "Mutt (Macro Update Target Tool) is a slash-command that can patch the predefined targets in...",
     "category-list" : [ "Miscellaneous" ],
     "created-date" : "2009-08-21T15:53:58Z",
-    "updated-date" : "2018-08-30T01:21:43Z",
+    "updated-date" : "2019-04-21T19:50:34Z",
     "alt-name" : "muttmacropatcher"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/mvannouncer",
@@ -37206,7 +37368,7 @@
     "description" : "An addon to track pathfinder achievement progress",
     "category-list" : [ "Data Broker", "Achievements", "Map & Minimap", "Plugins", "Titan Panel" ],
     "created-date" : "2018-12-31T19:24:20Z",
-    "updated-date" : "2019-01-24T20:18:08Z",
+    "updated-date" : "2019-04-23T01:52:28Z",
     "alt-name" : "mypathfinder"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/mypremadesorter",
@@ -37251,7 +37413,7 @@
     "description" : "An addon to give gold to your guild bank",
     "category-list" : [ "Guild" ],
     "created-date" : "2019-02-22T02:54:47Z",
-    "updated-date" : "2019-02-28T06:07:07Z",
+    "updated-date" : "2019-04-20T01:07:33Z",
     "alt-name" : "myshare"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/myslot",
@@ -37431,7 +37593,7 @@
     "description" : "Custom Mythic+ timer appearance",
     "category-list" : [ "Boss Encounters" ],
     "created-date" : "2016-09-25T09:33:33Z",
-    "updated-date" : "2019-03-25T18:39:30Z",
+    "updated-date" : "2019-04-24T17:26:25Z",
     "alt-name" : "mythicplustimer"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/mythictracker",
@@ -37539,7 +37701,7 @@
     "description" : "Lightweight nameplates",
     "category-list" : [ "Boss Encounters", "Unit Frames", "Combat", "Raid Frames" ],
     "created-date" : "2016-08-01T10:16:02Z",
-    "updated-date" : "2019-04-05T05:34:20Z",
+    "updated-date" : "2019-04-24T08:05:24Z",
     "alt-name" : "nameplatekai"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/nameplatenames",
@@ -37593,7 +37755,7 @@
     "description" : "An immersive paperdoll frame",
     "category-list" : [ "Artwork", "Roleplay", "Transmogrification" ],
     "created-date" : "2019-01-18T13:44:54Z",
-    "updated-date" : "2019-04-01T09:15:59Z",
+    "updated-date" : "2019-04-22T18:29:22Z",
     "alt-name" : "narcissus"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/nas",
@@ -37836,7 +37998,7 @@
     "description" : "A full-featured action bar and interface replacement addon",
     "category-list" : [ "Action Bars" ],
     "created-date" : "2017-10-04T03:49:41Z",
-    "updated-date" : "2019-04-04T00:54:10Z",
+    "updated-date" : "2019-04-15T01:00:01Z",
     "alt-name" : "neuron"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/never-exit",
@@ -38025,7 +38187,7 @@
     "description" : "Addresses small complaints with the standard UI",
     "category-list" : [ "Chat & Communication", "Bags & Inventory", "Map & Minimap", "Professions", "Companions" ],
     "created-date" : "2011-03-10T17:14:00Z",
-    "updated-date" : "2018-12-12T18:59:10Z",
+    "updated-date" : "2019-04-14T13:14:20Z",
     "alt-name" : "niggles"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/niggles-pet-teams",
@@ -39240,7 +39402,7 @@
     "description" : "Party cooldown tracker",
     "category-list" : [ "Battleground", "Buffs & Debuffs", "Combat", "Arena", "PvP" ],
     "created-date" : "2018-11-06T01:01:55Z",
-    "updated-date" : "2019-01-21T18:15:23Z",
+    "updated-date" : "2019-04-21T16:24:44Z",
     "alt-name" : "omnicd"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/omnipotent",
@@ -39573,7 +39735,7 @@
     "description" : "Unit frame framework. Does nothing by itself.",
     "category-list" : [ "Unit Frames", "Buffs & Debuffs", "Libraries", "Raid Frames" ],
     "created-date" : "2009-10-27T13:30:46Z",
-    "updated-date" : "2019-03-20T11:21:33Z",
+    "updated-date" : "2019-04-21T10:09:29Z",
     "alt-name" : "ouf"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/ouf-bfa",
@@ -40383,7 +40545,7 @@
     "description" : "A World of Warcraft addon to share and roll on items when using personal loot.",
     "category-list" : [ "Chat & Communication", "Bags & Inventory", "Boss Encounters", "Guild" ],
     "created-date" : "2018-06-07T12:58:01Z",
-    "updated-date" : "2019-04-05T22:18:09Z",
+    "updated-date" : "2019-04-18T14:06:34Z",
     "alt-name" : "persolootroll"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/personal-blacklist-pbl",
@@ -41400,7 +41562,7 @@
     "description" : "nameplate color",
     "category-list" : [ "Unit Frames", "Raid Frames" ],
     "created-date" : "2018-11-23T06:49:45Z",
-    "updated-date" : "2019-04-01T09:04:21Z",
+    "updated-date" : "2019-04-23T11:06:25Z",
     "alt-name" : "platecolor"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/plater-nameplates",
@@ -41409,7 +41571,7 @@
     "description" : "Highly customizable nameplate with support to scripts and animations.",
     "category-list" : [ "Unit Frames" ],
     "created-date" : "2016-06-15T00:11:47Z",
-    "updated-date" : "2019-04-10T14:36:40Z",
+    "updated-date" : "2019-04-19T18:47:47Z",
     "alt-name" : "platernameplates"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/playable-feral-sound-edit",
@@ -41643,7 +41805,7 @@
     "description" : "mount and companion manager",
     "category-list" : [ "Roleplay", "Companions" ],
     "created-date" : "2008-12-23T14:03:09Z",
-    "updated-date" : "2019-03-06T00:14:03Z",
+    "updated-date" : "2019-04-23T20:16:19Z",
     "alt-name" : "pokedex"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/pokemon-lvl",
@@ -43713,7 +43875,7 @@
     "description" : "Determine if player has completed a quest",
     "category-list" : [ "Quests & Leveling" ],
     "created-date" : "2018-08-13T11:53:38Z",
-    "updated-date" : "2018-12-15T12:41:07Z",
+    "updated-date" : "2019-04-18T16:09:30Z",
     "alt-name" : "questlookup"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/questmaster",
@@ -44262,7 +44424,7 @@
     "description" : "Keeps track and ranks your guild members attendance",
     "category-list" : [ "Guild", "Chat & Communication", "Miscellaneous" ],
     "created-date" : "2018-07-01T23:22:42Z",
-    "updated-date" : "2019-01-21T02:33:08Z",
+    "updated-date" : "2019-04-11T14:40:54Z",
     "alt-name" : "raidattendancetrackerrat"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/raid-boss-whisper-warning-mute",
@@ -44577,7 +44739,7 @@
     "description" : "This companion addon for Raider.IO shows Mythic Plus scores and Raid Progress when hovering over...",
     "category-list" : [ "Tooltip", "Chat & Communication", "Boss Encounters", "Miscellaneous" ],
     "created-date" : "2017-10-03T16:39:25Z",
-    "updated-date" : "2019-04-10T06:23:15Z",
+    "updated-date" : "2019-04-25T06:38:12Z",
     "alt-name" : "raideriomythicplusandraidprogress"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/raidfademore",
@@ -44838,7 +45000,7 @@
     "description" : "Randomly use Hearthstone toys",
     "category-list" : [ "Miscellaneous" ],
     "created-date" : "2019-02-12T08:36:34Z",
-    "updated-date" : "2019-02-17T08:01:12Z",
+    "updated-date" : "2019-04-23T10:29:23Z",
     "alt-name" : "randomhearthstone"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/randommotd",
@@ -44991,7 +45153,7 @@
     "description" : "RareScanner, a World of Warcraft addon to alert you when a rare, event or tresaure...",
     "category-list" : [ "Map & Minimap", "Achievements" ],
     "created-date" : "2014-08-20T15:08:20Z",
-    "updated-date" : "2019-03-19T21:07:10Z",
+    "updated-date" : "2019-04-23T14:51:04Z",
     "alt-name" : "rarescanner"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/raretracker",
@@ -45018,7 +45180,7 @@
     "description" : "Tracks rare drops, including companions and mounts",
     "category-list" : [ "Fishing", "Achievements", "Companions", "Archaeology", "Battle Pets" ],
     "created-date" : "2011-08-05T20:59:55Z",
-    "updated-date" : "2019-03-20T14:21:14Z",
+    "updated-date" : "2019-04-11T04:34:31Z",
     "alt-name" : "rarity"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/ratedbgassist",
@@ -45162,7 +45324,7 @@
     "description" : "Interface for running a Loot Council",
     "category-list" : [ "Chat & Communication", "Guild", "Bags & Inventory" ],
     "created-date" : "2012-05-21T21:16:06Z",
-    "updated-date" : "2019-03-04T11:29:21Z",
+    "updated-date" : "2019-04-12T16:36:43Z",
     "alt-name" : "rclootcouncil"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/rclootcouncil-epgp",
@@ -45819,7 +45981,7 @@
     "description" : "Reno is a slash-command that can patch predefined options in a macro to change which...",
     "category-list" : [ "Miscellaneous" ],
     "created-date" : "2009-10-02T11:36:23Z",
-    "updated-date" : "2018-08-30T01:23:19Z",
+    "updated-date" : "2019-04-21T19:51:11Z",
     "alt-name" : "renomacropatcher"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/renovate-mission-table-extension",
@@ -46170,7 +46332,7 @@
     "description" : "A tiny combat text addon for WoW",
     "category-list" : [ "Combat" ],
     "created-date" : "2018-01-24T13:37:59Z",
-    "updated-date" : "2018-12-23T15:36:56Z",
+    "updated-date" : "2019-04-25T04:16:22Z",
     "alt-name" : "rgsct"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/rhoninmute",
@@ -46998,7 +47160,7 @@
     "description" : "Tracks Raid/Instance/World Boss lockouts for all your characters, daily/weekly quests, currencies, trade cooldowns, and more!",
     "category-list" : [ "Chat & Communication", "Boss Encounters", "Combat", "Data Broker", "Achievements" ],
     "created-date" : "2008-09-18T01:18:51Z",
-    "updated-date" : "2019-04-04T21:36:11Z",
+    "updated-date" : "2019-04-23T15:03:17Z",
     "alt-name" : "savedinstances"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/savedinstancessync",
@@ -47106,7 +47268,7 @@
     "description" : "Allows for the scaling of various items.",
     "category-list" : [ "Miscellaneous" ],
     "created-date" : "2014-01-24T06:27:23Z",
-    "updated-date" : "2015-07-15T05:15:25Z",
+    "updated-date" : "2019-04-12T09:58:21Z",
     "alt-name" : "scalar"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/scampi-happening",
@@ -47169,7 +47331,7 @@
     "description" : "Addon framework based on PLoop",
     "category-list" : [ "Libraries" ],
     "created-date" : "2016-12-25T17:28:38Z",
-    "updated-date" : "2018-12-22T00:50:12Z",
+    "updated-date" : "2019-04-20T07:40:24Z",
     "alt-name" : "scorpio"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/scourge-strike",
@@ -47358,7 +47520,7 @@
     "description" : "Provides orb resource components similar to Diablo.",
     "category-list" : [ "Unit Frames", "Buffs & Debuffs" ],
     "created-date" : "2017-02-04T03:12:05Z",
-    "updated-date" : "2018-09-14T00:47:18Z",
+    "updated-date" : "2019-04-25T08:51:52Z",
     "alt-name" : "seamorespheres"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/seamore-spheres-glass-textures",
@@ -48231,7 +48393,7 @@
     "description" : "ShestakUI is a modular, lightweight, all-in-one overhaul for the World of Warcraft interface",
     "category-list" : [ "PvP", "Artwork", "Professions", "Unit Frames", "Class" ],
     "created-date" : "2010-11-25T19:48:32Z",
-    "updated-date" : "2019-03-28T07:12:12Z",
+    "updated-date" : "2019-04-25T07:58:33Z",
     "alt-name" : "shestakui"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/shield",
@@ -48447,7 +48609,7 @@
     "description" : "Rotation helper with timeline display.",
     "category-list" : [ "Combat", "Class", "Tank", "Caster", "Damage Dealer" ],
     "created-date" : "2009-04-11T01:18:50Z",
-    "updated-date" : "2018-09-05T22:22:40Z",
+    "updated-date" : "2019-04-14T20:17:32Z",
     "alt-name" : "watcher"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/shout",
@@ -49491,7 +49653,7 @@
     "description" : "Changes the look of the default UI",
     "category-list" : [ "Miscellaneous" ],
     "created-date" : "2008-09-11T16:47:18Z",
-    "updated-date" : "2019-04-02T16:55:55Z",
+    "updated-date" : "2019-04-18T21:39:37Z",
     "alt-name" : "skinner"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/skinsound",
@@ -50562,7 +50724,7 @@
     "description" : "Speed Run Timer for Speedy.gg",
     "category-list" : [ "Miscellaneous", "Data Export" ],
     "created-date" : "2019-04-06T13:52:44Z",
-    "updated-date" : "2019-04-08T15:49:50Z",
+    "updated-date" : "2019-04-25T00:10:26Z",
     "alt-name" : "speedyggtimer"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/speedy-gonzales",
@@ -50877,7 +51039,7 @@
     "description" : "Spy",
     "category-list" : [ "PvP" ],
     "created-date" : "2009-05-27T03:14:23Z",
-    "updated-date" : "2019-04-05T04:49:51Z",
+    "updated-date" : "2019-04-20T21:51:28Z",
     "alt-name" : "spy"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/spy-gnome",
@@ -53667,7 +53829,7 @@
     "description" : "Nameplates that scale and change color depending on their threat levels.",
     "category-list" : [ "PvP", "Unit Frames", "Class", "Tank" ],
     "created-date" : "2009-10-31T08:53:14Z",
-    "updated-date" : "2019-03-18T18:05:32Z",
+    "updated-date" : "2019-04-19T12:34:28Z",
     "alt-name" : "threatplates"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/tidy-threat",
@@ -54108,7 +54270,7 @@
     "description" : "Titan Panel",
     "category-list" : [ "Plugins", "Titan Panel" ],
     "created-date" : "2005-04-02T17:13:44Z",
-    "updated-date" : "2019-03-06T10:58:15Z",
+    "updated-date" : "2019-04-25T05:19:11Z",
     "alt-name" : "titanpanel"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/titan-panel-achievement-points",
@@ -55680,10 +55842,10 @@
     "uri" : "https://www.curseforge.com/wow/addons/tracer",
     "name" : "tracer",
     "label" : "Tracer",
-    "description" : "This addon allows you to track tasks to do over the day or the week...",
+    "description" : "This addon allows you to track tasks to do over the day or the week",
     "category-list" : [ "Quests & Leveling" ],
     "created-date" : "2019-03-17T22:05:40Z",
-    "updated-date" : "2019-04-10T12:08:54Z",
+    "updated-date" : "2019-04-22T20:58:02Z",
     "alt-name" : "tracer"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/track-call-to-arms",
@@ -56142,7 +56304,7 @@
     "description" : "TrainingGrounds",
     "category-list" : [ "Combat", "Class", "Minigames", "Boss Encounters" ],
     "created-date" : "2016-04-18T22:18:55Z",
-    "updated-date" : "2019-03-23T15:12:02Z",
+    "updated-date" : "2019-04-19T23:16:32Z",
     "alt-name" : "traininggrounds"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/trainwreck",
@@ -56223,7 +56385,7 @@
     "description" : "Allows to save more than 20 transmog outfits per character",
     "category-list" : [ "Transmogrification" ],
     "created-date" : "2016-12-18T21:37:50Z",
-    "updated-date" : "2019-03-15T18:14:56Z",
+    "updated-date" : "2019-04-25T12:30:23Z",
     "alt-name" : "transmogoutfits"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/transmog-stats",
@@ -56385,7 +56547,7 @@
     "description" : "Allows for easier tricks of the trade through a fly out menu on minimap",
     "category-list" : [ "Buffs & Debuffs", "Rogue" ],
     "created-date" : "2014-02-13T20:11:51Z",
-    "updated-date" : "2015-07-29T13:44:19Z",
+    "updated-date" : "2019-04-12T09:56:23Z",
     "alt-name" : "tricksofthetrader"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/trilliax-scrubber",
@@ -56889,7 +57051,7 @@
     "description" : "Auction house pricing data for your region and realm",
     "category-list" : [ "Auction & Economy", "Tooltip" ],
     "created-date" : "2011-04-06T02:59:01Z",
-    "updated-date" : "2019-04-09T09:40:52Z",
+    "updated-date" : "2019-04-23T09:39:54Z",
     "alt-name" : "theunderminejournal"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/undress-button",
@@ -57852,7 +58014,7 @@
     "description" : "Sorts the Wardrobe",
     "category-list" : [ "Transmogrification" ],
     "created-date" : "2016-07-18T08:58:07Z",
-    "updated-date" : "2018-07-25T23:44:11Z",
+    "updated-date" : "2019-04-24T13:22:22Z",
     "alt-name" : "wardrobesort"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/wardrobetracker",
@@ -57879,7 +58041,7 @@
     "description" : "Tracks your kills, loot and status of the All BfA Warfronts",
     "category-list" : [ "Data Broker", "Map & Minimap", "Boss Encounters", "Companions", "Miscellaneous" ],
     "created-date" : "2018-09-07T22:08:59Z",
-    "updated-date" : "2019-03-27T00:27:30Z",
+    "updated-date" : "2019-04-18T22:17:35Z",
     "alt-name" : "warfrontraretracker"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/warfront-status",
@@ -58257,7 +58419,7 @@
     "description" : "A mostly World PVP focused addon that also works in BGs. Includes an enemy player...",
     "category-list" : [ "PvP", "Combat" ],
     "created-date" : "2018-08-13T15:08:42Z",
-    "updated-date" : "2019-03-06T23:04:14Z",
+    "updated-date" : "2019-04-17T13:55:34Z",
     "alt-name" : "weizpvp"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/wepair",
@@ -58725,7 +58887,7 @@
     "description" : "Collection of useful features for dungeon.",
     "category-list" : [ "Combat" ],
     "created-date" : "2018-10-02T11:33:03Z",
-    "updated-date" : "2019-04-06T17:43:46Z",
+    "updated-date" : "2019-04-19T10:18:46Z",
     "alt-name" : "winddungeonhelperwdh"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/wings",
@@ -59094,7 +59256,7 @@
     "description" : "Make more easy to see world quests",
     "category-list" : [ "Map & Minimap" ],
     "created-date" : "2016-06-18T20:17:55Z",
-    "updated-date" : "2019-04-03T16:08:33Z",
+    "updated-date" : "2019-04-20T15:54:24Z",
     "alt-name" : "worldquesttracker"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/world-quest-tracker-blocker",
@@ -59130,7 +59292,7 @@
     "description" : "Automatic timers and alerts for world boss spawn times.",
     "category-list" : [ "Miscellaneous" ],
     "created-date" : "2018-07-22T15:47:16Z",
-    "updated-date" : "2019-02-06T20:54:31Z",
+    "updated-date" : "2019-04-24T18:14:26Z",
     "alt-name" : "worldbosstimers"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/worldflightmap",
@@ -59706,7 +59868,7 @@
     "description" : "Notifies you if an achievement related WQ is up.",
     "category-list" : [ "Achievements", "Quests & Leveling" ],
     "created-date" : "2017-07-13T22:47:08Z",
-    "updated-date" : "2019-03-31T11:48:31Z",
+    "updated-date" : "2019-04-24T20:12:29Z",
     "alt-name" : "wqachievements"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/wqgroupie",
@@ -59787,7 +59949,7 @@
     "description" : "Pop up window for Icy Veins based class/spec (and talent) statisitic priorities - supports all...",
     "category-list" : [ "Miscellaneous" ],
     "created-date" : "2016-01-25T10:35:19Z",
-    "updated-date" : "2019-03-15T15:00:10Z",
+    "updated-date" : "2019-04-17T23:06:29Z",
     "alt-name" : "wyr3dsicyveinsstatspriorities"
   }, {
     "uri" : "https://www.curseforge.com/wow/addons/x-and-y",
