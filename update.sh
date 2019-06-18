@@ -16,10 +16,10 @@ commit_message=""
     echo "starting wowman ..."
     if [ "$(date +%A)" = "Monday" ]; then
         echo "complete scrape"
-        #lein run - --action scrape-catalog
+        lein run - --action scrape-catalog
     else
         echo "just the updates"
-        #lein run - --action update-catalog
+        lein run - --action update-catalog
     fi
 )
 
