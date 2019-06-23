@@ -4,7 +4,8 @@ export XDG_DATA_HOME="$(pwd)"
 export XDG_CONFIG_HOME="$(pwd)"
 
 if [ ! -d wowman ]; then
-    git clone --single-branch --branch master https://github.com/ogri-la/wowman
+    # TODO: switch back to 'master' branch once bugs ironed out
+    git clone --single-branch --branch develop https://github.com/ogri-la/wowman
 fi
 (
     cd wowman
