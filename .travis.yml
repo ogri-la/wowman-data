@@ -1,5 +1,6 @@
 dist: xenial # Ubuntu 16.04
 language: clojure # we're cloning wowman and using leiningen
+jdk: openjdk8 # problems with jdk11 https://github.com/clj-commons/ordered/pull/37
 install: true # don't try to 'install' wowman-data, you'll fail
 
 jobs:
