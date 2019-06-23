@@ -1,0 +1,34 @@
+dist: xenial # Ubuntu 16.04
+language: clojure # we're cloning wowman and using leiningen
+
+jobs:
+    include:
+        -
+            stage: update-release
+            script: /bin/bash travis-update.sh # generate the updates
+            before_deploy:
+              - set -e
+              # configure repo
+              - git config --local user.name "torkus-jr"
+              - git config --local user.email "48791229+torkus-jr@users.noreply.github.com"
+              # tag the current revision, overwriting any previous tag
+              - export TRAVIS_TAG=daily
+              - git tag -fa "$TRAVIS_TAG" -m "release updated $(date -I)"
+              # delete the remote instance of this tag
+              - git push "https://$GITHUB_TOKEN@github.com/ogri-la/wowman-data" --delete "$TRAVIS_TAG" || echo "tag doesn't exist (yet)"
+              # commit the changes made to the files by travis-update.sh
+              # this will update catalog.json as well as curseforge.json and wowinterface.json
+              # - catalog.json is deprecated, replaced with the daily release
+              # - will be supported as part of the wowman-data repository until 1.0.0
+              - git commit -a --file commit-message.txt
+              # push the changes to the files and then push the tags. can't be done in one operation
+              - git push "https://$GITHUB_TOKEN@github.com/ogri-la/wowman-data" HEAD:master
+              - git push "https://$GITHUB_TOKEN@github.com/ogri-la/wowman-data" HEAD:master --tags
+
+            # create a release in github, uploading the 'release' file
+            deploy:
+                provider: releases
+                api_key: $GITHUB_TOKEN
+                file: "catalog.json"
+                skip_cleanup: true
+                overwrite: true # https://docs.travis-ci.com/user/deployment/releases/#overwrite-existing-files-on-the-release
