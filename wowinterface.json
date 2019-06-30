@@ -3,175 +3,644 @@
     "version" : 1
   },
   "datestamp" : "2019-06-19",
-  "updated-datestamp" : "2019-06-23",
-  "total" : 5511,
+  "updated-datestamp" : "2019-06-30",
+  "total" : 5578,
   "addon-summary-list" : [ {
     "category-list" : [ ],
-    "download-count" : 2103,
+    "download-count" : 58,
+    "label" : "Btex Fan Update 2.0",
+    "name" : "btex-fan-update-2-0",
+    "updated-date" : "2019-06-30T00:38:00Z",
+    "uri" : "https://www.wowinterface.com/downloads/info25038"
+  }, {
+    "category-list" : [ ],
+    "download-count" : 612,
+    "label" : "ClassicAutoDismount",
+    "name" : "classicautodismount",
+    "updated-date" : "2019-06-09T01:48:00Z",
+    "uri" : "https://www.wowinterface.com/downloads/info25010"
+  }, {
+    "category-list" : [ ],
+    "download-count" : 402,
+    "label" : "DruidMana",
+    "name" : "druidmana",
+    "updated-date" : "2019-06-09T03:35:00Z",
+    "uri" : "https://www.wowinterface.com/downloads/info25007"
+  }, {
+    "category-list" : [ ],
+    "download-count" : 2541,
+    "label" : "AdvancedInterfaceOptions Classic",
+    "name" : "advancedinterfaceoptions-classic",
+    "updated-date" : "2019-06-25T16:10:00Z",
+    "uri" : "https://www.wowinterface.com/downloads/info24947"
+  }, {
+    "category-list" : [ ],
+    "download-count" : 286993,
+    "label" : "Altz UI for BFA",
+    "name" : "altz-ui-for-bfa",
+    "updated-date" : "2019-06-27T07:21:00Z",
+    "uri" : "https://www.wowinterface.com/downloads/info21263"
+  }, {
+    "category-list" : [ ],
+    "download-count" : 581059,
+    "label" : "RealUI",
+    "name" : "realui",
+    "updated-date" : "2019-06-24T23:43:00Z",
+    "uri" : "https://www.wowinterface.com/downloads/info16068"
+  }, {
+    "category-list" : [ ],
+    "download-count" : 17,
+    "label" : "Simple Round Icons",
+    "name" : "simple-round-icons",
+    "updated-date" : "2019-06-23T11:18:00Z",
+    "uri" : "https://www.wowinterface.com/downloads/info25037"
+  }, {
+    "category-list" : [ ],
+    "download-count" : 64,
+    "label" : "MageButtons (Classic)",
+    "name" : "magebuttons-classic",
+    "updated-date" : "2019-06-24T19:59:00Z",
+    "uri" : "https://www.wowinterface.com/downloads/info25041"
+  }, {
+    "category-list" : [ ],
+    "download-count" : 521,
+    "label" : "Deadly Boss Mods - Legion",
+    "name" : "deadly-boss-mods-legion",
+    "updated-date" : "2019-06-25T09:22:00Z",
+    "uri" : "https://www.wowinterface.com/downloads/info24905"
+  }, {
+    "category-list" : [ ],
+    "download-count" : 3564,
+    "label" : "DestroyusPro! Search and disenchant, mill, prospect materials from the the bag!",
+    "name" : "destroyuspro-search-and-disenchant-mill-prospect-materials-from-the-the-bag",
+    "updated-date" : "2019-06-26T16:14:00Z",
+    "uri" : "https://www.wowinterface.com/downloads/info24090"
+  }, {
+    "category-list" : [ ],
+    "download-count" : 34,
+    "label" : "MooseLight",
+    "name" : "mooselight",
+    "updated-date" : "2019-06-28T21:28:00Z",
+    "uri" : "https://www.wowinterface.com/downloads/info25048"
+  }, {
+    "category-list" : [ ],
+    "download-count" : 32,
+    "label" : "MuteSoundFile",
+    "name" : "mutesoundfile",
+    "updated-date" : "2019-06-27T22:10:00Z",
+    "uri" : "https://www.wowinterface.com/downloads/info25045"
+  }, {
+    "category-list" : [ ],
+    "download-count" : 7336,
+    "label" : "GennUI",
+    "name" : "gennui",
+    "updated-date" : "2019-06-28T05:51:00Z",
+    "uri" : "https://www.wowinterface.com/downloads/info24471"
+  }, {
+    "category-list" : [ ],
+    "download-count" : 18898,
+    "label" : "!BugGrabber",
+    "name" : "-buggrabber",
+    "updated-date" : "2019-06-25T22:24:00Z",
+    "uri" : "https://www.wowinterface.com/downloads/info23141"
+  }, {
+    "category-list" : [ ],
+    "download-count" : 3722,
+    "label" : "Hear Kitty official sound packs",
+    "name" : "hear-kitty-official-sound-packs",
+    "updated-date" : "2019-06-26T20:11:00Z",
+    "uri" : "https://www.wowinterface.com/downloads/info9178"
+  }, {
+    "category-list" : [ ],
+    "download-count" : 7,
+    "label" : "CEPGP",
+    "name" : "cepgp",
+    "updated-date" : "2019-06-29T21:44:00Z",
+    "uri" : "https://www.wowinterface.com/downloads/info25051"
+  }, {
+    "category-list" : [ ],
+    "download-count" : 4289,
+    "label" : "ClassicCastbars",
+    "name" : "classiccastbars",
+    "updated-date" : "2019-06-12T15:07:00Z",
+    "uri" : "https://www.wowinterface.com/downloads/info24925"
+  }, {
+    "category-list" : [ ],
+    "download-count" : 4787,
+    "label" : "Dominos Classic",
+    "name" : "dominos-classic",
+    "updated-date" : "2019-06-28T17:28:00Z",
+    "uri" : "https://www.wowinterface.com/downloads/info24918"
+  }, {
+    "category-list" : [ ],
+    "download-count" : 18842,
+    "label" : "Carbonite Warehouse",
+    "name" : "carbonite-warehouse",
+    "updated-date" : "2019-06-25T03:42:00Z",
+    "uri" : "https://www.wowinterface.com/downloads/info23408"
+  }, {
+    "category-list" : [ ],
+    "download-count" : 13771,
+    "label" : "Carbonite Social",
+    "name" : "carbonite-social",
+    "updated-date" : "2019-06-25T05:44:00Z",
+    "uri" : "https://www.wowinterface.com/downloads/info23407"
+  }, {
+    "category-list" : [ ],
+    "download-count" : 38118,
+    "label" : "Deadly Boss Mods - Wrath of the Lich King mods",
+    "name" : "deadly-boss-mods-wrath-of-the-lich-king-mods",
+    "updated-date" : "2019-06-25T09:24:00Z",
+    "uri" : "https://www.wowinterface.com/downloads/info21522"
+  }, {
+    "category-list" : [ ],
+    "download-count" : 287717,
+    "label" : "ShestakUI",
+    "name" : "shestakui",
+    "updated-date" : "2019-06-26T09:54:00Z",
+    "uri" : "https://www.wowinterface.com/downloads/info19033"
+  }, {
+    "category-list" : [ ],
+    "download-count" : 853,
+    "label" : "WoWpoPolsku-Bubbles 80200 2019-06-24",
+    "name" : "wowpopolsku-bubbles-80200-2019-06-24",
+    "updated-date" : "2019-06-24T15:11:00Z",
+    "uri" : "https://www.wowinterface.com/downloads/info24692"
+  }, {
+    "category-list" : [ ],
+    "download-count" : 181,
+    "label" : "Classic Quest Log for Classic",
+    "name" : "classic-quest-log-for-classic",
+    "updated-date" : "2019-06-09T08:31:00Z",
+    "uri" : "https://www.wowinterface.com/downloads/info24937"
+  }, {
+    "category-list" : [ ],
+    "download-count" : 2525,
+    "label" : "nUI - Live By Scott Piel",
+    "name" : "nui-live-by-scott-piel",
+    "updated-date" : "2019-06-29T04:15:00Z",
+    "uri" : "https://www.wowinterface.com/downloads/info24693"
+  }, {
+    "category-list" : [ ],
+    "download-count" : 3070,
+    "label" : "FabUI - a Classic RPG UI",
+    "name" : "fabui-a-classic-rpg-ui",
+    "updated-date" : "2019-06-27T05:28:00Z",
+    "uri" : "https://www.wowinterface.com/downloads/info24385"
+  }, {
+    "category-list" : [ ],
+    "download-count" : 278142,
+    "label" : "Deadly Boss Mods - Burning Crusade and Vanilla mods",
+    "name" : "deadly-boss-mods-burning-crusade-and-vanilla-mods",
+    "updated-date" : "2019-06-25T09:23:00Z",
+    "uri" : "https://www.wowinterface.com/downloads/info11700"
+  }, {
+    "category-list" : [ ],
+    "download-count" : 35,
+    "label" : "APIInterface",
+    "name" : "apiinterface",
+    "updated-date" : "2019-06-25T05:30:00Z",
+    "uri" : "https://www.wowinterface.com/downloads/info25043"
+  }, {
+    "category-list" : [ ],
+    "download-count" : 708,
+    "label" : "BtWQuests: Battle for Azeroth Prologue",
+    "name" : "btwquests-battle-for-azeroth-prologue",
+    "updated-date" : "2019-06-25T02:00:00Z",
+    "uri" : "https://www.wowinterface.com/downloads/info24769"
+  }, {
+    "category-list" : [ ],
+    "download-count" : 7786,
+    "label" : "Masque_Dark",
+    "name" : "masque-dark",
+    "updated-date" : "2019-06-10T13:30:00Z",
+    "uri" : "https://www.wowinterface.com/downloads/info20412"
+  }, {
+    "category-list" : [ ],
+    "download-count" : 608994,
+    "label" : "oUF",
+    "name" : "ouf",
+    "updated-date" : "2019-06-26T05:01:00Z",
+    "uri" : "https://www.wowinterface.com/downloads/info9994"
+  }, {
+    "category-list" : [ ],
+    "download-count" : 475,
+    "label" : "REHack - UI Notebook",
+    "name" : "rehack-ui-notebook",
+    "updated-date" : "2019-06-26T00:13:00Z",
+    "uri" : "https://www.wowinterface.com/downloads/info24734"
+  }, {
+    "category-list" : [ ],
+    "download-count" : 51,
+    "label" : "Maekor Overpower Alert (Classic)",
+    "name" : "maekor-overpower-alert-classic",
+    "updated-date" : "2019-06-24T16:57:00Z",
+    "uri" : "https://www.wowinterface.com/downloads/info25039"
+  }, {
+    "category-list" : [ ],
+    "download-count" : 233907,
+    "label" : "MayronUI Gen6",
+    "name" : "mayronui-gen6",
+    "updated-date" : "2019-06-25T23:55:00Z",
+    "uri" : "https://www.wowinterface.com/downloads/info21221"
+  }, {
+    "category-list" : [ ],
+    "download-count" : 13,
+    "label" : "Mute the Motorcycle",
+    "name" : "mute-the-motorcycle",
+    "updated-date" : "2019-06-29T04:02:00Z",
+    "uri" : "https://www.wowinterface.com/downloads/info25047"
+  }, {
+    "category-list" : [ ],
+    "download-count" : 4480,
+    "label" : "Deadly Boss Mods - Classic",
+    "name" : "deadly-boss-mods-classic",
+    "updated-date" : "2019-06-12T02:03:00Z",
+    "uri" : "https://www.wowinterface.com/downloads/info24921"
+  }, {
+    "category-list" : [ ],
+    "download-count" : 21407,
+    "label" : "FauxMazzle",
+    "name" : "fauxmazzle",
+    "updated-date" : "2019-06-26T21:42:00Z",
+    "uri" : "https://www.wowinterface.com/downloads/info22624"
+  }, {
+    "category-list" : [ ],
+    "download-count" : 7629,
+    "label" : "WoWpoPolsku-Quests 80200 2019-06-29",
+    "name" : "wowpopolsku-quests-80200-2019-06-29",
+    "updated-date" : "2019-06-29T13:56:00Z",
+    "uri" : "https://www.wowinterface.com/downloads/info19315"
+  }, {
+    "category-list" : [ ],
+    "download-count" : 1442,
+    "label" : "BtWQuests: Legion",
+    "name" : "btwquests-legion",
+    "updated-date" : "2019-06-25T01:59:00Z",
+    "uri" : "https://www.wowinterface.com/downloads/info24770"
+  }, {
+    "category-list" : [ ],
+    "download-count" : 8261,
+    "label" : "Below Average Items (Low Item Level Indicator)",
+    "name" : "below-average-items-low-item-level-indicator",
+    "updated-date" : "2019-06-26T09:51:00Z",
+    "uri" : "https://www.wowinterface.com/downloads/info21091"
+  }, {
+    "category-list" : [ ],
+    "download-count" : 20,
+    "label" : "YaHT - Yet another Hunter Timer",
+    "name" : "yaht-yet-another-hunter-timer",
+    "updated-date" : "2019-06-29T00:56:00Z",
+    "uri" : "https://www.wowinterface.com/downloads/info25049"
+  }, {
+    "category-list" : [ ],
+    "download-count" : 20,
+    "label" : "Druid Bar Classic",
+    "name" : "druid-bar-classic",
+    "updated-date" : "2019-06-25T00:01:00Z",
+    "uri" : "https://www.wowinterface.com/downloads/info25036"
+  }, {
+    "category-list" : [ ],
+    "download-count" : 7,
+    "label" : "RandomGenerator",
+    "name" : "randomgenerator",
+    "updated-date" : "2019-06-28T03:41:00Z",
+    "uri" : "https://www.wowinterface.com/downloads/info25046"
+  }, {
+    "category-list" : [ ],
+    "download-count" : 4444,
+    "label" : "AbyssUI",
+    "name" : "abyssui",
+    "updated-date" : "2019-06-28T13:54:00Z",
+    "uri" : "https://www.wowinterface.com/downloads/info24701"
+  }, {
+    "category-list" : [ ],
+    "download-count" : 1126,
+    "label" : "PersoLootRoll (Beta)",
+    "name" : "persolootroll-beta",
+    "updated-date" : "2019-06-25T15:26:00Z",
+    "uri" : "https://www.wowinterface.com/downloads/info24704"
+  }, {
+    "category-list" : [ ],
+    "download-count" : 5970,
+    "label" : "LolzenUI",
+    "name" : "lolzenui",
+    "updated-date" : "2019-06-28T05:01:00Z",
+    "uri" : "https://www.wowinterface.com/downloads/info24512"
+  }, {
+    "category-list" : [ ],
+    "download-count" : 30,
+    "label" : "ERR404Media",
+    "name" : "err404media",
+    "updated-date" : "2019-06-27T17:43:00Z",
+    "uri" : "https://www.wowinterface.com/downloads/info25044"
+  }, {
+    "category-list" : [ ],
+    "download-count" : 371,
+    "label" : "Birg's Paladin UI",
+    "name" : "birg-s-paladin-ui",
+    "updated-date" : "2019-06-13T10:47:00Z",
+    "uri" : "https://www.wowinterface.com/downloads/info25012"
+  }, {
+    "category-list" : [ ],
+    "download-count" : 2583,
+    "label" : "QuestLogEx",
+    "name" : "questlogex",
+    "updated-date" : "2019-06-09T09:13:00Z",
+    "uri" : "https://www.wowinterface.com/downloads/info24980"
+  }, {
+    "category-list" : [ ],
+    "download-count" : 2698,
+    "label" : "nUI InfoPanel Professions",
+    "name" : "nui-infopanel-professions",
+    "updated-date" : "2019-06-27T16:31:00Z",
+    "uri" : "https://www.wowinterface.com/downloads/info21509"
+  }, {
+    "category-list" : [ ],
+    "download-count" : 616,
+    "label" : "NugComboBar Classic",
+    "name" : "nugcombobar-classic",
+    "updated-date" : "2019-06-25T02:25:00Z",
+    "uri" : "https://www.wowinterface.com/downloads/info24935"
+  }, {
+    "category-list" : [ ],
+    "download-count" : 124,
+    "label" : "BetterAlign",
+    "name" : "betteralign",
+    "updated-date" : "2019-06-24T07:54:00Z",
+    "uri" : "https://www.wowinterface.com/downloads/info25040"
+  }, {
+    "category-list" : [ ],
+    "download-count" : 441,
+    "label" : "World Quest Tab",
+    "name" : "world-quest-tab",
+    "updated-date" : "2019-06-26T05:59:00Z",
+    "uri" : "https://www.wowinterface.com/downloads/info25042"
+  }, {
+    "category-list" : [ ],
+    "download-count" : 2841,
+    "label" : "Zera UI",
+    "name" : "zera-ui",
+    "updated-date" : "2019-06-21T12:14:00Z",
+    "uri" : "https://www.wowinterface.com/downloads/info24400"
+  }, {
+    "category-list" : [ ],
+    "download-count" : 16,
+    "label" : "Aptechka Classic",
+    "name" : "aptechka-classic",
+    "updated-date" : "2019-06-29T06:58:00Z",
+    "uri" : "https://www.wowinterface.com/downloads/info25050"
+  }, {
+    "category-list" : [ ],
+    "download-count" : 11431,
+    "label" : "Carbonite Weekly",
+    "name" : "carbonite-weekly",
+    "updated-date" : "2019-06-25T05:41:00Z",
+    "uri" : "https://www.wowinterface.com/downloads/info23409"
+  }, {
+    "category-list" : [ ],
+    "download-count" : 2088,
+    "label" : "VuhDo Classic",
+    "name" : "vuhdo-classic",
+    "updated-date" : "2019-06-29T20:36:00Z",
+    "uri" : "https://www.wowinterface.com/downloads/info24919"
+  }, {
+    "category-list" : [ ],
+    "download-count" : 109,
+    "label" : "MyRolePlay Classic",
+    "name" : "myroleplay-classic",
+    "updated-date" : "2019-06-24T20:50:00Z",
+    "uri" : "https://www.wowinterface.com/downloads/info24981"
+  }, {
+    "category-list" : [ ],
+    "download-count" : 174811,
+    "label" : "DecUI",
+    "name" : "decui",
+    "updated-date" : "2019-06-28T22:31:00Z",
+    "uri" : "https://www.wowinterface.com/downloads/info17206"
+  }, {
+    "category-list" : [ ],
+    "download-count" : 15134,
+    "label" : "Carbonite Notes",
+    "name" : "carbonite-notes",
+    "updated-date" : "2019-06-25T03:43:00Z",
+    "uri" : "https://www.wowinterface.com/downloads/info23406"
+  }, {
+    "category-list" : [ ],
+    "download-count" : 553,
+    "label" : "Deadly Boss Mods - Old Dungeons",
+    "name" : "deadly-boss-mods-old-dungeons",
+    "updated-date" : "2019-06-25T09:11:00Z",
+    "uri" : "https://www.wowinterface.com/downloads/info24904"
+  }, {
+    "category-list" : [ ],
+    "download-count" : 21302,
+    "label" : "Hekili - Priority Helper for Battle for Azeroth",
+    "name" : "hekili-priority-helper-for-battle-for-azeroth",
+    "updated-date" : "2019-06-28T22:23:00Z",
+    "uri" : "https://www.wowinterface.com/downloads/info24608"
+  }, {
+    "category-list" : [ ],
+    "download-count" : 57060,
+    "label" : "ViksUI",
+    "name" : "viksui",
+    "updated-date" : "2019-06-28T12:46:00Z",
+    "uri" : "https://www.wowinterface.com/downloads/info21462"
+  }, {
+    "category-list" : [ ],
+    "download-count" : 179,
+    "label" : "8.2.0 Thebestroll UI",
+    "name" : "8-2-0-thebestroll-ui",
+    "updated-date" : "2019-06-28T02:40:00Z",
+    "uri" : "https://www.wowinterface.com/downloads/info25014"
+  }, {
+    "category-list" : [ ],
+    "download-count" : 297,
+    "label" : "oUF_NugVials",
+    "name" : "ouf-nugvials",
+    "updated-date" : "2019-06-25T07:00:00Z",
+    "uri" : "https://www.wowinterface.com/downloads/info24719"
+  }, {
+    "category-list" : [ ],
+    "download-count" : 835,
+    "label" : "BtWQuests: Classic",
+    "name" : "btwquests-classic",
+    "updated-date" : "2019-06-25T01:58:00Z",
+    "uri" : "https://www.wowinterface.com/downloads/info24740"
+  }, {
+    "category-list" : [ ],
+    "download-count" : 8714,
+    "label" : "Vendor Price",
+    "name" : "vendor-price",
+    "updated-date" : "2019-06-09T04:57:00Z",
+    "uri" : "https://www.wowinterface.com/downloads/info24922"
+  }, {
+    "category-list" : [ ],
+    "download-count" : 2190,
     "label" : "NugRunning Classic",
     "name" : "nugrunning-classic",
     "updated-date" : "2019-06-15T19:41:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info24936"
   }, {
     "category-list" : [ ],
-    "download-count" : 7366,
+    "download-count" : 8952,
     "label" : "Questie",
     "name" : "questie",
-    "updated-date" : "2019-06-16T11:28:00Z",
+    "updated-date" : "2019-06-25T12:43:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info24994"
   }, {
     "category-list" : [ ],
-    "download-count" : 8,
+    "download-count" : 46,
     "label" : "CensusPlusClassic",
     "name" : "censusplusclassic",
-    "updated-date" : "2019-06-20T17:01:00Z",
+    "updated-date" : "2019-06-23T12:20:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info25027"
   }, {
     "category-list" : [ ],
-    "download-count" : 113,
+    "download-count" : 300,
     "label" : "What's Training?",
     "name" : "what-s-training",
-    "updated-date" : "2019-06-22T21:44:00Z",
+    "updated-date" : "2019-06-28T20:16:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info25031"
   }, {
     "category-list" : [ ],
-    "download-count" : 268,
+    "download-count" : 329,
     "label" : "Talent Sequence",
     "name" : "talent-sequence",
     "updated-date" : "2019-06-21T11:45:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info25021"
   }, {
     "category-list" : [ ],
-    "download-count" : 29,
+    "download-count" : 79,
     "label" : "Discord Unit Frames [Classic]",
     "name" : "discord-unit-frames-classic",
     "updated-date" : "2019-06-21T17:55:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info25032"
   }, {
     "category-list" : [ ],
-    "download-count" : 648,
+    "download-count" : 768,
     "label" : "Track Resources",
     "name" : "track-resources",
-    "updated-date" : "2019-06-21T06:50:00Z",
+    "updated-date" : "2019-06-27T02:49:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info25008"
   }, {
     "category-list" : [ ],
-    "download-count" : 31,
+    "download-count" : 69,
     "label" : "Global Ignore List Classic",
     "name" : "global-ignore-list-classic",
     "updated-date" : "2019-06-21T14:35:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info25034"
   }, {
     "category-list" : [ ],
-    "download-count" : 138,
+    "download-count" : 198,
     "label" : "nUI Classic (Beta)",
     "name" : "nui-classic-beta",
     "updated-date" : "2019-06-19T21:15:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info25025"
   }, {
     "category-list" : [ ],
-    "download-count" : 220,
+    "download-count" : 291,
     "label" : "AbyssUI Classic",
     "name" : "abyssui-classic",
     "updated-date" : "2019-06-21T08:44:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info25026"
   }, {
     "category-list" : [ ],
-    "download-count" : 39,
+    "download-count" : 71,
     "label" : "FrameStackGlobalizer",
     "name" : "framestackglobalizer",
-    "updated-date" : "2019-06-16T18:58:00Z",
+    "updated-date" : "2019-06-27T00:59:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info25023"
   }, {
     "category-list" : [ ],
-    "download-count" : 63,
+    "download-count" : 110,
     "label" : "Class Trainer Plus",
     "name" : "class-trainer-plus",
     "updated-date" : "2019-06-20T22:10:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info25029"
   }, {
     "category-list" : [ ],
-    "download-count" : 1075,
+    "download-count" : 1088,
     "label" : "PictureThis",
     "name" : "picturethis",
     "updated-date" : "2019-06-20T07:28:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info23763"
   }, {
     "category-list" : [ ],
-    "download-count" : 16,
+    "download-count" : 57,
     "label" : "EnhancedClassIconPortraits",
     "name" : "enhancedclassiconportraits",
-    "updated-date" : "2019-06-22T04:40:00Z",
+    "updated-date" : "2019-06-24T08:02:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info25035"
   }, {
     "category-list" : [ ],
-    "download-count" : 31,
+    "download-count" : 54,
     "label" : "TwitchEmotes Classic",
     "name" : "twitchemotes-classic",
     "updated-date" : "2019-06-22T12:30:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info25028"
   }, {
     "category-list" : [ ],
-    "download-count" : 401,
+    "download-count" : 463,
     "label" : "PitBull Unit Frames 4.0 Classic",
     "name" : "pitbull-unit-frames-4-0-classic",
     "updated-date" : "2019-06-20T01:46:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info25020"
   }, {
     "category-list" : [ ],
-    "download-count" : 274889,
+    "download-count" : 296165,
     "label" : "2 UI",
     "name" : "2-ui",
-    "updated-date" : "2019-06-22T00:07:00Z",
+    "updated-date" : "2019-06-29T03:09:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info23799"
   }, {
     "category-list" : [ ],
-    "download-count" : 48659,
+    "download-count" : 56029,
     "label" : "NDui",
     "name" : "ndui",
-    "updated-date" : "2019-06-18T01:14:00Z",
+    "updated-date" : "2019-06-29T20:12:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info24846"
   }, {
     "category-list" : [ ],
-    "download-count" : 549,
+    "download-count" : 622,
     "label" : "nUI - Beta/PTR By Scott Piel",
     "name" : "nui-beta-ptr-by-scott-piel",
     "updated-date" : "2019-06-17T19:52:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info24695"
   }, {
     "category-list" : [ ],
-    "download-count" : 24,
+    "download-count" : 45,
     "label" : "PolMonitor Classic Button/Bar Monitor",
     "name" : "polmonitor-classic-button-bar-monitor",
     "updated-date" : "2019-06-21T14:39:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info25033"
   }, {
     "category-list" : [ ],
-    "download-count" : 421,
+    "download-count" : 472,
     "label" : "QuestFrameFixer",
     "name" : "questframefixer",
     "updated-date" : "2019-06-16T18:41:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info25022"
   }, {
     "category-list" : [ ],
-    "download-count" : 80,
+    "download-count" : 92,
     "label" : "StickyFPS Classic",
     "name" : "stickyfps-classic",
     "updated-date" : "2019-06-18T22:40:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info25024"
   }, {
     "category-list" : [ ],
-    "download-count" : 32,
+    "download-count" : 46,
     "label" : "LibRPMedia",
     "name" : "librpmedia",
-    "updated-date" : "2019-06-14T21:55:00Z",
+    "updated-date" : "2019-06-25T10:25:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info25019"
   }, {
     "category-list" : [ ],
-    "download-count" : 1340,
+    "download-count" : 1506,
     "label" : "ClassicAuraDurations",
     "name" : "classicauradurations",
-    "updated-date" : "2019-06-20T19:08:00Z",
+    "updated-date" : "2019-06-25T11:24:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info25006"
   }, {
     "category-list" : [ "Mini Games, ROFL" ],
@@ -377,11 +846,11 @@
     "updated-date" : "2012-03-04T01:22:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info20904"
   }, {
-    "category-list" : [ "Mini Games, ROFL" ],
-    "download-count" : 2469,
+    "category-list" : [ ],
+    "download-count" : 2525,
     "label" : "AGT - Automatic Goblin Therapist",
     "name" : "agt-automatic-goblin-therapist",
-    "updated-date" : "2019-06-01T14:23:00Z",
+    "updated-date" : "2019-06-26T17:35:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info23151"
   }, {
     "category-list" : [ "Graphic UI Mods" ],
@@ -965,11 +1434,11 @@
     "updated-date" : "2013-03-12T03:57:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info20821"
   }, {
-    "category-list" : [ "Miscellaneous" ],
-    "download-count" : 172,
+    "category-list" : [ ],
+    "download-count" : 490,
     "label" : "AdvancedInterfaceOptions",
     "name" : "advancedinterfaceoptions",
-    "updated-date" : "2019-06-13T17:52:00Z",
+    "updated-date" : "2019-06-25T16:10:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info25002"
   }, {
     "category-list" : [ "Character Advancement" ],
@@ -1246,10 +1715,10 @@
     "uri" : "https://www.wowinterface.com/downloads/info8533"
   }, {
     "category-list" : [ ],
-    "download-count" : 35,
+    "download-count" : 49,
     "label" : "Alts",
     "name" : "alts",
-    "updated-date" : "2019-06-21T12:46:00Z",
+    "updated-date" : "2019-06-25T11:58:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info24950"
   }, {
     "category-list" : [ "Mail" ],
@@ -1469,11 +1938,11 @@
     "updated-date" : "2017-01-06T08:37:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info24327"
   }, {
-    "category-list" : [ "Raid Mods", "Healers" ],
-    "download-count" : 24805,
+    "category-list" : [ ],
+    "download-count" : 24936,
     "label" : "Aptechka",
     "name" : "aptechka",
-    "updated-date" : "2019-04-13T04:14:00Z",
+    "updated-date" : "2019-06-26T23:33:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info14339"
   }, {
     "category-list" : [ "Miscellaneous" ],
@@ -1588,11 +2057,11 @@
     "updated-date" : "2017-11-10T12:23:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info22761"
   }, {
-    "category-list" : [ "Data Broker" ],
-    "download-count" : 2899,
+    "category-list" : [ ],
+    "download-count" : 2917,
     "label" : "ArchWizard",
     "name" : "archwizard",
-    "updated-date" : "2018-12-12T07:23:00Z",
+    "updated-date" : "2019-06-29T10:17:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info19413"
   }, {
     "category-list" : [ "Map, Coords, Compasses" ],
@@ -2106,11 +2575,11 @@
     "updated-date" : "2010-11-23T17:32:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info12439"
   }, {
-    "category-list" : [ "Graphic UI Mods" ],
-    "download-count" : 294492,
+    "category-list" : [ ],
+    "download-count" : 295832,
     "label" : "Aurora",
     "name" : "aurora",
-    "updated-date" : "2019-04-14T17:43:00Z",
+    "updated-date" : "2019-06-24T22:18:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info18589"
   }, {
     "category-list" : [ "Graphic UI Mods" ],
@@ -2680,11 +3149,11 @@
     "updated-date" : "2011-07-18T10:39:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info13557"
   }, {
-    "category-list" : [ "Miscellaneous", "Titan Panel", "Data Broker", "Data Mods", "Utility Mods", "Character Advancement" ],
-    "download-count" : 1798,
+    "category-list" : [ ],
+    "download-count" : 2104,
     "label" : "BFAInvasionTimer",
     "name" : "bfainvasiontimer",
-    "updated-date" : "2019-03-17T18:11:00Z",
+    "updated-date" : "2019-06-27T10:36:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info24870"
   }, {
     "category-list" : [ "PvP, Arena, BattleGrounds" ],
@@ -2708,11 +3177,11 @@
     "updated-date" : "2010-12-14T09:26:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info19005"
   }, {
-    "category-list" : [ "PvP, Arena, BattleGrounds" ],
-    "download-count" : 3243,
+    "category-list" : [ ],
+    "download-count" : 3323,
     "label" : "BGCallouts",
     "name" : "bgcallouts",
-    "updated-date" : "2019-04-23T16:37:00Z",
+    "updated-date" : "2019-06-26T09:09:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info23501"
   }, {
     "category-list" : [ "Data Mods", "PvP, Arena, BattleGrounds" ],
@@ -2967,46 +3436,46 @@
     "updated-date" : "2010-11-27T15:46:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info18825"
   }, {
-    "category-list" : [ "Chat Mods" ],
-    "download-count" : 245805,
+    "category-list" : [ ],
+    "download-count" : 246320,
     "label" : "BadBoy: Spam Blocker & Reporter",
     "name" : "badboy-spam-blocker-reporter",
-    "updated-date" : "2019-03-16T13:33:00Z",
+    "updated-date" : "2019-06-27T23:18:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info8736"
   }, {
-    "category-list" : [ "Chat Mods" ],
-    "download-count" : 20003,
+    "category-list" : [ ],
+    "download-count" : 20125,
     "label" : "BadBoy_CCleaner: Filter Crap From Chat",
     "name" : "badboy-ccleaner-filter-crap-from-chat",
-    "updated-date" : "2018-07-17T15:04:00Z",
+    "updated-date" : "2019-06-25T22:11:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info13526"
   }, {
-    "category-list" : [ "Chat Mods" ],
-    "download-count" : 11424,
+    "category-list" : [ ],
+    "download-count" : 11506,
     "label" : "BadBoy_Guilded: Block Guild Advertising",
     "name" : "badboy-guilded-block-guild-advertising",
-    "updated-date" : "2018-07-17T15:03:00Z",
+    "updated-date" : "2019-06-25T22:12:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info16951"
   }, {
-    "category-list" : [ "Chat Mods" ],
-    "download-count" : 3145,
+    "category-list" : [ ],
+    "download-count" : 3183,
     "label" : "BadBoy_History",
     "name" : "badboy-history",
-    "updated-date" : "2018-07-17T15:03:00Z",
+    "updated-date" : "2019-06-25T22:12:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info21134"
   }, {
-    "category-list" : [ "Chat Mods" ],
-    "download-count" : 904,
+    "category-list" : [ ],
+    "download-count" : 954,
     "label" : "BadBoy_Ignore: Infinite Global Ignore List",
     "name" : "badboy-ignore-infinite-global-ignore-list",
-    "updated-date" : "2018-07-17T15:03:00Z",
+    "updated-date" : "2019-06-25T22:14:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info24293"
   }, {
-    "category-list" : [ "Chat Mods" ],
-    "download-count" : 18883,
+    "category-list" : [ ],
+    "download-count" : 18939,
     "label" : "BadBoy_Levels: Filter Whispers By Level",
     "name" : "badboy-levels-filter-whispers-by-level",
-    "updated-date" : "2018-12-21T12:01:00Z",
+    "updated-date" : "2019-06-25T22:15:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info13270"
   }, {
     "category-list" : [ "Druid" ],
@@ -3142,18 +3611,18 @@
     "updated-date" : "2018-03-11T06:45:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info24468"
   }, {
-    "category-list" : [ "Bags, Bank, Inventory" ],
-    "download-count" : 745,
+    "category-list" : [ ],
+    "download-count" : 816,
     "label" : "Bagnon ReagentBankButton",
     "name" : "bagnon-reagentbankbutton",
-    "updated-date" : "2018-12-15T09:57:00Z",
+    "updated-date" : "2019-06-28T02:04:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info24852"
   }, {
-    "category-list" : [ "Bags, Bank, Inventory" ],
-    "download-count" : 1945,
+    "category-list" : [ ],
+    "download-count" : 2149,
     "label" : "Bagnon RequiredLevel",
     "name" : "bagnon-requiredlevel",
-    "updated-date" : "2019-04-10T08:25:00Z",
+    "updated-date" : "2019-06-28T02:08:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info24849"
   }, {
     "category-list" : [ "Bags, Bank, Inventory" ],
@@ -3303,11 +3772,11 @@
     "updated-date" : "2013-09-11T03:06:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info21628"
   }, {
-    "category-list" : [ "Action Bar Mods" ],
-    "download-count" : 1203768,
+    "category-list" : [ ],
+    "download-count" : 1207306,
     "label" : "Bartender4",
     "name" : "bartender4",
-    "updated-date" : "2018-07-22T08:38:00Z",
+    "updated-date" : "2019-06-26T00:10:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info11190"
   }, {
     "category-list" : [ "Action Bar Mods" ],
@@ -3359,39 +3828,39 @@
     "updated-date" : "2010-06-05T09:50:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info11782"
   }, {
-    "category-list" : [ "Buff, Debuff, Spell" ],
-    "download-count" : 1647,
+    "category-list" : [ ],
+    "download-count" : 1658,
     "label" : "BasicBuffHide",
     "name" : "basicbuffhide",
-    "updated-date" : "2018-09-05T11:55:00Z",
+    "updated-date" : "2019-06-25T21:44:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info21687"
   }, {
-    "category-list" : [ "Buff, Debuff, Spell" ],
-    "download-count" : 6612,
+    "category-list" : [ ],
+    "download-count" : 6693,
     "label" : "BasicBuffs",
     "name" : "basicbuffs",
-    "updated-date" : "2018-09-05T12:05:00Z",
+    "updated-date" : "2019-06-25T21:42:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info21939"
   }, {
     "category-list" : [ ],
-    "download-count" : 51242,
+    "download-count" : 51347,
     "label" : "BasicChatMods",
     "name" : "basicchatmods",
-    "updated-date" : "2019-06-19T18:04:00Z",
+    "updated-date" : "2019-06-25T21:41:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info11290"
   }, {
-    "category-list" : [ "Mage", "Rogue", "Combat Mods", "Warlock", "Paladin", "Druid" ],
-    "download-count" : 11367,
+    "category-list" : [ ],
+    "download-count" : 11416,
     "label" : "BasicComboPoints",
     "name" : "basiccombopoints",
-    "updated-date" : "2018-08-05T09:00:00Z",
+    "updated-date" : "2019-06-25T21:40:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info9105"
   }, {
-    "category-list" : [ "Map, Coords, Compasses" ],
-    "download-count" : 63470,
+    "category-list" : [ ],
+    "download-count" : 63639,
     "label" : "BasicMinimap",
     "name" : "basicminimap",
-    "updated-date" : "2019-03-16T13:36:00Z",
+    "updated-date" : "2019-06-25T21:39:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info9101"
   }, {
     "category-list" : [ "Auction House & Vendors" ],
@@ -3898,11 +4367,11 @@
     "updated-date" : "2016-09-16T13:26:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info24203"
   }, {
-    "category-list" : [ "Raid Mods" ],
-    "download-count" : 2604151,
+    "category-list" : [ ],
+    "download-count" : 2605655,
     "label" : "BigWigs Bossmods",
     "name" : "bigwigs-bossmods",
-    "updated-date" : "2019-06-04T20:21:00Z",
+    "updated-date" : "2019-06-25T21:13:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info5086"
   }, {
     "category-list" : [ "Raid Mods" ],
@@ -3947,11 +4416,11 @@
     "updated-date" : "2018-07-27T21:34:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info23493"
   }, {
-    "category-list" : [ "Raid Mods" ],
-    "download-count" : 4825,
+    "category-list" : [ ],
+    "download-count" : 4966,
     "label" : "BigWigs_Voice",
     "name" : "bigwigs-voice",
-    "updated-date" : "2019-04-17T12:50:00Z",
+    "updated-date" : "2019-06-25T21:36:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info24218"
   }, {
     "category-list" : [ "Raid Mods" ],
@@ -4017,11 +4486,11 @@
     "updated-date" : "2018-03-04T03:40:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info23465"
   }, {
-    "category-list" : [ "Miscellaneous", "ToolTip", "Utility Mods", "Character Advancement" ],
-    "download-count" : 2328,
+    "category-list" : [ ],
+    "download-count" : 2356,
     "label" : "Bing",
     "name" : "bing",
-    "updated-date" : "2019-02-17T15:07:00Z",
+    "updated-date" : "2019-06-25T12:16:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info13797"
   }, {
     "category-list" : [ "Raid Mods", "Group, Guild & Friends" ],
@@ -4542,11 +5011,11 @@
     "updated-date" : "2013-05-17T15:39:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info16366"
   }, {
-    "category-list" : [ "Chat Mods" ],
-    "download-count" : 3436,
+    "category-list" : [ ],
+    "download-count" : 3479,
     "label" : "Bosstalk Continued updated by Brellison94",
     "name" : "bosstalk-continued-updated-by-brellison94",
-    "updated-date" : "2018-12-06T18:51:00Z",
+    "updated-date" : "2019-06-25T15:55:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info23239"
   }, {
     "category-list" : [ "Chat Mods" ],
@@ -4619,11 +5088,11 @@
     "updated-date" : "2010-01-25T09:00:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info15728"
   }, {
-    "category-list" : [ "Bags, Bank, Inventory", "TradeSkill Mods" ],
-    "download-count" : 11551,
+    "category-list" : [ ],
+    "download-count" : 11612,
     "label" : "Breakables",
     "name" : "breakables",
-    "updated-date" : "2019-01-12T18:00:00Z",
+    "updated-date" : "2019-06-25T10:00:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info17929"
   }, {
     "category-list" : [ "Monk" ],
@@ -5095,11 +5564,11 @@
     "updated-date" : "2010-08-08T13:59:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info14141"
   }, {
-    "category-list" : [ "Map, Coords, Compasses", "Data Broker" ],
-    "download-count" : 559,
+    "category-list" : [ ],
+    "download-count" : 595,
     "label" : "BrokerDisplayMap",
     "name" : "brokerdisplaymap",
-    "updated-date" : "2018-12-12T07:22:00Z",
+    "updated-date" : "2019-06-29T10:17:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info24590"
   }, {
     "category-list" : [ "Data Broker" ],
@@ -5116,11 +5585,11 @@
     "updated-date" : "2016-08-17T07:42:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info18507"
   }, {
-    "category-list" : [ "Data Broker" ],
-    "download-count" : 7534,
+    "category-list" : [ ],
+    "download-count" : 7596,
     "label" : "BrokerPack",
     "name" : "brokerpack",
-    "updated-date" : "2019-01-05T17:37:00Z",
+    "updated-date" : "2019-06-29T10:17:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info18953"
   }, {
     "category-list" : [ "Data Broker", "Mounts & Pets" ],
@@ -5662,11 +6131,11 @@
     "updated-date" : "2009-09-02T09:19:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info14607"
   }, {
-    "category-list" : [ "Character Advancement" ],
-    "download-count" : 7435,
+    "category-list" : [ ],
+    "download-count" : 8002,
     "label" : "BtWQuests",
     "name" : "btwquests",
-    "updated-date" : "2019-04-14T15:59:00Z",
+    "updated-date" : "2019-06-26T17:35:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info24680"
   }, {
     "category-list" : [ "UI Media" ],
@@ -5900,11 +6369,11 @@
     "updated-date" : "2010-11-14T22:35:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info10487"
   }, {
-    "category-list" : [ "Utility Mods" ],
-    "download-count" : 98731,
+    "category-list" : [ ],
+    "download-count" : 99117,
     "label" : "BugSack",
     "name" : "bugsack",
-    "updated-date" : "2018-07-21T13:26:00Z",
+    "updated-date" : "2019-06-25T21:50:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info5995"
   }, {
     "category-list" : [ "Auction House & Vendors" ],
@@ -6397,11 +6866,11 @@
     "updated-date" : "2014-11-03T11:12:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info6795"
   }, {
-    "category-list" : [ "Bags, Bank, Inventory", "ToolTip", "RolePlay, Music Mods" ],
-    "download-count" : 28114,
+    "category-list" : [ ],
+    "download-count" : 28566,
     "label" : "Can I Mog It?",
     "name" : "can-i-mog-it",
-    "updated-date" : "2019-03-14T14:56:00Z",
+    "updated-date" : "2019-06-25T10:06:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info24015"
   }, {
     "category-list" : [ "Buff, Debuff, Spell" ],
@@ -6426,7 +6895,7 @@
     "uri" : "https://www.wowinterface.com/downloads/info22279"
   }, {
     "category-list" : [ ],
-    "download-count" : 12911,
+    "download-count" : 13099,
     "label" : "Candy Buckets",
     "name" : "candy-buckets",
     "updated-date" : "2019-06-22T05:05:00Z",
@@ -6453,11 +6922,11 @@
     "updated-date" : "2017-11-03T16:21:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info24501"
   }, {
-    "category-list" : [ "Miscellaneous", "Raid Mods", "Combat Mods", "Data Mods", "Utility Mods", "PvP, Arena, BattleGrounds" ],
-    "download-count" : 395555,
+    "category-list" : [ ],
+    "download-count" : 395997,
     "label" : "Capping",
     "name" : "capping",
-    "updated-date" : "2019-04-24T18:21:00Z",
+    "updated-date" : "2019-06-25T21:37:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info11177"
   }, {
     "category-list" : [ "Mini Games, ROFL" ],
@@ -6488,25 +6957,25 @@
     "updated-date" : "2014-06-29T04:33:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info22903"
   }, {
-    "category-list" : [ "Utility Mods" ],
-    "download-count" : 14010,
+    "category-list" : [ ],
+    "download-count" : 14179,
     "label" : "Carbonite Info",
     "name" : "carbonite-info",
-    "updated-date" : "2018-12-13T01:31:00Z",
+    "updated-date" : "2019-06-25T05:46:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info23405"
   }, {
-    "category-list" : [ "Map, Coords, Compasses" ],
-    "download-count" : 10634434,
+    "category-list" : [ ],
+    "download-count" : 10638153,
     "label" : "Carbonite Maps",
     "name" : "carbonite-maps",
-    "updated-date" : "2019-01-11T02:38:00Z",
+    "updated-date" : "2019-06-29T07:40:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info12965"
   }, {
-    "category-list" : [ "ToolTip" ],
-    "download-count" : 57008,
+    "category-list" : [ ],
+    "download-count" : 57627,
     "label" : "Carbonite Quests",
     "name" : "carbonite-quests",
-    "updated-date" : "2019-01-18T10:01:00Z",
+    "updated-date" : "2019-06-29T07:40:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info23404"
   }, {
     "category-list" : [ "Map, Coords, Compasses" ],
@@ -6755,10 +7224,10 @@
     "uri" : "https://www.wowinterface.com/downloads/info12854"
   }, {
     "category-list" : [ ],
-    "download-count" : 4979,
+    "download-count" : 5009,
     "label" : "Character Notes",
     "name" : "character-notes",
-    "updated-date" : "2019-06-21T10:24:00Z",
+    "updated-date" : "2019-06-25T12:10:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info17406"
   }, {
     "category-list" : [ "Mini Games, ROFL" ],
@@ -7385,7 +7854,7 @@
     "uri" : "https://www.wowinterface.com/downloads/info19844"
   }, {
     "category-list" : [ ],
-    "download-count" : 27778,
+    "download-count" : 28624,
     "label" : "Clean Icons - Thin (Fan Update)",
     "name" : "clean-icons-thin-fan-update",
     "updated-date" : "2019-06-22T23:39:00Z",
@@ -8050,7 +8519,7 @@
     "uri" : "https://www.wowinterface.com/downloads/info24866"
   }, {
     "category-list" : [ ],
-    "download-count" : 233,
+    "download-count" : 250,
     "label" : "CoolLevelUp Classic",
     "name" : "coollevelup-classic",
     "updated-date" : "2019-06-21T09:09:00Z",
@@ -8812,11 +9281,11 @@
     "updated-date" : "2015-05-05T15:48:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info23472"
   }, {
-    "category-list" : [ "Combat Mods" ],
-    "download-count" : 377,
+    "category-list" : [ ],
+    "download-count" : 409,
     "label" : "DaVis",
     "name" : "davis",
-    "updated-date" : "2018-11-05T05:51:00Z",
+    "updated-date" : "2019-06-29T10:16:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info24823"
   }, {
     "category-list" : [ "Miscellaneous" ],
@@ -9078,25 +9547,25 @@
     "updated-date" : "2010-10-19T21:49:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info15787"
   }, {
-    "category-list" : [ "Raid Mods" ],
-    "download-count" : 2292505,
+    "category-list" : [ ],
+    "download-count" : 2299444,
     "label" : "Deadly Boss Mods",
     "name" : "deadly-boss-mods",
-    "updated-date" : "2019-05-23T12:43:00Z",
+    "updated-date" : "2019-06-25T09:10:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info8814"
   }, {
-    "category-list" : [ "Combat Mods" ],
-    "download-count" : 43754,
+    "category-list" : [ ],
+    "download-count" : 44075,
     "label" : "Deadly Boss Mods - Cataclysm mods",
     "name" : "deadly-boss-mods-cataclysm-mods",
-    "updated-date" : "2019-04-16T19:51:00Z",
+    "updated-date" : "2019-06-25T09:23:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info21469"
   }, {
-    "category-list" : [ "Raid Mods" ],
-    "download-count" : 21679,
+    "category-list" : [ ],
+    "download-count" : 21970,
     "label" : "Deadly Boss Mods - Mists of Pandaria mods",
     "name" : "deadly-boss-mods-mists-of-pandaria-mods",
-    "updated-date" : "2019-04-17T11:14:00Z",
+    "updated-date" : "2019-06-25T09:21:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info23199"
   }, {
     "category-list" : [ "UI Media" ],
@@ -9106,11 +9575,11 @@
     "updated-date" : "2015-06-21T18:30:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info12887"
   }, {
-    "category-list" : [ "Raid Mods" ],
-    "download-count" : 4856,
+    "category-list" : [ ],
+    "download-count" : 5117,
     "label" : "Deadly Boss Mods - Warlords of Draenor",
     "name" : "deadly-boss-mods-warlords-of-draenor",
-    "updated-date" : "2019-04-16T19:51:00Z",
+    "updated-date" : "2019-06-25T09:22:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info24535"
   }, {
     "category-list" : [ "Combat Mods" ],
@@ -9127,11 +9596,11 @@
     "updated-date" : "2013-04-12T19:15:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info22246"
   }, {
-    "category-list" : [ "Raid Mods", "Combat Mods", "Casting Bars, Cooldowns", "Unit Mods" ],
-    "download-count" : 40933,
+    "category-list" : [ ],
+    "download-count" : 41012,
     "label" : "DeathClock",
     "name" : "deathclock",
-    "updated-date" : "2019-02-17T15:08:00Z",
+    "updated-date" : "2019-06-25T11:49:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info13207"
   }, {
     "category-list" : [ "Miscellaneous" ],
@@ -9323,11 +9792,11 @@
     "updated-date" : "2018-07-13T14:15:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info23930"
   }, {
-    "category-list" : [ "ToolTip" ],
-    "download-count" : 1257,
+    "category-list" : [ ],
+    "download-count" : 1281,
     "label" : "Def's Tooltip",
     "name" : "def-s-tooltip",
-    "updated-date" : "2019-01-25T01:10:00Z",
+    "updated-date" : "2019-06-25T21:29:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info23560"
   }, {
     "category-list" : [ "Casting Bars, Cooldowns" ],
@@ -9394,7 +9863,7 @@
     "uri" : "https://www.wowinterface.com/downloads/info21655"
   }, {
     "category-list" : [ ],
-    "download-count" : 3431,
+    "download-count" : 3479,
     "label" : "DejaStats",
     "name" : "dejastats",
     "updated-date" : "2019-06-19T23:52:00Z",
@@ -9743,11 +10212,11 @@
     "updated-date" : "2013-02-13T17:15:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info22123"
   }, {
-    "category-list" : [ "UI Media" ],
-    "download-count" : 10672,
+    "category-list" : [ ],
+    "download-count" : 10817,
     "label" : "Discord Art",
     "name" : "discord-art",
-    "updated-date" : "2018-12-14T12:21:00Z",
+    "updated-date" : "2019-06-25T12:26:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info21942"
   }, {
     "category-list" : [ "Utility Mods" ],
@@ -9757,11 +10226,11 @@
     "updated-date" : "2008-07-11T05:50:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info8942"
   }, {
-    "category-list" : [ "Unit Mods" ],
-    "download-count" : 26312,
+    "category-list" : [ ],
+    "download-count" : 26422,
     "label" : "Discord Unit Frames",
     "name" : "discord-unit-frames",
-    "updated-date" : "2019-03-15T21:57:00Z",
+    "updated-date" : "2019-06-25T12:25:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info20607"
   }, {
     "category-list" : [ "Miscellaneous" ],
@@ -9792,11 +10261,11 @@
     "updated-date" : "2012-03-23T12:49:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info19435"
   }, {
-    "category-list" : [ "Auction House & Vendors" ],
-    "download-count" : 12886,
+    "category-list" : [ ],
+    "download-count" : 12937,
     "label" : "Divisor",
     "name" : "divisor",
-    "updated-date" : "2018-12-14T19:31:00Z",
+    "updated-date" : "2019-06-26T20:11:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info7295"
   }, {
     "category-list" : [ "Warlock" ],
@@ -9883,11 +10352,11 @@
     "updated-date" : "2014-10-13T21:46:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info23165"
   }, {
-    "category-list" : [ "Action Bar Mods" ],
-    "download-count" : 1331626,
+    "category-list" : [ ],
+    "download-count" : 1334037,
     "label" : "Dominos",
     "name" : "dominos",
-    "updated-date" : "2018-12-15T23:41:00Z",
+    "updated-date" : "2019-06-24T19:42:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info9085"
   }, {
     "category-list" : [ "Raid Mods" ],
@@ -10016,11 +10485,11 @@
     "updated-date" : "2014-11-24T23:20:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info23329"
   }, {
-    "category-list" : [ "Miscellaneous" ],
-    "download-count" : 214,
+    "category-list" : [ ],
+    "download-count" : 267,
     "label" : "Drag It",
     "name" : "drag-it",
-    "updated-date" : "2018-12-12T00:15:00Z",
+    "updated-date" : "2019-06-25T15:23:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info24844"
   }, {
     "category-list" : [ "Miscellaneous" ],
@@ -10346,10 +10815,10 @@
     "uri" : "https://www.wowinterface.com/downloads/info22801"
   }, {
     "category-list" : [ ],
-    "download-count" : 129,
+    "download-count" : 209,
     "label" : "DynamicBoxer",
     "name" : "dynamicboxer",
-    "updated-date" : "2019-06-22T10:28:00Z",
+    "updated-date" : "2019-06-29T20:38:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info25009"
   }, {
     "category-list" : [ "Miscellaneous" ],
@@ -10429,11 +10898,11 @@
     "updated-date" : "2019-05-23T20:35:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info24109"
   }, {
-    "category-list" : [ "Miscellaneous" ],
-    "download-count" : 455,
+    "category-list" : [ ],
+    "download-count" : 2504,
     "label" : "EMA",
     "name" : "ema",
-    "updated-date" : "2019-05-16T08:06:00Z",
+    "updated-date" : "2019-06-26T15:26:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info24836"
   }, {
     "category-list" : [ "Raid Mods" ],
@@ -10493,21 +10962,21 @@
     "uri" : "https://www.wowinterface.com/downloads/info21488"
   }, {
     "category-list" : [ ],
-    "download-count" : 393,
+    "download-count" : 603,
     "label" : "EZCoordinates",
     "name" : "ezcoordinates",
-    "updated-date" : "2019-06-21T11:33:00Z",
+    "updated-date" : "2019-06-24T16:49:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info25011"
   }, {
-    "category-list" : [ "Bags, Bank, Inventory" ],
-    "download-count" : 31,
+    "category-list" : [ ],
+    "download-count" : 143,
     "label" : "EZJunk",
     "name" : "ezjunk",
-    "updated-date" : "2019-06-13T07:51:00Z",
+    "updated-date" : "2019-06-24T12:37:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info25015"
   }, {
     "category-list" : [ ],
-    "download-count" : 281,
+    "download-count" : 402,
     "label" : "EZQuest",
     "name" : "ezquest",
     "updated-date" : "2019-06-21T17:53:00Z",
@@ -11339,11 +11808,11 @@
     "updated-date" : "2016-10-12T15:07:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info23000"
   }, {
-    "category-list" : [ "Combat Mods" ],
-    "download-count" : 39812,
+    "category-list" : [ ],
+    "download-count" : 39871,
     "label" : "ErrorMonster",
     "name" : "errormonster",
-    "updated-date" : "2018-08-08T20:43:00Z",
+    "updated-date" : "2019-06-25T21:51:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info5949"
   }, {
     "category-list" : [ "Data Broker" ],
@@ -11773,11 +12242,11 @@
     "updated-date" : "2014-02-14T01:21:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info22652"
   }, {
-    "category-list" : [ "Utility Mods", "Character Advancement" ],
-    "download-count" : 15109,
+    "category-list" : [ ],
+    "download-count" : 15253,
     "label" : "Faction Addict",
     "name" : "faction-addict",
-    "updated-date" : "2019-03-23T10:20:00Z",
+    "updated-date" : "2019-06-26T09:52:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info20802"
   }, {
     "category-list" : [ "Character Advancement" ],
@@ -11997,18 +12466,18 @@
     "updated-date" : "2014-05-10T08:28:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info13607"
   }, {
-    "category-list" : [ "Unit Mods" ],
-    "download-count" : 307,
+    "category-list" : [ ],
+    "download-count" : 369,
     "label" : "FauxMazzleHUD",
     "name" : "fauxmazzlehud",
-    "updated-date" : "2019-05-21T15:49:00Z",
+    "updated-date" : "2019-06-25T12:27:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info24871"
   }, {
-    "category-list" : [ "Group, Guild & Friends" ],
-    "download-count" : 482,
+    "category-list" : [ ],
+    "download-count" : 528,
     "label" : "FeastDrop",
     "name" : "feastdrop",
-    "updated-date" : "2018-12-20T00:31:00Z",
+    "updated-date" : "2019-06-26T21:48:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info24594"
   }, {
     "category-list" : [ "Hunter" ],
@@ -12739,11 +13208,11 @@
     "updated-date" : "2019-05-15T06:40:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info18256"
   }, {
-    "category-list" : [ "Data Mods" ],
-    "download-count" : 2005,
+    "category-list" : [ ],
+    "download-count" : 2028,
     "label" : "Friend Notes",
     "name" : "friend-notes",
-    "updated-date" : "2019-05-25T22:18:00Z",
+    "updated-date" : "2019-06-25T12:08:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info17699"
   }, {
     "category-list" : [ "RolePlay, Music Mods" ],
@@ -13202,7 +13671,7 @@
     "uri" : "https://www.wowinterface.com/downloads/info23921"
   }, {
     "category-list" : [ ],
-    "download-count" : 202842,
+    "download-count" : 203305,
     "label" : "GTFO",
     "name" : "gtfo",
     "updated-date" : "2019-06-21T01:00:00Z",
@@ -13929,11 +14398,11 @@
     "updated-date" : "2016-01-23T15:17:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info23754"
   }, {
-    "category-list" : [ "Auction House & Vendors" ],
-    "download-count" : 498,
+    "category-list" : [ ],
+    "download-count" : 541,
     "label" : "Goblin Vendor Filter Fan Update",
     "name" : "goblin-vendor-filter-fan-update",
-    "updated-date" : "2018-12-12T00:17:00Z",
+    "updated-date" : "2019-06-25T15:23:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info24778"
   }, {
     "category-list" : [ "UI Media" ],
@@ -14398,11 +14867,11 @@
     "updated-date" : "2012-12-10T11:59:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info21971"
   }, {
-    "category-list" : [ "Action Bar Mods" ],
-    "download-count" : 7578,
+    "category-list" : [ ],
+    "download-count" : 7717,
     "label" : "Gryphons Remover",
     "name" : "gryphons-remover",
-    "updated-date" : "2018-12-14T08:18:00Z",
+    "updated-date" : "2019-06-25T08:37:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info22973"
   }, {
     "category-list" : [ "Group, Guild & Friends" ],
@@ -14454,11 +14923,11 @@
     "updated-date" : "2014-01-21T12:11:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info22715"
   }, {
-    "category-list" : [ "Raid Mods", "Data Mods", "Utility Mods" ],
-    "download-count" : 15684,
+    "category-list" : [ ],
+    "download-count" : 15733,
     "label" : "Guild Launch CT_RaidTracker",
     "name" : "guild-launch-ct-raidtracker",
-    "updated-date" : "2019-04-18T08:30:00Z",
+    "updated-date" : "2019-06-28T09:25:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info21575"
   }, {
     "category-list" : [ "Data Mods" ],
@@ -14525,17 +14994,17 @@
     "uri" : "https://www.wowinterface.com/downloads/info19014"
   }, {
     "category-list" : [ ],
-    "download-count" : 2423,
+    "download-count" : 2518,
     "label" : "Guild Roster Manager",
     "name" : "guild-roster-manager",
-    "updated-date" : "2019-06-19T14:01:00Z",
+    "updated-date" : "2019-06-28T02:05:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info24623"
   }, {
-    "category-list" : [ "Group, Guild & Friends" ],
-    "download-count" : 3484,
+    "category-list" : [ ],
+    "download-count" : 3525,
     "label" : "Guild Search",
     "name" : "guild-search",
-    "updated-date" : "2019-01-16T00:57:00Z",
+    "updated-date" : "2019-06-25T12:09:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info17474"
   }, {
     "category-list" : [ "Group, Guild & Friends" ],
@@ -14776,11 +15245,11 @@
     "updated-date" : "2018-07-21T13:42:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info5460"
   }, {
-    "category-list" : [ "Raid Mods" ],
-    "download-count" : 4032,
+    "category-list" : [ ],
+    "download-count" : 4056,
     "label" : "Gyro: Get Your Raid On!",
     "name" : "gyro-get-your-raid-on",
-    "updated-date" : "2018-12-14T19:31:00Z",
+    "updated-date" : "2019-06-26T20:11:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info6381"
   }, {
     "category-list" : [ "RolePlay, Music Mods" ],
@@ -14881,11 +15350,11 @@
     "updated-date" : "2018-08-08T07:55:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info24406"
   }, {
-    "category-list" : [ "Map, Coords, Compasses" ],
-    "download-count" : 72,
+    "category-list" : [ ],
+    "download-count" : 149,
     "label" : "HandyNotes - Shrines for Jewelcrafters",
     "name" : "handynotes-shrines-for-jewelcrafters",
-    "updated-date" : "2019-06-14T11:53:00Z",
+    "updated-date" : "2019-06-14T11:57:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info24992"
   }, {
     "category-list" : [ "Map, Coords, Compasses" ],
@@ -14909,11 +15378,11 @@
     "updated-date" : "2018-07-29T03:59:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info23267"
   }, {
-    "category-list" : [ "Map, Coords, Compasses" ],
-    "download-count" : 2127,
+    "category-list" : [ ],
+    "download-count" : 2461,
     "label" : "HandyNotes: Mole Machine",
     "name" : "handynotes-mole-machine",
-    "updated-date" : "2019-03-13T00:26:00Z",
+    "updated-date" : "2019-06-26T00:13:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info24766"
   }, {
     "category-list" : [ "Map, Coords, Compasses" ],
@@ -15028,11 +15497,11 @@
     "updated-date" : "2013-12-11T01:20:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info7287"
   }, {
-    "category-list" : [ "Unit Mods" ],
-    "download-count" : 3238823,
+    "category-list" : [ ],
+    "download-count" : 3241506,
     "label" : "HealBot Continued",
     "name" : "healbot-continued",
-    "updated-date" : "2019-05-27T09:12:00Z",
+    "updated-date" : "2019-06-26T13:25:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info6096"
   }, {
     "category-list" : [ "Miscellaneous" ],
@@ -15105,11 +15574,11 @@
     "updated-date" : "2015-04-10T03:23:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info23569"
   }, {
-    "category-list" : [ "Combat Mods", "Casting Bars, Cooldowns", "Druid", "RolePlay, Music Mods" ],
-    "download-count" : 24572,
+    "category-list" : [ ],
+    "download-count" : 24644,
     "label" : "Hear Kitty",
     "name" : "hear-kitty",
-    "updated-date" : "2019-02-05T21:35:00Z",
+    "updated-date" : "2019-06-26T20:11:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info6357"
   }, {
     "category-list" : [ "RolePlay, Music Mods" ],
@@ -15938,11 +16407,11 @@
     "updated-date" : "2014-01-26T01:27:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info20425"
   }, {
-    "category-list" : [ "Combat Mods", "Casting Bars, Cooldowns", "Buff, Debuff, Spell", "Unit Mods" ],
-    "download-count" : 307334,
+    "category-list" : [ ],
+    "download-count" : 307852,
     "label" : "IceHUD",
     "name" : "icehud",
-    "updated-date" : "2019-06-03T23:00:00Z",
+    "updated-date" : "2019-06-25T09:06:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info8149"
   }, {
     "category-list" : [ "Rogue" ],
@@ -16009,10 +16478,10 @@
     "uri" : "https://www.wowinterface.com/downloads/info20963"
   }, {
     "category-list" : [ ],
-    "download-count" : 74,
+    "download-count" : 114,
     "label" : "IgniteTracker (Classic)",
     "name" : "ignitetracker-classic",
-    "updated-date" : "2019-06-15T10:10:00Z",
+    "updated-date" : "2019-06-23T16:06:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info25018"
   }, {
     "category-list" : [ "Miscellaneous" ],
@@ -16323,11 +16792,11 @@
     "updated-date" : "2018-12-13T09:26:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info24082"
   }, {
-    "category-list" : [ "Character Advancement" ],
-    "download-count" : 2637,
+    "category-list" : [ ],
+    "download-count" : 2840,
     "label" : "Instance Achievement Tracker",
     "name" : "instance-achievement-tracker",
-    "updated-date" : "2019-06-05T13:15:00Z",
+    "updated-date" : "2019-06-29T07:45:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info24756"
   }, {
     "category-list" : [ "Miscellaneous", "Bags, Bank, Inventory" ],
@@ -16680,11 +17149,11 @@
     "updated-date" : "2018-07-20T11:54:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info4148"
   }, {
-    "category-list" : [ "Miscellaneous", "Bags, Bank, Inventory", "ToolTip", "TradeSkill Mods", "Utility Mods" ],
-    "download-count" : 789,
+    "category-list" : [ ],
+    "download-count" : 849,
     "label" : "ItemType",
     "name" : "itemtype",
-    "updated-date" : "2019-02-17T15:10:00Z",
+    "updated-date" : "2019-06-25T11:50:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info24600"
   }, {
     "category-list" : [ "Map, Coords, Compasses" ],
@@ -16995,11 +17464,11 @@
     "updated-date" : "2014-07-16T11:26:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info22937"
   }, {
-    "category-list" : [ "TradeSkill Mods" ],
-    "download-count" : 2456,
+    "category-list" : [ ],
+    "download-count" : 2491,
     "label" : "Juwe: Gem Stats instead of Names",
     "name" : "juwe-gem-stats-instead-of-names",
-    "updated-date" : "2018-07-17T08:28:00Z",
+    "updated-date" : "2019-06-26T11:49:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info22293"
   }, {
     "category-list" : [ "PvP, Arena, BattleGrounds" ],
@@ -17226,8 +17695,8 @@
     "updated-date" : "2017-04-29T16:27:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info24382"
   }, {
-    "category-list" : [ "Data Broker", "Data Mods" ],
-    "download-count" : 414,
+    "category-list" : [ ],
+    "download-count" : 444,
     "label" : "KeystoneManager",
     "name" : "keystonemanager",
     "updated-date" : "2019-06-09T08:47:00Z",
@@ -18038,11 +18507,11 @@
     "updated-date" : "2018-07-22T12:48:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info24343"
   }, {
-    "category-list" : [ "Miscellaneous", "Titan Panel", "Data Broker", "Data Mods", "Utility Mods", "Character Advancement" ],
-    "download-count" : 6919,
+    "category-list" : [ ],
+    "download-count" : 7148,
     "label" : "LegionInvasionTimer",
     "name" : "legioninvasiontimer",
-    "updated-date" : "2019-03-17T18:17:00Z",
+    "updated-date" : "2019-06-27T10:37:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info24128"
   }, {
     "category-list" : [ "UI Media" ],
@@ -18451,11 +18920,11 @@
     "updated-date" : "2014-08-06T19:01:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info22059"
   }, {
-    "category-list" : [ "Combat Mods", "Group, Guild & Friends" ],
-    "download-count" : 74958,
+    "category-list" : [ ],
+    "download-count" : 75330,
     "label" : "LittleWigs",
     "name" : "littlewigs",
-    "updated-date" : "2019-05-11T13:27:00Z",
+    "updated-date" : "2019-06-25T21:14:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info9577"
   }, {
     "category-list" : [ "Miscellaneous" ],
@@ -18619,8 +19088,8 @@
     "updated-date" : "2015-02-03T04:45:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info23483"
   }, {
-    "category-list" : [ "Chat Mods" ],
-    "download-count" : 1539,
+    "category-list" : [ ],
+    "download-count" : 1609,
     "label" : "LookingForGroup",
     "name" : "lookingforgroup",
     "updated-date" : "2019-06-08T01:30:00Z",
@@ -19039,11 +19508,11 @@
     "updated-date" : "2011-07-02T19:52:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info10653"
   }, {
-    "category-list" : [ "Miscellaneous" ],
-    "download-count" : 3173,
+    "category-list" : [ ],
+    "download-count" : 3480,
     "label" : "MDGuildBest",
     "name" : "mdguildbest",
-    "updated-date" : "2018-12-13T12:33:00Z",
+    "updated-date" : "2019-06-23T22:24:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info24824"
   }, {
     "category-list" : [ "Rogue" ],
@@ -19298,11 +19767,11 @@
     "updated-date" : "2012-09-18T12:06:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info20084"
   }, {
-    "category-list" : [ "Action Bar Mods" ],
-    "download-count" : 10354,
+    "category-list" : [ ],
+    "download-count" : 10466,
     "label" : "MagnetButtons",
     "name" : "magnetbuttons",
-    "updated-date" : "2019-04-24T22:00:00Z",
+    "updated-date" : "2019-06-27T00:32:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info14679"
   }, {
     "category-list" : [ "TradeSkill Mods" ],
@@ -19536,11 +20005,11 @@
     "updated-date" : "2018-08-19T14:31:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info24372"
   }, {
-    "category-list" : [ "Map, Coords, Compasses" ],
-    "download-count" : 335367,
+    "category-list" : [ ],
+    "download-count" : 336546,
     "label" : "Mapster",
     "name" : "mapster",
-    "updated-date" : "2018-07-17T13:54:00Z",
+    "updated-date" : "2019-06-26T00:49:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info8306"
   }, {
     "category-list" : [ "Map, Coords, Compasses" ],
@@ -19866,7 +20335,7 @@
     "uri" : "https://www.wowinterface.com/downloads/info24638"
   }, {
     "category-list" : [ ],
-    "download-count" : 2227,
+    "download-count" : 2277,
     "label" : "MaxDps Demon Hunter",
     "name" : "maxdps-demon-hunter",
     "updated-date" : "2019-06-16T15:14:00Z",
@@ -20110,11 +20579,11 @@
     "updated-date" : "2013-03-05T10:56:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info22161"
   }, {
-    "category-list" : [ "PvP, Arena, BattleGrounds" ],
-    "download-count" : 1140,
+    "category-list" : [ ],
+    "download-count" : 1194,
     "label" : "MicroDeclineDuel",
     "name" : "microdeclineduel",
-    "updated-date" : "2018-12-14T08:17:00Z",
+    "updated-date" : "2019-06-25T08:37:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info22974"
   }, {
     "category-list" : [ "Character Advancement" ],
@@ -20887,11 +21356,11 @@
     "updated-date" : "2012-09-01T13:01:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info21514"
   }, {
-    "category-list" : [ "Utility Mods" ],
-    "download-count" : 1386,
+    "category-list" : [ ],
+    "download-count" : 1407,
     "label" : "Move Pad Plus",
     "name" : "move-pad-plus",
-    "updated-date" : "2018-12-14T12:25:00Z",
+    "updated-date" : "2019-06-25T12:33:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info23723"
   }, {
     "category-list" : [ "Miscellaneous" ],
@@ -21048,11 +21517,11 @@
     "updated-date" : "2015-01-04T07:15:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info9590"
   }, {
-    "category-list" : [ "Miscellaneous", "Mini Games, ROFL", "RolePlay, Music Mods", "Other" ],
-    "download-count" : 79,
+    "category-list" : [ ],
+    "download-count" : 132,
     "label" : "Musician",
     "name" : "musician",
-    "updated-date" : "2019-06-05T16:01:00Z",
+    "updated-date" : "2019-06-24T11:38:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info24915"
   }, {
     "category-list" : [ "Warrior" ],
@@ -21230,11 +21699,11 @@
     "updated-date" : "2014-11-11T11:27:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info23253"
   }, {
-    "category-list" : [ "RolePlay, Music Mods" ],
-    "download-count" : 33941,
+    "category-list" : [ ],
+    "download-count" : 34121,
     "label" : "MyRolePlay",
     "name" : "myroleplay",
-    "updated-date" : "2019-06-07T11:21:00Z",
+    "updated-date" : "2019-06-25T22:31:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info4990"
   }, {
     "category-list" : [ "RolePlay, Music Mods" ],
@@ -21608,11 +22077,11 @@
     "updated-date" : "2011-07-02T13:05:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info20039"
   }, {
-    "category-list" : [ "Action Bar Mods" ],
-    "download-count" : 432421,
+    "category-list" : [ ],
+    "download-count" : 432752,
     "label" : "Neuron",
     "name" : "neuron",
-    "updated-date" : "2019-06-10T21:49:00Z",
+    "updated-date" : "2019-06-28T00:23:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info10636"
   }, {
     "category-list" : [ "Graphic UI Mods" ],
@@ -22056,18 +22525,18 @@
     "updated-date" : "2018-08-25T00:58:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info24716"
   }, {
-    "category-list" : [ "Rogue", "Shaman", "Combat Mods", "Warlock", "Paladin", "Druid" ],
-    "download-count" : 210647,
+    "category-list" : [ ],
+    "download-count" : 211080,
     "label" : "NugComboBar",
     "name" : "nugcombobar",
-    "updated-date" : "2018-12-15T10:21:00Z",
+    "updated-date" : "2019-06-25T09:49:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info6308"
   }, {
-    "category-list" : [ "Warrior", "Rogue", "Druid" ],
-    "download-count" : 36445,
+    "category-list" : [ ],
+    "download-count" : 36574,
     "label" : "NugEnergy",
     "name" : "nugenergy",
-    "updated-date" : "2018-12-15T20:36:00Z",
+    "updated-date" : "2019-06-25T09:50:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info9099"
   }, {
     "category-list" : [ "Warrior", "Tank", "Monk" ],
@@ -22077,11 +22546,11 @@
     "updated-date" : "2018-09-17T04:27:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info24281"
   }, {
-    "category-list" : [ "Miscellaneous" ],
-    "download-count" : 289,
+    "category-list" : [ ],
+    "download-count" : 308,
     "label" : "NugInspect",
     "name" : "nuginspect",
-    "updated-date" : "2018-07-16T06:40:00Z",
+    "updated-date" : "2019-06-25T09:50:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info24631"
   }, {
     "category-list" : [ "Mounts & Pets" ],
@@ -22098,11 +22567,11 @@
     "updated-date" : "2012-09-03T23:46:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info11132"
   }, {
-    "category-list" : [ "Combat Mods", "Priest", "Warlock", "Buff, Debuff, Spell" ],
-    "download-count" : 98117,
+    "category-list" : [ ],
+    "download-count" : 98635,
     "label" : "NugRunning",
     "name" : "nugrunning",
-    "updated-date" : "2018-12-15T10:22:00Z",
+    "updated-date" : "2019-06-25T09:52:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info10440"
   }, {
     "category-list" : [ "Action Bar Mods" ],
@@ -22112,11 +22581,11 @@
     "updated-date" : "2011-07-05T15:32:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info7001"
   }, {
-    "category-list" : [ "Combat Mods", "Data Mods" ],
-    "download-count" : 50920,
+    "category-list" : [ ],
+    "download-count" : 51187,
     "label" : "Numeration Damage Meter",
     "name" : "numeration-damage-meter",
-    "updated-date" : "2018-12-29T08:20:00Z",
+    "updated-date" : "2019-06-27T10:18:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info17434"
   }, {
     "category-list" : [ "Data Mods" ],
@@ -22350,11 +22819,11 @@
     "updated-date" : "2015-04-17T08:13:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info23235"
   }, {
-    "category-list" : [ "Casting Bars, Cooldowns" ],
-    "download-count" : 1759584,
+    "category-list" : [ ],
+    "download-count" : 1760555,
     "label" : "OmniCC",
     "name" : "omnicc",
-    "updated-date" : "2019-01-15T21:00:00Z",
+    "updated-date" : "2019-06-24T20:00:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info4836"
   }, {
     "category-list" : [ "Combat Mods", "Healers", "Casting Bars, Cooldowns", "Buff, Debuff, Spell", "PvP, Arena, BattleGrounds", "Unit Mods" ],
@@ -22903,11 +23372,11 @@
     "updated-date" : "2011-11-29T22:07:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info20395"
   }, {
-    "category-list" : [ "Combat Mods" ],
-    "download-count" : 19852,
+    "category-list" : [ ],
+    "download-count" : 20054,
     "label" : "Parrot 2",
     "name" : "parrot-2",
-    "updated-date" : "2018-12-18T01:14:00Z",
+    "updated-date" : "2019-06-26T16:34:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info24143"
   }, {
     "category-list" : [ "Combat Mods" ],
@@ -23008,11 +23477,11 @@
     "updated-date" : "2014-01-16T22:23:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info9465"
   }, {
-    "category-list" : [ "Bags, Bank, Inventory" ],
-    "download-count" : 324380,
+    "category-list" : [ ],
+    "download-count" : 326421,
     "label" : "Pawn",
     "name" : "pawn",
-    "updated-date" : "2019-05-01T10:29:00Z",
+    "updated-date" : "2019-06-26T20:10:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info7296"
   }, {
     "category-list" : [ "Bags, Bank, Inventory", "Auction House & Vendors" ],
@@ -23036,11 +23505,11 @@
     "updated-date" : "2017-02-14T07:46:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info24346"
   }, {
-    "category-list" : [ "Chat Mods" ],
-    "download-count" : 2236,
+    "category-list" : [ ],
+    "download-count" : 2265,
     "label" : "Peace And Quiet",
     "name" : "peace-and-quiet",
-    "updated-date" : "2019-05-25T19:55:00Z",
+    "updated-date" : "2019-06-25T12:09:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info17703"
   }, {
     "category-list" : [ "Bags, Bank, Inventory", "Auction House & Vendors" ],
@@ -23120,11 +23589,11 @@
     "updated-date" : "2011-06-16T18:37:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info19970"
   }, {
-    "category-list" : [ "Unit Mods" ],
-    "download-count" : 912415,
+    "category-list" : [ ],
+    "download-count" : 912933,
     "label" : "Perl Classic Unit Frames",
     "name" : "perl-classic-unit-frames",
-    "updated-date" : "2019-05-04T11:14:00Z",
+    "updated-date" : "2019-06-26T02:11:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info4275"
   }, {
     "category-list" : [ "Mounts & Pets" ],
@@ -23142,17 +23611,17 @@
     "uri" : "https://www.wowinterface.com/downloads/info19066"
   }, {
     "category-list" : [ ],
-    "download-count" : 2564,
+    "download-count" : 2588,
     "label" : "PersoLootRoll",
     "name" : "persolootroll",
-    "updated-date" : "2019-06-17T11:49:00Z",
+    "updated-date" : "2019-06-25T15:27:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info24667"
   }, {
-    "category-list" : [ "ToolTip" ],
-    "download-count" : 391,
+    "category-list" : [ ],
+    "download-count" : 447,
     "label" : "Personal Blacklist",
     "name" : "personal-blacklist",
-    "updated-date" : "2019-03-16T19:23:00Z",
+    "updated-date" : "2019-06-25T12:30:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info24841"
   }, {
     "category-list" : [ "Mounts & Pets" ],
@@ -23520,10 +23989,10 @@
     "uri" : "https://www.wowinterface.com/downloads/info6871"
   }, {
     "category-list" : [ ],
-    "download-count" : 45915,
+    "download-count" : 46053,
     "label" : "PitBull Unit Frames 4.0",
     "name" : "pitbull-unit-frames-4-0",
-    "updated-date" : "2019-06-15T02:55:00Z",
+    "updated-date" : "2019-06-26T16:30:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info20021"
   }, {
     "category-list" : [ "Unit Mods" ],
@@ -24562,11 +25031,11 @@
     "updated-date" : "2010-03-28T19:36:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info16023"
   }, {
-    "category-list" : [ "Miscellaneous", "Character Advancement" ],
-    "download-count" : 5341,
+    "category-list" : [ ],
+    "download-count" : 5444,
     "label" : "QuestSounds",
     "name" : "questsounds",
-    "updated-date" : "2018-07-29T10:49:00Z",
+    "updated-date" : "2019-06-26T10:31:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info18219"
   }, {
     "category-list" : [ "Character Advancement" ],
@@ -24842,39 +25311,39 @@
     "updated-date" : "2017-03-05T04:17:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info11127"
   }, {
-    "category-list" : [ "Data Mods", "PvP, Arena, BattleGrounds" ],
-    "download-count" : 30131,
+    "category-list" : [ ],
+    "download-count" : 30266,
     "label" : "REFlex - Arena/Battleground Historian",
     "name" : "reflex-arena-battleground-historian",
-    "updated-date" : "2019-03-20T04:42:00Z",
+    "updated-date" : "2019-06-26T06:43:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info19190"
   }, {
-    "category-list" : [ "Data Mods", "FuBar" ],
-    "download-count" : 2042,
+    "category-list" : [ ],
+    "download-count" : 2125,
     "label" : "REKeys - Keystone Manager",
     "name" : "rekeys-keystone-manager",
-    "updated-date" : "2019-03-13T00:42:00Z",
+    "updated-date" : "2019-06-26T00:15:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info24510"
   }, {
-    "category-list" : [ "Garrisons" ],
-    "download-count" : 3773,
+    "category-list" : [ ],
+    "download-count" : 3921,
     "label" : "RENovate - Mission Table Extension",
     "name" : "renovate-mission-table-extension",
-    "updated-date" : "2019-03-13T00:32:00Z",
+    "updated-date" : "2019-06-26T04:34:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info24477"
   }, {
-    "category-list" : [ "Map, Coords, Compasses", "Combat Mods", "Data Mods", "PvP, Arena, BattleGrounds" ],
-    "download-count" : 22208,
+    "category-list" : [ ],
+    "download-count" : 22391,
     "label" : "REPorter - Battleground Map",
     "name" : "reporter-battleground-map",
-    "updated-date" : "2019-05-29T07:55:00Z",
+    "updated-date" : "2019-06-26T04:43:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info21089"
   }, {
-    "category-list" : [ "Miscellaneous", "PvP, Arena, BattleGrounds" ],
-    "download-count" : 27691,
+    "category-list" : [ ],
+    "download-count" : 27819,
     "label" : "RETabBinder - PVP Smart Targeting",
     "name" : "retabbinder-pvp-smart-targeting",
-    "updated-date" : "2018-12-14T01:06:00Z",
+    "updated-date" : "2019-06-26T00:13:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info19089"
   }, {
     "category-list" : [ "RolePlay, Music Mods" ],
@@ -25088,7 +25557,7 @@
     "uri" : "https://www.wowinterface.com/downloads/info15878"
   }, {
     "category-list" : [ ],
-    "download-count" : 130208,
+    "download-count" : 130346,
     "label" : "RaidAchievement",
     "name" : "raidachievement",
     "updated-date" : "2019-06-14T17:01:00Z",
@@ -25745,11 +26214,11 @@
     "updated-date" : "2014-12-21T15:02:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info23403"
   }, {
-    "category-list" : [ "Utility Mods" ],
-    "download-count" : 37828,
+    "category-list" : [ ],
+    "download-count" : 38002,
     "label" : "Reflux",
     "name" : "reflux",
-    "updated-date" : "2018-12-12T00:20:00Z",
+    "updated-date" : "2019-06-25T15:22:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info12811"
   }, {
     "category-list" : [ "Bags, Bank, Inventory" ],
@@ -25795,17 +26264,17 @@
     "uri" : "https://www.wowinterface.com/downloads/info21896"
   }, {
     "category-list" : [ ],
-    "download-count" : 72773,
+    "download-count" : 73404,
     "label" : "Rematch",
     "name" : "rematch",
-    "updated-date" : "2019-06-15T20:27:00Z",
+    "updated-date" : "2019-06-26T20:12:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info22190"
   }, {
-    "category-list" : [ "Mounts & Pets" ],
-    "download-count" : 4347,
+    "category-list" : [ ],
+    "download-count" : 4465,
     "label" : "Rematch ElvUI Skin",
     "name" : "rematch-elvui-skin",
-    "updated-date" : "2019-03-03T21:03:00Z",
+    "updated-date" : "2019-06-29T05:58:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info23865"
   }, {
     "category-list" : [ "Mounts & Pets" ],
@@ -25913,11 +26382,11 @@
     "updated-date" : "2013-06-04T16:54:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info22302"
   }, {
-    "category-list" : [ "Miscellaneous", "Utility Mods", "Character Advancement" ],
-    "download-count" : 4296,
+    "category-list" : [ ],
+    "download-count" : 4327,
     "label" : "RepSwitch",
     "name" : "repswitch",
-    "updated-date" : "2019-02-17T15:11:00Z",
+    "updated-date" : "2019-06-25T11:51:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info13059"
   }, {
     "category-list" : [ "Miscellaneous" ],
@@ -26424,11 +26893,11 @@
     "updated-date" : "2013-06-22T10:40:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info21714"
   }, {
-    "category-list" : [ "Other" ],
-    "download-count" : 183905,
+    "category-list" : [ ],
+    "download-count" : 184187,
     "label" : "SLDataText",
     "name" : "sldatatext",
-    "updated-date" : "2018-12-16T00:56:00Z",
+    "updated-date" : "2019-06-25T15:25:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info8539"
   }, {
     "category-list" : [ "Other" ],
@@ -26537,10 +27006,10 @@
     "uri" : "https://www.wowinterface.com/downloads/info12646"
   }, {
     "category-list" : [ ],
-    "download-count" : 67106,
+    "download-count" : 102196,
     "label" : "SUI",
     "name" : "sui",
-    "updated-date" : "2019-06-20T14:02:00Z",
+    "updated-date" : "2019-06-27T12:57:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info24007"
   }, {
     "category-list" : [ "Action Bar Mods", "Graphic UI Mods", "UI Media" ],
@@ -26886,11 +27355,11 @@
     "updated-date" : "2011-03-15T15:47:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info8223"
   }, {
-    "category-list" : [ "Graphic UI Mods", "Miscellaneous", "UI Media", "Utility Mods" ],
-    "download-count" : 6675,
+    "category-list" : [ ],
+    "download-count" : 6719,
     "label" : "ScrapBook",
     "name" : "scrapbook",
-    "updated-date" : "2019-02-17T15:12:00Z",
+    "updated-date" : "2019-06-25T12:17:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info10435"
   }, {
     "category-list" : [ "Miscellaneous" ],
@@ -26921,11 +27390,11 @@
     "updated-date" : "2016-04-01T08:38:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info17615"
   }, {
-    "category-list" : [ "Miscellaneous" ],
-    "download-count" : 117,
+    "category-list" : [ ],
+    "download-count" : 137,
     "label" : "Screenshoter",
     "name" : "screenshoter",
-    "updated-date" : "2018-08-06T07:16:00Z",
+    "updated-date" : "2019-06-26T06:35:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info24758"
   }, {
     "category-list" : [ "Combat Mods" ],
@@ -26949,11 +27418,11 @@
     "updated-date" : "2013-01-13T17:28:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info22064"
   }, {
-    "category-list" : [ "Chat Mods", "Group, Guild & Friends" ],
-    "download-count" : 5366,
+    "category-list" : [ ],
+    "download-count" : 5412,
     "label" : "ScrollingChatText",
     "name" : "scrollingchattext",
-    "updated-date" : "2018-08-12T11:32:00Z",
+    "updated-date" : "2019-06-23T16:51:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info20827"
   }, {
     "category-list" : [ "Mounts & Pets" ],
@@ -27174,10 +27643,10 @@
     "uri" : "https://www.wowinterface.com/downloads/info24320"
   }, {
     "category-list" : [ ],
-    "download-count" : 79012,
+    "download-count" : 80271,
     "label" : "SexyMap",
     "name" : "sexymap",
-    "updated-date" : "2019-06-19T17:53:00Z",
+    "updated-date" : "2019-06-25T21:38:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info21538"
   }, {
     "category-list" : [ "Paladin" ],
@@ -27369,11 +27838,11 @@
     "updated-date" : "2019-05-05T13:00:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info22318"
   }, {
-    "category-list" : [ "Graphic UI Mods", "Miscellaneous", "UI Media" ],
-    "download-count" : 230,
+    "category-list" : [ ],
+    "download-count" : 252,
     "label" : "SharedMedia_Noto (International Fonts)",
     "name" : "sharedmedia-noto-international-fonts",
-    "updated-date" : "2018-09-08T20:18:00Z",
+    "updated-date" : "2019-06-25T21:46:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info24813"
   }, {
     "category-list" : [ "Mage" ],
@@ -27712,11 +28181,11 @@
     "updated-date" : "2012-09-07T17:35:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info13386"
   }, {
-    "category-list" : [ "Miscellaneous", "Data Mods", "Mounts & Pets" ],
-    "download-count" : 212806,
+    "category-list" : [ ],
+    "download-count" : 213532,
     "label" : "SilverDragon",
     "name" : "silverdragon",
-    "updated-date" : "2019-03-16T02:03:00Z",
+    "updated-date" : "2019-06-27T23:46:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info6606"
   }, {
     "category-list" : [ "UI Media" ],
@@ -28195,11 +28664,11 @@
     "updated-date" : "2018-09-22T16:52:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info9435"
   }, {
-    "category-list" : [ "TradeSkill Mods" ],
-    "download-count" : 91308,
+    "category-list" : [ ],
+    "download-count" : 91571,
     "label" : "Skillet",
     "name" : "skillet",
-    "updated-date" : "2018-12-14T21:37:00Z",
+    "updated-date" : "2019-06-26T08:01:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info7571"
   }, {
     "category-list" : [ "TradeSkill Mods" ],
@@ -28265,11 +28734,11 @@
     "updated-date" : "2018-06-05T16:11:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info11549"
   }, {
-    "category-list" : [ "Miscellaneous" ],
-    "download-count" : 10661,
+    "category-list" : [ ],
+    "download-count" : 10719,
     "label" : "SlashIn ( /in )",
     "name" : "slashin-in",
-    "updated-date" : "2018-07-17T14:45:00Z",
+    "updated-date" : "2019-06-25T21:44:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info18054"
   }, {
     "category-list" : [ "Miscellaneous" ],
@@ -28370,8 +28839,8 @@
     "updated-date" : "2016-08-17T01:12:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info4584"
   }, {
-    "category-list" : [ "Buff, Debuff, Spell" ],
-    "download-count" : 443,
+    "category-list" : [ ],
+    "download-count" : 575,
     "label" : "SmartBuff Classic",
     "name" : "smartbuff-classic",
     "updated-date" : "2019-06-11T15:01:00Z",
@@ -28805,10 +29274,10 @@
     "uri" : "https://www.wowinterface.com/downloads/info24349"
   }, {
     "category-list" : [ ],
-    "download-count" : 147003,
+    "download-count" : 147535,
     "label" : "SpartanUI",
     "name" : "spartanui",
-    "updated-date" : "2019-06-22T02:08:00Z",
+    "updated-date" : "2019-06-28T00:15:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info18206"
   }, {
     "category-list" : [ "UI Media" ],
@@ -28818,11 +29287,11 @@
     "updated-date" : "2016-07-28T03:55:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info23817"
   }, {
-    "category-list" : [ "Buff, Debuff, Spell" ],
-    "download-count" : 9,
+    "category-list" : [ ],
+    "download-count" : 29,
     "label" : "Spatial Rift Countdown",
     "name" : "spatial-rift-countdown",
-    "updated-date" : "2019-06-13T22:42:00Z",
+    "updated-date" : "2019-06-28T10:02:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info25017"
   }, {
     "category-list" : [ "Raid Mods", "Character Advancement" ],
@@ -29182,11 +29651,11 @@
     "updated-date" : "2010-11-03T21:15:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info18642"
   }, {
-    "category-list" : [ "Monk", "Combat Mods", "Buff, Debuff, Spell" ],
-    "download-count" : 21369,
+    "category-list" : [ ],
+    "download-count" : 21650,
     "label" : "Stagger",
     "name" : "stagger",
-    "updated-date" : "2018-07-24T20:55:00Z",
+    "updated-date" : "2019-06-23T20:57:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info22428"
   }, {
     "category-list" : [ "Bags, Bank, Inventory" ],
@@ -29616,11 +30085,11 @@
     "updated-date" : "2014-01-12T12:53:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info22658"
   }, {
-    "category-list" : [ "RolePlay, Music Mods", "Character Advancement" ],
-    "download-count" : 16271,
+    "category-list" : [ ],
+    "download-count" : 16493,
     "label" : "Storyline",
     "name" : "storyline",
-    "updated-date" : "2019-05-24T10:43:00Z",
+    "updated-date" : "2019-06-29T12:37:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info23782"
   }, {
     "category-list" : [ "Combat Mods" ],
@@ -30134,11 +30603,11 @@
     "updated-date" : "2010-11-08T12:00:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info18692"
   }, {
-    "category-list" : [ "Data Mods", "Character Advancement" ],
-    "download-count" : 23364,
+    "category-list" : [ ],
+    "download-count" : 23506,
     "label" : "Tabard Addict",
     "name" : "tabard-addict",
-    "updated-date" : "2019-03-23T10:22:00Z",
+    "updated-date" : "2019-06-26T09:53:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info19510"
   }, {
     "category-list" : [ "ToolTip" ],
@@ -30379,11 +30848,11 @@
     "updated-date" : "2011-01-09T14:53:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info19202"
   }, {
-    "category-list" : [ "Unit Mods" ],
-    "download-count" : 18826,
+    "category-list" : [ ],
+    "download-count" : 18902,
     "label" : "TargetPercent",
     "name" : "targetpercent",
-    "updated-date" : "2018-07-17T16:18:00Z",
+    "updated-date" : "2019-06-25T21:47:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info15903"
   }, {
     "category-list" : [ "Raid Mods" ],
@@ -30674,10 +31143,10 @@
     "uri" : "https://www.wowinterface.com/downloads/info23954"
   }, {
     "category-list" : [ ],
-    "download-count" : 94472,
+    "download-count" : 95153,
     "label" : "The Undermine Journal",
     "name" : "the-undermine-journal",
-    "updated-date" : "2019-06-22T03:39:00Z",
+    "updated-date" : "2019-06-29T03:38:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info19662"
   }, {
     "category-list" : [ "Auction House & Vendors" ],
@@ -30722,11 +31191,11 @@
     "updated-date" : "2015-07-04T07:24:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info17609"
   }, {
-    "category-list" : [ "Tank", "Healers", "DPS", "Buff, Debuff, Spell", "Unit Mods" ],
-    "download-count" : 170962,
+    "category-list" : [ ],
+    "download-count" : 172330,
     "label" : "Threat Plates",
     "name" : "threat-plates",
-    "updated-date" : "2019-05-31T08:03:00Z",
+    "updated-date" : "2019-06-25T12:09:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info15749"
   }, {
     "category-list" : [ "Combat Mods" ],
@@ -30751,10 +31220,10 @@
     "uri" : "https://www.wowinterface.com/downloads/info21888"
   }, {
     "category-list" : [ ],
-    "download-count" : 12923,
+    "download-count" : 13180,
     "label" : "ThuBzBlizzUI",
     "name" : "thubzblizzui",
-    "updated-date" : "2019-06-23T03:45:00Z",
+    "updated-date" : "2019-06-27T10:13:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info24315"
   }, {
     "category-list" : [ "Data Broker" ],
@@ -30925,11 +31394,11 @@
     "updated-date" : "2011-02-17T19:29:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info19447"
   }, {
-    "category-list" : [ "Bags, Bank, Inventory", "ToolTip" ],
-    "download-count" : 8779,
+    "category-list" : [ ],
+    "download-count" : 9078,
     "label" : "TinyInspect",
     "name" : "tinyinspect",
-    "updated-date" : "2019-03-21T05:11:00Z",
+    "updated-date" : "2019-06-23T19:23:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info24689"
   }, {
     "category-list" : [ "Data Mods" ],
@@ -30953,11 +31422,11 @@
     "updated-date" : "2009-06-13T16:54:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info5096"
   }, {
-    "category-list" : [ "Bags, Bank, Inventory", "ToolTip", "Buff, Debuff, Spell" ],
-    "download-count" : 4793,
+    "category-list" : [ ],
+    "download-count" : 4999,
     "label" : "TinyTooltip",
     "name" : "tinytooltip",
-    "updated-date" : "2019-04-08T23:22:00Z",
+    "updated-date" : "2019-06-23T19:24:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info24688"
   }, {
     "category-list" : [ "Graphic UI Mods", "Bags, Bank, Inventory", "ToolTip", "Data Mods", "Mounts & Pets" ],
@@ -31051,11 +31520,11 @@
     "updated-date" : "2016-04-16T21:10:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info23869"
   }, {
-    "category-list" : [ "Titan Panel" ],
-    "download-count" : 1766522,
+    "category-list" : [ ],
+    "download-count" : 1769970,
     "label" : "Titan Panel",
     "name" : "titan-panel",
-    "updated-date" : "2019-04-24T23:17:00Z",
+    "updated-date" : "2019-06-28T22:00:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info8092"
   }, {
     "category-list" : [ "Titan Panel" ],
@@ -31492,18 +31961,18 @@
     "updated-date" : "2010-07-01T07:16:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info15540"
   }, {
-    "category-list" : [ "RolePlay, Music Mods" ],
-    "download-count" : 14029,
+    "category-list" : [ ],
+    "download-count" : 14664,
     "label" : "Total RP 3",
     "name" : "total-rp-3",
-    "updated-date" : "2019-04-27T09:43:00Z",
+    "updated-date" : "2019-06-27T02:37:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info24113"
   }, {
-    "category-list" : [ "Mini Games, ROFL", "RolePlay, Music Mods" ],
-    "download-count" : 2829,
+    "category-list" : [ ],
+    "download-count" : 2960,
     "label" : "Total RP 3: Extended",
     "name" : "total-rp-3-extended",
-    "updated-date" : "2019-03-03T11:48:00Z",
+    "updated-date" : "2019-06-25T13:15:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info24465"
   }, {
     "category-list" : [ "RolePlay, Music Mods" ],
@@ -31653,11 +32122,11 @@
     "updated-date" : "2010-05-01T17:01:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info16619"
   }, {
-    "category-list" : [ "Graphic UI Mods", "Miscellaneous", "Chat Mods", "Auction House & Vendors", "Utility Mods", "Other" ],
-    "download-count" : 2591,
+    "category-list" : [ ],
+    "download-count" : 2639,
     "label" : "Trade Channel Cleaner",
     "name" : "trade-channel-cleaner",
-    "updated-date" : "2019-03-19T17:06:00Z",
+    "updated-date" : "2019-06-26T14:17:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info22119"
   }, {
     "category-list" : [ "Chat Mods" ],
@@ -32647,11 +33116,11 @@
     "updated-date" : "2012-01-09T15:12:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info14985"
   }, {
-    "category-list" : [ "Raid Mods" ],
-    "download-count" : 279949,
+    "category-list" : [ ],
+    "download-count" : 281288,
     "label" : "VuhDo",
     "name" : "vuhdo",
-    "updated-date" : "2019-05-04T13:47:00Z",
+    "updated-date" : "2019-06-27T00:47:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info14239"
   }, {
     "category-list" : [ "UI Media" ],
@@ -32907,10 +33376,10 @@
     "uri" : "https://www.wowinterface.com/downloads/info21686"
   }, {
     "category-list" : [ ],
-    "download-count" : 10958,
+    "download-count" : 13372,
     "label" : "WeakAuras 2",
     "name" : "weakauras-2",
-    "updated-date" : "2019-06-15T13:56:00Z",
+    "updated-date" : "2019-06-28T13:12:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info24910"
   }, {
     "category-list" : [ "Miscellaneous" ],
@@ -32920,8 +33389,8 @@
     "updated-date" : "2012-08-29T22:39:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info20591"
   }, {
-    "category-list" : [ "Raid Mods", "Combat Mods", "Casting Bars, Cooldowns", "Utility Mods", "PvP, Arena, BattleGrounds" ],
-    "download-count" : 849,
+    "category-list" : [ ],
+    "download-count" : 1475,
     "label" : "WeaponSwingTimer",
     "name" : "weaponswingtimer",
     "updated-date" : "2019-06-11T16:51:00Z",
@@ -33158,11 +33627,11 @@
     "updated-date" : "2018-07-18T02:45:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info18752"
   }, {
-    "category-list" : [ "Miscellaneous", "Group, Guild & Friends" ],
-    "download-count" : 98,
+    "category-list" : [ ],
+    "download-count" : 148,
     "label" : "WhoTracker",
     "name" : "whotracker",
-    "updated-date" : "2019-06-07T18:37:00Z",
+    "updated-date" : "2019-06-28T04:06:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info24956"
   }, {
     "category-list" : [ "Chat Mods" ],
@@ -33816,11 +34285,11 @@
     "updated-date" : "2015-02-25T06:05:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info14368"
   }, {
-    "category-list" : [ "Character Advancement" ],
-    "download-count" : 351,
+    "category-list" : [ ],
+    "download-count" : 432,
     "label" : "XToLevel Future",
     "name" : "xtolevel-future",
-    "updated-date" : "2019-05-20T21:14:00Z",
+    "updated-date" : "2019-06-25T15:22:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info24858"
   }, {
     "category-list" : [ "UI Media" ],
@@ -35258,25 +35727,25 @@
     "updated-date" : "2016-10-31T00:00:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info24031"
   }, {
-    "category-list" : [ "Combat Mods" ],
-    "download-count" : 643,
+    "category-list" : [ ],
+    "download-count" : 679,
     "label" : "gmAggroMon",
     "name" : "gmaggromon",
-    "updated-date" : "2018-12-22T02:57:00Z",
+    "updated-date" : "2019-06-28T04:04:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info24036"
   }, {
-    "category-list" : [ "Data Broker" ],
-    "download-count" : 971,
+    "category-list" : [ ],
+    "download-count" : 1005,
     "label" : "gmAutopsy",
     "name" : "gmautopsy",
-    "updated-date" : "2018-12-22T03:05:00Z",
+    "updated-date" : "2019-06-28T04:02:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info24097"
   }, {
-    "category-list" : [ "Data Broker" ],
-    "download-count" : 608,
+    "category-list" : [ ],
+    "download-count" : 636,
     "label" : "gmBagSlots",
     "name" : "gmbagslots",
-    "updated-date" : "2019-02-16T10:35:00Z",
+    "updated-date" : "2019-06-28T03:23:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info24136"
   }, {
     "category-list" : [ "Chat Mods" ],
@@ -35286,32 +35755,32 @@
     "updated-date" : "2017-03-28T14:35:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info24364"
   }, {
-    "category-list" : [ "Bags, Bank, Inventory" ],
-    "download-count" : 1607,
+    "category-list" : [ ],
+    "download-count" : 1665,
     "label" : "gmDurability",
     "name" : "gmdurability",
-    "updated-date" : "2018-12-22T03:20:00Z",
+    "updated-date" : "2019-06-28T04:00:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info24037"
   }, {
-    "category-list" : [ "Data Broker" ],
-    "download-count" : 537,
+    "category-list" : [ ],
+    "download-count" : 581,
     "label" : "gmEquipSet",
     "name" : "gmequipset",
-    "updated-date" : "2018-12-22T03:37:00Z",
+    "updated-date" : "2019-06-28T03:55:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info24394"
   }, {
-    "category-list" : [ "Data Broker" ],
-    "download-count" : 2467,
+    "category-list" : [ ],
+    "download-count" : 2538,
     "label" : "gmExp",
     "name" : "gmexp",
-    "updated-date" : "2018-12-22T03:45:00Z",
+    "updated-date" : "2019-06-28T03:52:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info24174"
   }, {
-    "category-list" : [ "UI Media" ],
-    "download-count" : 4085,
+    "category-list" : [ ],
+    "download-count" : 4165,
     "label" : "gmFonts",
     "name" : "gmfonts",
-    "updated-date" : "2018-12-22T04:52:00Z",
+    "updated-date" : "2019-06-28T03:31:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info24024"
   }, {
     "category-list" : [ "Combat Mods", "ToolTip" ],
@@ -35328,74 +35797,74 @@
     "updated-date" : "2018-12-22T04:59:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info24033"
   }, {
-    "category-list" : [ "Data Broker" ],
-    "download-count" : 704,
+    "category-list" : [ ],
+    "download-count" : 749,
     "label" : "gmLm",
     "name" : "gmlm",
-    "updated-date" : "2018-12-22T04:00:00Z",
+    "updated-date" : "2019-06-28T03:34:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info24335"
   }, {
-    "category-list" : [ "Data Broker" ],
-    "download-count" : 1211,
+    "category-list" : [ ],
+    "download-count" : 1247,
     "label" : "gmLoot",
     "name" : "gmloot",
-    "updated-date" : "2019-03-25T23:58:00Z",
+    "updated-date" : "2019-06-28T03:16:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info23599"
   }, {
-    "category-list" : [ "Data Broker" ],
-    "download-count" : 40,
+    "category-list" : [ ],
+    "download-count" : 74,
     "label" : "gmMenu",
     "name" : "gmmenu",
-    "updated-date" : "2019-04-09T23:36:00Z",
+    "updated-date" : "2019-06-28T03:12:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info24901"
   }, {
-    "category-list" : [ "Data Broker" ],
-    "download-count" : 1410,
+    "category-list" : [ ],
+    "download-count" : 1447,
     "label" : "gmMoney",
     "name" : "gmmoney",
-    "updated-date" : "2018-12-22T04:19:00Z",
+    "updated-date" : "2019-06-28T03:49:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info23702"
   }, {
-    "category-list" : [ "Mounts & Pets" ],
-    "download-count" : 565,
+    "category-list" : [ ],
+    "download-count" : 601,
     "label" : "gmMounts",
     "name" : "gmmounts",
-    "updated-date" : "2018-12-22T04:27:00Z",
+    "updated-date" : "2019-06-28T03:46:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info24023"
   }, {
-    "category-list" : [ "Mounts & Pets" ],
-    "download-count" : 599,
+    "category-list" : [ ],
+    "download-count" : 628,
     "label" : "gmPets",
     "name" : "gmpets",
-    "updated-date" : "2018-12-22T04:32:00Z",
+    "updated-date" : "2019-06-28T03:42:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info24066"
   }, {
-    "category-list" : [ "Data Broker" ],
-    "download-count" : 483,
+    "category-list" : [ ],
+    "download-count" : 522,
     "label" : "gmProf",
     "name" : "gmprof",
-    "updated-date" : "2018-12-22T04:41:00Z",
+    "updated-date" : "2019-06-28T03:39:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info24027"
   }, {
-    "category-list" : [ "Chat Mods", "Data Broker" ],
-    "download-count" : 41,
+    "category-list" : [ ],
+    "download-count" : 68,
     "label" : "gmSay",
     "name" : "gmsay",
-    "updated-date" : "2019-03-03T14:38:00Z",
+    "updated-date" : "2019-06-28T03:19:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info24894"
   }, {
-    "category-list" : [ "Data Broker" ],
-    "download-count" : 661,
+    "category-list" : [ ],
+    "download-count" : 687,
     "label" : "gmSpecs",
     "name" : "gmspecs",
-    "updated-date" : "2018-12-22T04:45:00Z",
+    "updated-date" : "2019-06-28T03:36:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info24096"
   }, {
-    "category-list" : [ "Data Broker" ],
-    "download-count" : 1039,
+    "category-list" : [ ],
+    "download-count" : 1082,
     "label" : "gmSpeed",
     "name" : "gmspeed",
-    "updated-date" : "2019-05-05T04:02:00Z",
+    "updated-date" : "2019-06-28T03:08:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info24030"
   }, {
     "category-list" : [ "Data Broker" ],
@@ -35699,8 +36168,8 @@
     "updated-date" : "2014-08-10T09:04:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info23033"
   }, {
-    "category-list" : [ "ToolTip", "Buff, Debuff, Spell" ],
-    "download-count" : 19362,
+    "category-list" : [ ],
+    "download-count" : 19625,
     "label" : "idTip",
     "name" : "idtip",
     "updated-date" : "2019-06-13T11:58:00Z",
@@ -35930,11 +36399,11 @@
     "updated-date" : "2017-09-10T10:54:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info24472"
   }, {
-    "category-list" : [ "Action Bar Mods", "Suites", "Unit Mods" ],
-    "download-count" : 35463,
+    "category-list" : [ ],
+    "download-count" : 62419,
     "label" : "ls: UI",
     "name" : "ls-ui",
-    "updated-date" : "2019-06-12T04:31:00Z",
+    "updated-date" : "2019-06-26T05:26:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info22662"
   }, {
     "category-list" : [ "Character Advancement" ],
@@ -36658,11 +37127,11 @@
     "updated-date" : "2010-07-12T15:49:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info7962"
   }, {
-    "category-list" : [ "Raid Mods" ],
-    "download-count" : 31937,
+    "category-list" : [ ],
+    "download-count" : 32080,
     "label" : "oRA3",
     "name" : "ora3",
-    "updated-date" : "2019-01-23T21:42:00Z",
+    "updated-date" : "2019-06-25T21:15:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info14635"
   }, {
     "category-list" : [ "Warlock" ],
@@ -36763,11 +37232,11 @@
     "updated-date" : "2016-09-29T15:41:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info11078"
   }, {
-    "category-list" : [ "Unit Mods" ],
-    "download-count" : 71,
+    "category-list" : [ ],
+    "download-count" : 235,
     "label" : "oUF_Ruri",
     "name" : "ouf-ruri",
-    "updated-date" : "2019-06-12T14:25:00Z",
+    "updated-date" : "2019-06-26T23:51:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info24945"
   }, {
     "category-list" : [ "Unit Mods" ],
@@ -37897,11 +38366,11 @@
     "updated-date" : "2018-07-19T05:50:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info17602"
   }, {
-    "category-list" : [ "Action Bar Mods" ],
-    "download-count" : 59757,
+    "category-list" : [ ],
+    "download-count" : 59964,
     "label" : "tullaRange",
     "name" : "tullarange",
-    "updated-date" : "2018-07-18T19:10:00Z",
+    "updated-date" : "2019-06-24T19:43:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info15636"
   }, {
     "category-list" : [ "Unit Mods" ],
@@ -38087,10 +38556,10 @@
     "uri" : "https://www.wowinterface.com/downloads/info12862"
   }, {
     "category-list" : [ ],
-    "download-count" : 2223,
+    "download-count" : 2332,
     "label" : "weizPVP",
     "name" : "weizpvp",
-    "updated-date" : "2019-06-21T15:39:00Z",
+    "updated-date" : "2019-06-24T21:07:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info24779"
   }, {
     "category-list" : [ "Raid Mods" ],
@@ -38457,11 +38926,11 @@
     "updated-date" : "2011-03-25T17:11:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info19560"
   }, {
-    "category-list" : [ "Casting Bars, Cooldowns" ],
-    "download-count" : 1464,
+    "category-list" : [ ],
+    "download-count" : 1520,
     "label" : "zzCR",
     "name" : "zzcr",
-    "updated-date" : "2018-12-12T07:23:00Z",
+    "updated-date" : "2019-06-29T10:17:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info23280"
   }, {
     "category-list" : [ "Action Bar Mods" ],
@@ -38471,18 +38940,18 @@
     "updated-date" : "2012-05-06T04:17:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info21069"
   }, {
-    "category-list" : [ "Data Broker" ],
-    "download-count" : 4753,
+    "category-list" : [ ],
+    "download-count" : 4797,
     "label" : "zz_Bags",
     "name" : "zz-bags",
-    "updated-date" : "2018-12-12T07:25:00Z",
+    "updated-date" : "2019-06-29T10:18:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info18952"
   }, {
-    "category-list" : [ "Unit Mods" ],
-    "download-count" : 2432,
+    "category-list" : [ ],
+    "download-count" : 2460,
     "label" : "zz_BossPercent",
     "name" : "zz-bosspercent",
-    "updated-date" : "2018-12-12T07:23:00Z",
+    "updated-date" : "2019-06-29T10:16:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info20358"
   }, {
     "category-list" : [ "Data Broker" ],
@@ -38492,11 +38961,11 @@
     "updated-date" : "2011-04-27T05:01:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info19176"
   }, {
-    "category-list" : [ "Map, Coords, Compasses" ],
-    "download-count" : 13036,
+    "category-list" : [ ],
+    "download-count" : 13146,
     "label" : "zz_Coords",
     "name" : "zz-coords",
-    "updated-date" : "2018-12-12T07:26:00Z",
+    "updated-date" : "2019-06-29T10:19:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info15431"
   }, {
     "category-list" : [ "Miscellaneous" ],
@@ -38506,60 +38975,60 @@
     "updated-date" : "2011-07-02T04:01:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info18704"
   }, {
-    "category-list" : [ "Data Broker" ],
-    "download-count" : 5775,
+    "category-list" : [ ],
+    "download-count" : 5825,
     "label" : "zz_Friends",
     "name" : "zz-friends",
-    "updated-date" : "2018-12-12T07:25:00Z",
+    "updated-date" : "2019-06-29T10:18:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info18761"
   }, {
-    "category-list" : [ "Garrisons" ],
-    "download-count" : 2476,
+    "category-list" : [ ],
+    "download-count" : 2518,
     "label" : "zz_GarrisonToggle",
     "name" : "zz-garrisontoggle",
-    "updated-date" : "2019-01-30T06:28:00Z",
+    "updated-date" : "2019-06-29T10:17:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info23044"
   }, {
-    "category-list" : [ "Data Broker" ],
-    "download-count" : 6868,
+    "category-list" : [ ],
+    "download-count" : 6936,
     "label" : "zz_Infoclock",
     "name" : "zz-infoclock",
-    "updated-date" : "2018-12-12T07:25:00Z",
+    "updated-date" : "2019-06-29T10:19:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info15497"
   }, {
-    "category-list" : [ "Data Broker" ],
-    "download-count" : 4331,
+    "category-list" : [ ],
+    "download-count" : 4385,
     "label" : "zz_Mailbox",
     "name" : "zz-mailbox",
-    "updated-date" : "2018-12-12T07:23:00Z",
+    "updated-date" : "2019-06-29T10:16:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info20501"
   }, {
-    "category-list" : [ "Miscellaneous" ],
-    "download-count" : 7960,
+    "category-list" : [ ],
+    "download-count" : 8032,
     "label" : "zz_MiscHelper",
     "name" : "zz-mischelper",
-    "updated-date" : "2019-01-05T17:33:00Z",
+    "updated-date" : "2019-06-29T10:18:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info15492"
   }, {
-    "category-list" : [ "Data Broker" ],
-    "download-count" : 14471,
+    "category-list" : [ ],
+    "download-count" : 14556,
     "label" : "zz_Money",
     "name" : "zz-money",
-    "updated-date" : "2018-12-12T07:26:00Z",
+    "updated-date" : "2019-06-29T10:18:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info15621"
   }, {
-    "category-list" : [ "Data Broker" ],
-    "download-count" : 12655,
+    "category-list" : [ ],
+    "download-count" : 12738,
     "label" : "zz_Repair",
     "name" : "zz-repair",
-    "updated-date" : "2018-12-12T07:26:00Z",
+    "updated-date" : "2019-06-29T10:19:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info15491"
   }, {
-    "category-list" : [ "Data Broker" ],
-    "download-count" : 3014,
+    "category-list" : [ ],
+    "download-count" : 3053,
     "label" : "zz_Taunted",
     "name" : "zz-taunted",
-    "updated-date" : "2018-12-12T07:25:00Z",
+    "updated-date" : "2019-06-29T10:18:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info16973"
   }, {
     "category-list" : [ "Data Broker" ],
@@ -38569,18 +39038,18 @@
     "updated-date" : "2015-07-13T11:15:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info21931"
   }, {
-    "category-list" : [ "Data Broker" ],
-    "download-count" : 203,
+    "category-list" : [ ],
+    "download-count" : 226,
     "label" : "zz_ainfo",
     "name" : "zz-ainfo",
-    "updated-date" : "2018-12-12T07:22:00Z",
+    "updated-date" : "2019-06-29T10:17:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info24798"
   }, {
-    "category-list" : [ "Bags, Bank, Inventory" ],
-    "download-count" : 1783,
+    "category-list" : [ ],
+    "download-count" : 1858,
     "label" : "zz_itemsdb",
     "name" : "zz-itemsdb",
-    "updated-date" : "2019-02-14T18:35:00Z",
+    "updated-date" : "2019-06-29T10:16:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info24579"
   } ]
 }
