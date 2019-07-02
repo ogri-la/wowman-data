@@ -32,5 +32,5 @@ jobs:
                 provider: releases
                 api_key: $GITHUB_TOKEN
                 file: "catalog.json"
-                skip_cleanup: true
+                skip_cleanup: false # changed from true. 
                 overwrite: true # https://docs.travis-ci.com/user/deployment/releases/#overwrite-existing-files-on-the-release
