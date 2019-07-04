@@ -8,7 +8,7 @@ function cleanup {
 }
 
 if [ ! -d wowman ]; then
-    git clone --single-branch --branch master https://github.com/ogri-la/wowman
+    git clone --single-branch --branch develop https://github.com/ogri-la/wowman
 fi
 commit_message=""
 (
