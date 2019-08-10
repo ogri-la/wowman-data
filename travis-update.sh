@@ -19,6 +19,7 @@ fi
     fi
 )
 
+# used in .travis-update.sh as the commit message
 if [ "$(date +%A)" = "Monday" ]; then
     echo "weekly full update" > commit-message.txt
 else
