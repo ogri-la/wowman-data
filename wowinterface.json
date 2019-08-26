@@ -4,7 +4,7 @@
   },
   "datestamp" : "2019-08-27",
   "updated-datestamp" : "2019-08-27",
-  "total" : 5560,
+  "total" : 5576,
   "addon-summary-list" : [ {
     "category-list" : [ "Mini Games, ROFL" ],
     "download-count" : 3060,
@@ -1438,6 +1438,14 @@
     "updated-date" : "2014-10-18T18:09:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info22701"
   }, {
+    "category-list" : [ "Classic - General" ],
+    "download-count" : 3066,
+    "label" : "AntonilzUI",
+    "name" : "antonilzui",
+    "source-id" : 25096,
+    "updated-date" : "2019-08-24T13:20:00Z",
+    "uri" : "https://www.wowinterface.com/downloads/info25096"
+  }, {
     "category-list" : [ "Raid Mods" ],
     "download-count" : 26761,
     "label" : "Antorus Raid Mods",
@@ -2054,8 +2062,8 @@
     "updated-date" : "2012-09-12T10:30:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info10924"
   }, {
-    "category-list" : [ "Data Mods" ],
-    "download-count" : 1065,
+    "category-list" : [ "Classic - General", "Data Mods" ],
+    "download-count" : 1085,
     "label" : "Auction DB Classic",
     "name" : "auction-db-classic",
     "source-id" : 25159,
@@ -2405,6 +2413,14 @@
     "source-id" : 5502,
     "updated-date" : "2019-04-08T02:33:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info5502"
+  }, {
+    "category-list" : [ "Classic - General" ],
+    "download-count" : 288,
+    "label" : "AutoBiographer",
+    "name" : "autobiographer",
+    "source-id" : 25178,
+    "updated-date" : "2019-08-25T22:37:00Z",
+    "uri" : "https://www.wowinterface.com/downloads/info25178"
   }, {
     "category-list" : [ "Chat Mods" ],
     "download-count" : 1712,
@@ -4078,8 +4094,8 @@
     "updated-date" : "2010-10-16T07:01:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info13439"
   }, {
-    "category-list" : [ "Bags, Bank, Inventory", "Auction House & Vendors" ],
-    "download-count" : 15605,
+    "category-list" : [ "Classic - General", "Bags, Bank, Inventory", "Auction House & Vendors" ],
+    "download-count" : 15663,
     "label" : "Better Vendor Price",
     "name" : "better-vendor-price",
     "source-id" : 25078,
@@ -8254,6 +8270,14 @@
     "updated-date" : "2019-08-18T21:17:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info25141"
   }, {
+    "category-list" : [ "Classic - General" ],
+    "download-count" : 9461,
+    "label" : "ClassicLFG",
+    "name" : "classiclfg",
+    "source-id" : 25056,
+    "updated-date" : "2019-08-25T10:23:00Z",
+    "uri" : "https://www.wowinterface.com/downloads/info25056"
+  }, {
     "category-list" : [ "Death Knight" ],
     "download-count" : 6251,
     "label" : "ClassicPowerText",
@@ -8261,6 +8285,14 @@
     "source-id" : 11832,
     "updated-date" : "2010-11-27T12:30:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info11832"
+  }, {
+    "category-list" : [ "Classic - General" ],
+    "download-count" : 6281,
+    "label" : "ClassicThreatMeter",
+    "name" : "classicthreatmeter",
+    "source-id" : 25165,
+    "updated-date" : "2019-08-24T05:56:00Z",
+    "uri" : "https://www.wowinterface.com/downloads/info25165"
   }, {
     "category-list" : [ "Action Bar Mods" ],
     "download-count" : 4351,
@@ -10302,6 +10334,14 @@
     "updated-date" : "2019-08-21T13:04:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info21469"
   }, {
+    "category-list" : [ "Classic - General" ],
+    "download-count" : 56216,
+    "label" : "Deadly Boss Mods - Classic",
+    "name" : "deadly-boss-mods-classic",
+    "source-id" : 24921,
+    "updated-date" : "2019-08-24T14:22:00Z",
+    "uri" : "https://www.wowinterface.com/downloads/info24921"
+  }, {
     "category-list" : [ "Raid Mods" ],
     "download-count" : 22444,
     "label" : "Deadly Boss Mods - Mists of Pandaria mods",
@@ -10646,8 +10686,8 @@
     "updated-date" : "2019-08-23T16:12:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info25125"
   }, {
-    "category-list" : [ "Combat Mods", "Data Mods", "Buff, Debuff, Spell", "Character Advancement" ],
-    "download-count" : 1095,
+    "category-list" : [ "Classic - General", "Combat Mods", "Data Mods", "Buff, Debuff, Spell", "Character Advancement" ],
+    "download-count" : 1102,
     "label" : "DejaClassicStats",
     "name" : "dejaclassicstats",
     "source-id" : 25118,
@@ -10678,8 +10718,8 @@
     "updated-date" : "2019-08-13T20:22:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info25131"
   }, {
-    "category-list" : [ "Map, Coords, Compasses" ],
-    "download-count" : 4392,
+    "category-list" : [ "Classic - General", "Map, Coords, Compasses" ],
+    "download-count" : 4395,
     "label" : "DejaMinimap",
     "name" : "dejaminimap",
     "source-id" : 21657,
@@ -10742,8 +10782,8 @@
     "updated-date" : "2019-08-16T06:17:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info23145"
   }, {
-    "category-list" : [ "Map, Coords, Compasses", "Action Bar Mods", "Chat Mods", "Casting Bars, Cooldowns", "Unit Mods" ],
-    "download-count" : 17,
+    "category-list" : [ "Classic - General", "Map, Coords, Compasses", "Action Bar Mods", "Chat Mods", "Casting Bars, Cooldowns", "Unit Mods" ],
+    "download-count" : 20,
     "label" : "DejaViewClassic",
     "name" : "dejaviewclassic",
     "source-id" : 25181,
@@ -11798,7 +11838,7 @@
     "updated-date" : "2019-08-22T14:34:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info22801"
   }, {
-    "category-list" : [ "Group, Guild & Friends" ],
+    "category-list" : [ "Classic - General", "Group, Guild & Friends" ],
     "download-count" : 856,
     "label" : "DynamicBoxer",
     "name" : "dynamicboxer",
@@ -13845,6 +13885,14 @@
     "source-id" : 22019,
     "updated-date" : "2013-02-01T15:32:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info22019"
+  }, {
+    "category-list" : [ "Classic - General" ],
+    "download-count" : 561,
+    "label" : "Field Guide",
+    "name" : "field-guide",
+    "source-id" : 25176,
+    "updated-date" : "2019-08-25T19:28:00Z",
+    "uri" : "https://www.wowinterface.com/downloads/info25176"
   }, {
     "category-list" : [ "Data Mods" ],
     "download-count" : 37871,
@@ -16462,6 +16510,14 @@
     "updated-date" : "2016-09-29T10:14:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info24236"
   }, {
+    "category-list" : [ "Classic - General" ],
+    "download-count" : 421,
+    "label" : "GroupCalendar",
+    "name" : "groupcalendar",
+    "source-id" : 25167,
+    "updated-date" : "2019-08-25T07:31:00Z",
+    "uri" : "https://www.wowinterface.com/downloads/info25167"
+  }, {
     "category-list" : [ "Group, Guild & Friends" ],
     "download-count" : 3893,
     "label" : "Grouper",
@@ -17405,6 +17461,14 @@
     "source-id" : 25170,
     "updated-date" : "2019-08-25T11:23:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info25170"
+  }, {
+    "category-list" : [ "Classic - General" ],
+    "download-count" : 127,
+    "label" : "Helm Hide Classic",
+    "name" : "helm-hide-classic",
+    "source-id" : 25171,
+    "updated-date" : "2019-08-25T11:28:00Z",
+    "uri" : "https://www.wowinterface.com/downloads/info25171"
   }, {
     "category-list" : [ "Combat Mods" ],
     "download-count" : 3029,
@@ -19126,8 +19190,8 @@
     "updated-date" : "2019-07-05T11:51:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info4148"
   }, {
-    "category-list" : [ "ToolTip" ],
-    "download-count" : 1156,
+    "category-list" : [ "Classic - General", "ToolTip" ],
+    "download-count" : 1161,
     "label" : "ItemTooltipProfessionIcons",
     "name" : "itemtooltipprofessionicons",
     "source-id" : 25160,
@@ -23022,6 +23086,14 @@
     "updated-date" : "2011-08-21T09:24:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info20246"
   }, {
+    "category-list" : [ "Classic - General" ],
+    "download-count" : 157,
+    "label" : "MerInspect(Classic)",
+    "name" : "merinspect-classic",
+    "source-id" : 25163,
+    "updated-date" : "2019-08-23T19:45:00Z",
+    "uri" : "https://www.wowinterface.com/downloads/info25163"
+  }, {
     "category-list" : [ "Miscellaneous", "Bags, Bank, Inventory" ],
     "download-count" : 596,
     "label" : "Merchant & Bank Tools",
@@ -23734,8 +23806,8 @@
     "updated-date" : "2010-04-08T14:50:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info14573"
   }, {
-    "category-list" : [ "Raid Mods", "Group, Guild & Friends", "Data Mods" ],
-    "download-count" : 1030,
+    "category-list" : [ "Classic - General", "Raid Mods", "Group, Guild & Friends", "Data Mods" ],
+    "download-count" : 1032,
     "label" : "Monolith DKP",
     "name" : "monolith-dkp",
     "source-id" : 25094,
@@ -28366,6 +28438,14 @@
     "updated-date" : "2016-07-09T07:49:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info19369"
   }, {
+    "category-list" : [ "Classic - General" ],
+    "download-count" : 102497,
+    "label" : "Questie",
+    "name" : "questie",
+    "source-id" : 24994,
+    "updated-date" : "2019-08-23T18:20:00Z",
+    "uri" : "https://www.wowinterface.com/downloads/info24994"
+  }, {
     "category-list" : [ "Character Advancement" ],
     "download-count" : 2060,
     "label" : "Questmymap - fan update",
@@ -31254,6 +31334,14 @@
     "updated-date" : "2011-08-13T12:05:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info20019"
   }, {
+    "category-list" : [ "Classic - General" ],
+    "download-count" : 35,
+    "label" : "Server Friends Only",
+    "name" : "server-friends-only",
+    "source-id" : 25179,
+    "updated-date" : "2019-08-26T02:33:00Z",
+    "uri" : "https://www.wowinterface.com/downloads/info25179"
+  }, {
     "category-list" : [ "Chat Mods" ],
     "download-count" : 1316,
     "label" : "Server Ignore",
@@ -33245,6 +33333,14 @@
     "source-id" : 18206,
     "updated-date" : "2019-08-24T01:36:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info18206"
+  }, {
+    "category-list" : [ "Classic - General" ],
+    "download-count" : 2467,
+    "label" : "SpartanUI Classic",
+    "name" : "spartanui-classic",
+    "source-id" : 25088,
+    "updated-date" : "2019-08-24T01:38:00Z",
+    "uri" : "https://www.wowinterface.com/downloads/info25088"
   }, {
     "category-list" : [ "UI Media" ],
     "download-count" : 2171,
@@ -35726,6 +35822,14 @@
     "updated-date" : "2019-08-09T10:06:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info24688"
   }, {
+    "category-list" : [ "Classic - General" ],
+    "download-count" : 956,
+    "label" : "TinyTooltip(Classic)",
+    "name" : "tinytooltip-classic",
+    "source-id" : 25164,
+    "updated-date" : "2019-08-23T19:57:00Z",
+    "uri" : "https://www.wowinterface.com/downloads/info25164"
+  }, {
     "category-list" : [ "Graphic UI Mods", "Bags, Bank, Inventory", "ToolTip", "Data Mods", "Mounts & Pets" ],
     "download-count" : 3064,
     "label" : "Tip",
@@ -35837,6 +35941,14 @@
     "source-id" : 8092,
     "updated-date" : "2019-08-09T03:40:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info8092"
+  }, {
+    "category-list" : [ "Classic - General" ],
+    "download-count" : 14794,
+    "label" : "Titan Panel Classic",
+    "name" : "titan-panel-classic",
+    "source-id" : 25085,
+    "updated-date" : "2019-08-25T21:39:00Z",
+    "uri" : "https://www.wowinterface.com/downloads/info25085"
   }, {
     "category-list" : [ "Titan Panel" ],
     "download-count" : 39255,
@@ -37982,6 +38094,14 @@
     "updated-date" : "2019-08-25T19:05:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info24910"
   }, {
+    "category-list" : [ "Classic - General" ],
+    "download-count" : 49387,
+    "label" : "WeakAuras 2 Classic",
+    "name" : "weakauras-2-classic",
+    "source-id" : 24944,
+    "updated-date" : "2019-08-25T19:10:00Z",
+    "uri" : "https://www.wowinterface.com/downloads/info24944"
+  }, {
     "category-list" : [ "Miscellaneous" ],
     "download-count" : 3647,
     "label" : "WeakAuras_GTFO",
@@ -37990,8 +38110,8 @@
     "updated-date" : "2012-08-29T22:39:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info20591"
   }, {
-    "category-list" : [ "Raid Mods", "Combat Mods", "Casting Bars, Cooldowns", "Utility Mods", "PvP, Arena, BattleGrounds" ],
-    "download-count" : 24996,
+    "category-list" : [ "Classic - General", "Raid Mods", "Combat Mods", "Casting Bars, Cooldowns", "Utility Mods", "PvP, Arena, BattleGrounds" ],
+    "download-count" : 25115,
     "label" : "WeaponSwingTimer",
     "name" : "weaponswingtimer",
     "source-id" : 25004,
@@ -39021,6 +39141,14 @@
     "source-id" : 14368,
     "updated-date" : "2015-02-25T06:05:00Z",
     "uri" : "https://www.wowinterface.com/downloads/info14368"
+  }, {
+    "category-list" : [ "Classic - General" ],
+    "download-count" : 62,
+    "label" : "XToLevel Classic",
+    "name" : "xtolevel-classic",
+    "source-id" : 25182,
+    "updated-date" : "2019-08-26T03:37:00Z",
+    "uri" : "https://www.wowinterface.com/downloads/info25182"
   }, {
     "category-list" : [ "Character Advancement" ],
     "download-count" : 507,
