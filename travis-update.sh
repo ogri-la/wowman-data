@@ -5,6 +5,12 @@ export XDG_CONFIG_HOME="$(pwd)"
 
 if [ ! -d wowman ]; then
     git clone --single-branch --branch develop https://github.com/ogri-la/wowman
+else
+    (
+        cd wowman
+        git reset --hard
+        git pull
+    )
 fi
 
 (
