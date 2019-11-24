@@ -19,3 +19,4 @@ fi
 )
 
 echo "$(date -I) complete catalog update" > commit-message.txt
+cp full-catalog.json catalog.json
