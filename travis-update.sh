@@ -19,4 +19,5 @@ fi
 )
 
 echo "$(date -I) complete catalog update" > commit-message.txt
+cp wowman/*-catalog.json .
 cp full-catalog.json catalog.json
